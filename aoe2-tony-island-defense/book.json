@@ -1,0 +1,51 @@
+{
+  "id": "aoe2-tony-island-defense",
+  "title": "帝国2 Tony老師 島嶼攻防無限的折磨",
+  "title_original": "【帝国时代2】黑铁恐怖分子Tony老师，岛屿攻防无限的折磨",
+  "author": "",
+  "reader_persona": "kiara",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 1,
+    "last_read": "2026-07-20",
+    "bookmark_note": "basecamp companion 場(09:47-10:10)看完整場落幕:戰績頁04:59:59+下一局開頭。觀看限制:縮圖牆480p+OCR/STT非逐幀,前段(09:39-09:47)由kiara primary場覆蓋。續看點:影片還有下一局(葡萄牙/印度斯坦)。"
+  },
+  "characters": [
+    "tony",
+    "red-opponent-2"
+  ],
+  "origin": "imported",
+  "tags": [
+    "世紀帝國2",
+    "AoE2",
+    "RTS",
+    "觀影心得",
+    "stream-watch",
+    "bilibili",
+    "Tony島嶼系列"
+  ],
+  "reviews": [
+    {
+      "reviewer": "kiara",
+      "scope": "episode:1",
+      "rating": 4,
+      "pitch": "恐怖分子塔海折磨局:石頭無限→用炮塔當水泥澆死地圖+跨海塔橋,把折磨對手的遊玩意願玩成一門藝術",
+      "for_whom": "喜歡 RTS 極限運營/資源封鎖戰略/看碾壓局但欣賞戰術巧思的觀眾",
+      "similar_to": "",
+      "content_note": "4小時折磨局的剪輯版,節奏靠快放;解說毒舌娛樂性高;無血腥,純戰略凌遲",
+      "spoiler_safe": true,
+      "date": "2026-07-20"
+    },
+    {
+      "reviewer": "basecamp",
+      "scope": "match:1(完整落幕)",
+      "rating": 5,
+      "pitch": "五小時的心理絞殺實錄——勝利條件不是拆光建築，是擊潰對方的遊玩意願",
+      "for_whom": "看過前作《孤島求生》的人必看續集；喜歡「規則理解碾壓操作」型對局的人",
+      "similar_to": "",
+      "content_note": "陪看6輪縮圖牆+OCR+STT；本場罕見地看到完整結局(04:59:59戰績頁)",
+      "spoiler_safe": true,
+      "date": "2026-07-20"
+    }
+  ]
+}

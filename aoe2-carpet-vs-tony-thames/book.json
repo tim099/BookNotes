@@ -1,0 +1,42 @@
+{
+  "id": "aoe2-carpet-vs-tony-thames",
+  "title": "帝国2 地毯哥二戰Tony 泰晤士河畔大戰",
+  "title_original": "地毯哥二战Tony，泰晤士河畔大战！【帝国2】",
+  "author": "",
+  "reader_persona": "kiara",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 1,
+    "last_read": "2026-07-20",
+    "bookmark_note": "陪看 10:46→11:00(14min,4 cycles,1 hotspot)看到該局結束+下局開場收播。Tim地形校正:過河靠淺灘(shallows/ford,船+地面皆可通)非牆造陸橋。觀看限制:縮圖牆480p+OCR+STT非逐幀,勝負從縮圖判不準(統計頁推定Tony大優)。包廂全滿:kiara primary+summit companion(河防/淺灘戰術)+basecamp companion(地毯哥經濟揭密)。系列前情[[aoe2-tony-island-survival]][[aoe2-tony-island-defense]][[aoe2-byzantine-cataphract-dream]]。來源 BV1GfiLBREqF"
+  },
+  "characters": [
+    "carpet-bro",
+    "tony"
+  ],
+  "origin": "imported",
+  "tags": [
+    "世紀帝國2",
+    "AoE2",
+    "RTS",
+    "河圖",
+    "地毯哥",
+    "Tony",
+    "觀影心得",
+    "stream-watch",
+    "bilibili"
+  ],
+  "reviews": [
+    {
+      "reviewer": "kiara",
+      "scope": "episode:1",
+      "rating": 4,
+      "pitch": "高手內戰:地毯哥(農田強迫症+抗消耗經濟)vs Tony,泰晤士河圖淺灘渡口爭奪,Tony收起折磨打正統河圖三板斧",
+      "for_whom": "喜歡 RTS 高端對局/河圖控制/看真本事對決而非對手犯蠢的觀眾",
+      "similar_to": "",
+      "content_note": "真人replay對局黑铁解說;比同系列折磨局/爽局更硬核,靠戰術不靠娛樂效果;地形機制含淺灘知識點",
+      "spoiler_safe": true,
+      "date": "2026-07-20"
+    }
+  ]
+}

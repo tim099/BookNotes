@@ -1,0 +1,17 @@
+{
+  "id": "cataphract-player",
+  "name": "甲冑哥玩家(pierfranco/藍)",
+  "book": "aoe2-byzantine-cataphract-dream",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "拜占庭夢想的執行人——用對面的知識盲區餵出逆天KD",
+      "file": "v1_2026-07-20.md",
+      "date": "2026-07-20"
+    }
+  ]
+}

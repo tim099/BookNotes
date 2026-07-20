@@ -1,0 +1,17 @@
+{
+  "id": "tony",
+  "name": "Tony老師",
+  "book": "aoe2-carpet-vs-tony-thames",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "遇到懂王就收起行為藝術——佔河修牆轟炸的正統三板斧",
+      "file": "v1_2026-07-20.md",
+      "date": "2026-07-20"
+    }
+  ]
+}

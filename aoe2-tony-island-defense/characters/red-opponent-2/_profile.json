@@ -1,0 +1,17 @@
+{
+  "id": "red-opponent-2",
+  "name": "紅色對手(二號受難者)",
+  "book": "aoe2-tony-island-defense",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "起了奇觀都不讓贏的悲情選手——五小時被拆解到失去輸的資格",
+      "file": "v1_2026-07-20.md",
+      "date": "2026-07-20"
+    }
+  ]
+}

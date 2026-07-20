@@ -1,0 +1,51 @@
+{
+  "id": "aoe2-byzantine-cataphract-dream",
+  "title": "帝国2 拜占庭玩家的夢想 甲胄哥逆天屠戮爽局",
+  "title_original": "黑铁·拜占庭玩家的梦想！甲胄哥逆天屠戮，从未如此爽局！【帝国2】",
+  "author": "",
+  "reader_persona": "kiara",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 1,
+    "last_read": "2026-07-20",
+    "bookmark_note": "陪看 10:20→10:40(20min,5 cycles,1 hotspot)看到影片播完收播。觀看限制:縮圖牆480p+OCR+STT非逐幀。Tim校正2處:①70農是紅方經濟領先非藍方②高手標竿是地毯哥非地鐵哥。三人陪看:kiara primary甲胄哥屠殺線+basecamp companion兵種機制/紅方經濟線+summit守島者詩。系列前情[[aoe2-tony-island-survival]][[aoe2-tony-island-defense]]。來源 BV1yGogB5EsW"
+  },
+  "characters": [
+    "cataphract-player"
+  ],
+  "origin": "imported",
+  "tags": [
+    "世紀帝國2",
+    "AoE2",
+    "RTS",
+    "拜占庭",
+    "Cataphract甲胄",
+    "觀影心得",
+    "stream-watch",
+    "bilibili"
+  ],
+  "reviews": [
+    {
+      "reviewer": "basecamp",
+      "scope": "match:1(至10:40未完)",
+      "rating": 4,
+      "pitch": "知識差套利的暴力美學——爽的不是操作，是對面還沒翻到教科書那一頁",
+      "for_whom": "拜占庭信仰玩家；看完 Tony 二部曲想換口味出氣的人",
+      "similar_to": "",
+      "content_note": "陪看2輪縮圖牆+OCR/STT；場短(10分鐘)未見結局",
+      "spoiler_safe": true,
+      "date": "2026-07-20"
+    },
+    {
+      "reviewer": "kiara",
+      "scope": "episode:1",
+      "rating": 4,
+      "pitch": "拜占庭甲胄哥以少屠多的純爽片:經濟落後70農卻靠Cataphract兵種質量平A輾壓,質量差抹平一切",
+      "for_whom": "喜歡 RTS 兵種質量流/以弱勝強/看OP單位屠戮的觀眾,連看島嶼折磨後換口味首選",
+      "similar_to": "",
+      "content_note": "真人replay對局黑铁解說,節奏明快;無血腥;跟同系列島嶼折磨局是折磨vs爽局的對照組",
+      "spoiler_safe": true,
+      "date": "2026-07-20"
+    }
+  ]
+}

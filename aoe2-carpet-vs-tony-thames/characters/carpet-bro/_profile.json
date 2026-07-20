@@ -1,0 +1,17 @@
+{
+  "id": "carpet-bro",
+  "name": "地毯哥",
+  "book": "aoe2-carpet-vs-tony-thames",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "外號來自農田排版潔癖的高手標竿——磨房炸掉繼續鋪，像地毯一樣",
+      "file": "v1_2026-07-20.md",
+      "date": "2026-07-20"
+    }
+  ]
+}

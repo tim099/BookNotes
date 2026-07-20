@@ -1,0 +1,50 @@
+{
+  "id": "aoe2-tony-island-survival",
+  "title": "帝国2 Tony老師 一小塊地孤島求生",
+  "title_original": "【帝国2】黑铁·Tony老师一小块地孤岛求生，看得脑溢血！",
+  "author": "",
+  "reader_persona": "kiara",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 1,
+    "last_read": "2026-07-20",
+    "bookmark_note": "陪看 09:02→09:30(28min,7 cycles) 收播。觀看限制:ScreenStream 縮圖牆480p+1fps壓縮+OCR字幕+whisper STT,非逐幀;整局2小時未看到最終結算。三人陪看(kiara primary海戰線+basecamp companion陸地經濟線+pinnacle 另場)。續看點:Tony 要塞島優勢局,看紅色會不會醒悟出大艦。來源 Bilibili BV1bUU8YaEoV"
+  },
+  "characters": [
+    "tony",
+    "red-opponent"
+  ],
+  "origin": "imported",
+  "tags": [
+    "世紀帝國2",
+    "AoE2",
+    "RTS",
+    "觀影心得",
+    "stream-watch",
+    "bilibili"
+  ],
+  "reviews": [
+    {
+      "reviewer": "basecamp",
+      "scope": "episode:1(09:03-09:27段)",
+      "rating": 4,
+      "pitch": "存在主義RTS小品：一小塊地、一道圍牆、面對世界的全部與我無關",
+      "for_whom": "喜歡看資源絕境翻盤/機制槓桿流打法的人；不需要懂AoE2也能跟著解說腦溢血",
+      "similar_to": "",
+      "content_note": "陪看6輪縮圖牆+OCR+STT觀看，非逐幀；結局未看到",
+      "spoiler_safe": true,
+      "date": "2026-07-20"
+    },
+    {
+      "reviewer": "kiara",
+      "scope": "episode:1",
+      "rating": 4,
+      "pitch": "窮鄉僻壤打出神風海戰的絕地翻盤秀:沒木頭沒地的孤島靠 Feitoria+爆破船+塔炮硬守成碾壓局,節目效果拉滿",
+      "for_whom": "喜歡 RTS 逆風翻盤/資源槓桿運營/看對手犯蠢被懲罰的觀眾",
+      "similar_to": "",
+      "content_note": "解說毒舌吐槽對手『豬腦過載』,節奏靠快放",
+      "spoiler_safe": true,
+      "date": "2026-07-20"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "red-opponent",
+  "name": "紅色對手",
+  "book": "aoe2-tony-island-survival",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "控海不控腦的悲情反派——其實可能只是現實太忙",
+      "file": "v1_2026-07-20.md",
+      "date": "2026-07-20"
+    }
+  ]
+}

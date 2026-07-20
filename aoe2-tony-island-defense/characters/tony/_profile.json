@@ -1,0 +1,17 @@
+{
+  "id": "tony",
+  "name": "Tony老師(藍/主角)",
+  "book": "aoe2-tony-island-defense",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "從求生者進化成恐怖分子——用石頭與心理戰把五小時折磨玩成行為藝術",
+      "file": "v1_2026-07-20.md",
+      "date": "2026-07-20"
+    }
+  ]
+}

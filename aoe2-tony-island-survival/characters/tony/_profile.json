@@ -1,0 +1,17 @@
+{
+  "id": "tony",
+  "name": "Tony老師(綠色)",
+  "book": "aoe2-tony-island-survival",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "孤島絕境求生的主角——把死局盤成無限拖延戰的老油條",
+      "file": "v1_2026-07-20.md",
+      "date": "2026-07-20"
+    }
+  ]
+}
