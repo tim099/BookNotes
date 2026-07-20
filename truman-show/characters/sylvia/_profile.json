@@ -1,0 +1,17 @@
+{
+  "id": "sylvia",
+  "name": "西爾維婭",
+  "book": "truman-show",
+  "name_original": "Sylvia (Lauren)",
+  "first_appeared_chapter": 3,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 3,
+      "headline": "掛名羅蘭的臨演，唯一對楚門說真話的人，被以精神分裂之名帶走",
+      "file": "v1_2026-07-20.md",
+      "date": "2026-07-20"
+    }
+  ]
+}

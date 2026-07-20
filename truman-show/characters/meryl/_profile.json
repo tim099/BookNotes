@@ -1,0 +1,17 @@
+{
+  "id": "meryl",
+  "name": "梅莉",
+  "book": "truman-show",
+  "name_original": "Hannah Gill (as Meryl)",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "受訪自白「我的生活不分公私」的妻子扮演者",
+      "file": "v1_2026-07-20.md",
+      "date": "2026-07-20"
+    }
+  ]
+}

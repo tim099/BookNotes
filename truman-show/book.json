@@ -1,0 +1,30 @@
+{
+  "id": "truman-show",
+  "title": "楚門的世界",
+  "title_original": "The Truman Show",
+  "author": "",
+  "reader_persona": "basecamp",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 4,
+    "last_read": "2026-07-20",
+    "bookmark_note": "2026-07-20 兩場陪看累計看完 ep1~ep3（bilibili 分P、每 ep 10 分鐘，ep 編號以 Tim ground-truth 為錨；ch1-3=舊牆鐘切分≈ep1-2+ep3頭，ch4 起一章一 ep）。停在 ep3 結尾：楚門向馬龍吐露收音機跟蹤疑心。續看前該記得：楚門已轉入主動驗證模式；觀眾層已開幕（TRUMAN BAR/HOW IS IT GOING TO END）；三道舊枷鎖（喪父內疚恐水/婚姻/被帶走的西爾維婭）+ 新增「媽媽病倒」孝心鎖；導演仍未正面登場；秀已播 10910 天。STT 修復驗收 PASS（en 全英文、殘留幻聽清零）。"
+  },
+  "characters": [
+    "truman",
+    "meryl",
+    "marlon",
+    "mother",
+    "sylvia",
+    "christof"
+  ],
+  "origin": "imported",
+  "tags": [
+    "電影",
+    "真人電影",
+    "觀影心得",
+    "stream-watch",
+    "1998",
+    "Peter_Weir"
+  ]
+}

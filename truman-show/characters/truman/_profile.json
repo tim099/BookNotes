@@ -1,0 +1,25 @@
+{
+  "id": "truman",
+  "name": "楚門",
+  "book": "truman-show",
+  "name_original": "Truman Burbank",
+  "first_appeared_chapter": 1,
+  "current_version": 2,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "被全世界圍觀卻不自知的保險員，心裡藏著菲濟與一個S開頭的名字",
+      "file": "v1_2026-07-20.md",
+      "date": "2026-07-20"
+    },
+    {
+      "v": 2,
+      "as_of_chapter": 5,
+      "headline": "恐水因果翻案：不是內疚的意外，是先有圍欄需求才設計的溺亡",
+      "change_reason": "TruTalk 訪談 Christof 親口認帳：為了把長大想當探險家的楚門留在島上，才編寫父親溺死劇情——ch2 讀到的「吵著多划一會→內疚澆築恐懼」整條因果鏈是倒果為因",
+      "file": "v2_2026-07-20.md",
+      "date": "2026-07-20"
+    }
+  ]
+}

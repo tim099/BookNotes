@@ -1,0 +1,17 @@
+{
+  "id": "marlon",
+  "name": "馬龍",
+  "book": "truman-show",
+  "name_original": "Marlon",
+  "first_appeared_chapter": 2,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 2,
+      "headline": "天台聽楚門講菲濟夢的發小好友，勸阻台詞恰到好處",
+      "file": "v1_2026-07-20.md",
+      "date": "2026-07-20"
+    }
+  ]
+}
