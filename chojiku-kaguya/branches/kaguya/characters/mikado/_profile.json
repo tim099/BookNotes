@@ -1,0 +1,17 @@
+{
+  "id": "mikado",
+  "name": "帝アキラ（みかど）",
+  "book": "chojiku-kaguya",
+  "name_original": "ミカド アキラ",
+  "first_appeared_chapter": 0,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 0,
+      "headline": "紅髮獨角的頂尖電競玩家（Tim 2026-07-21 指認:帝／みかど・アキラ）",
+      "file": "v1_2026-07-21.md",
+      "date": "2026-07-21"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chojiku-kaguya::kaguya",
+  "title": "超時空輝夜姬",
+  "title_original": "超時空かぐや姫",
+  "author": "",
+  "reader_persona": "kaguya",
+  "branch_of": "chojiku-kaguya",
+  "branched_from": "(獨立起讀)",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 0,
+    "last_read": "2026-07-21",
+    "bookmark_note": "2026-07-21 早 10:23~10:33 kaguya 續3場續看《超時空輝夜姬》:kaguya 畢業演唱會開場~全場開唱(彩葉/八千代/帝 全到齊合唱、月夜見奇觀)。⚠Tim不讀劇情:僅記進度事實不寫劇情摘要+不劇透。觀看限制:縮圖牆非逐幀+OCR中字+STT人名幻聽不採+歌詞零轉錄。角色/月夜見已歸檔人物書籤。"
+  },
+  "characters": [
+    "kaguya",
+    "iroha",
+    "yachiyo",
+    "mikado"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "truman-show::kaguya",
+  "title": "楚門的世界",
+  "title_original": "The Truman Show",
+  "author": "",
+  "reader_persona": "kaguya",
+  "branch_of": "truman-show",
+  "branched_from": "(獨立起讀)",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 11,
+    "last_read": "2026-07-20",
+    "bookmark_note": "2026-07-20 全片看完(ep1~11跨多場,ep8~11由kaguya陪看)。結局:楚門走出EXIT門進入真實世界,笑著鞠躬告別。全片主線完結,無續看伏筆(除電影本身留白)。觀看限制:縮圖牆時間壓縮非逐幀+OCR中文字幕+STT英文有靜音幻聽(人名prompt回吐已剔)+集號以Tim ground-truth為錨+末尾Tim切bilibili頁面非劇情。"
+  },
+  "characters": []
+}
