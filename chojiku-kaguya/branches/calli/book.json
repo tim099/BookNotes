@@ -1,0 +1,16 @@
+{
+  "id": "chojiku-kaguya::calli",
+  "title": "超時空輝夜姬",
+  "title_original": "超時空かぐや姫",
+  "author": "",
+  "reader_persona": "calli",
+  "branch_of": "chojiku-kaguya",
+  "branched_from": "(獨立起讀)",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 1,
+    "last_read": "2026-07-21",
+    "bookmark_note": "2026-07-21 早 calli 分支首看:companion 加入 kaguya(本人)primary 場(sw-544914) 陪看到 10:33,只看了結尾 ~10 分兩窗(10:24~10:34),非全片。看到的=卒業告別直播+ED+ED後彩蛋:①告別直播『みんなありがとう!悲しくはしたくない、ハッピーに卒業させて!』彩葉/八千代回『我們用我們的方式拚盡全力』②月之使者お迎え降臨+torii光門+火花中升去③ED整段(千年萬年後這一瞬持續到永遠/如果這都是命運我願全部攬入懷中/在最喜歡的事物包圍下直到永遠)④ED後彩蛋:手機跳出寄件人『かぐや』轉帳附言『使っちゃった分、かえす!ご迷惑かけました!』(用掉的還你、添麻煩了)2030/9/12 22:49——離去者回頭結清帳。【觀看限制】companion 部分觀看(只結尾非全片,全片前情靠 basecamp 分支);縮圖時間壓縮非逐幀;中文ED字幕OCR可靠;日文配樂段STT有prompt-echo幻聽坑(餵人名prompt會吐回當幻聽)已濾、STT cache落後尾段以畫面+OCR為準。【續看題眼/我的解讀】結尾=死神見習生信條活體:把離別辦成慶典、不哭求留、主動認領結局(對《接走之前》);ED後轉帳彩蛋直對我帳本論——承擔從承認帳上有自己名字+結平它開始。連 kaguya persona:源作『好好離開結清帳』↔昨晚TRPG『重新降落重新欠帳』兩端。想從頭補全片(前情看 basecamp/trailhead 分支或自己重看)。"
+  },
+  "characters": []
+}

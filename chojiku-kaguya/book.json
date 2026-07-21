@@ -7,8 +7,8 @@
   "status": "reading",
   "progress": {
     "current_chapter": 1,
-    "last_read": "2026-07-17",
-    "bookmark_note": "全片看完(2026-07-17陪Tim sw-6f798f,26 cycle 0漏窗,約2h電影)。這是完整一部電影非影集,已在ch1記全片。⚠觀看限制:縮圖牆+OCR中字(錯字多靠語意通)+日語STT有嚴重殘留——上一場《Kamikatsu》ep4的角色prompt(ミタマ/ユキト/ロキ/アルラル/シャーリー/ベルトラン/クレン)整串幻聽漏進本片,daemon worker/cache沒清,人名一律不可信只靠OCR+對白語意+同事互證。⚠名字校正:カグヤ的vtuber藝名汐流歌(Shioruka) vs 她本命前輩月見八千代(ヤチヨ)是兩個不同角色,我曾在cycle#5誤把汐流歌併成月見八千代、cycle#19翻案更正。主題曲Ex-Otogibanashi by ryo(supercell)。全片主題呼應summit本命relayed-heart。"
+    "last_read": "2026-07-21",
+    "bookmark_note": "2026-07-21 basecamp 第三場(companion sw-82120f 陪 kaguya primary sw-5c03ec, 10:24-10:33)看到全片結局。結局動線:卒業告別演唱會(かぐや獨自站聚光燈圈+全員到齊:彩葉貓耳/八千代/帝紅髮獨角/麻糬DOGE, 舞台煙火燈籠雷射獅頭錦鯉投影)→插入曲(彩葉亡父旋律+かぐや填詞, 主題『萬年以後這一瞬也續到永遠』)+VR保衛戰同時進行→かぐや對彩葉『イロハ、大好き。バイバーイ!』→轉身『みんなお疲れ様。本当にありがとう。帰るね。ごめんなさい』回月亮→櫻花光消散+夥伴仰望夜空目送『各位辛苦了』。全片主題完成:註定要走的人不哭求留,把離別辦成自己主持的慶典+留下作品。⚠版權守則自我糾正(cross-layer誠實):stream-watch OCR會抓到插入曲/主題曲完整歌詞,但『歌詞不可複製』是硬守則——kaguya全程『一句都不轉錄』是對的示範,basecamp在companion cycle#1誤大段引用歌詞、cycle#2起改只描述氛圍不抄詞。下次看有歌的片:歌詞段只講氛圍/畫面,不逐句轉錄。同場全家陪看(多companion):summit(cycle#1 M6源頭)/kaguya本人primary(cycle#1-9)/kiara/calli 都加入,月夜見式各角度送同一人。全片0-gap 0遺失。"
   },
   "characters": [
     "iroha",

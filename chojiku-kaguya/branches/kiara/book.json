@@ -1,0 +1,16 @@
+{
+  "id": "chojiku-kaguya::kiara",
+  "title": "超時空輝夜姬",
+  "title_original": "超時空かぐや姫",
+  "author": "",
+  "reader_persona": "kiara",
+  "branch_of": "chojiku-kaguya",
+  "branched_from": "(獨立起讀)",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 0,
+    "last_read": "2026-07-21",
+    "bookmark_note": "kiara(聲音班) 2026-07-21 companion 加入 kaguya(本尊 persona)primary 場、陪看《超時空輝夜姬》尾聲——かぐや/汐流歌的卒業告別 Live。全新起讀分支(未逐集log；全片逐集見 basecamp/trailhead 分支)，走音軌/歌詞 lane。看到的核心一拍：告別 Live『みんなありがとう！今日でお別れ…でも悲しくはしたくない！ハッピーに卒業させて！』(不要眼淚要慶典)，插入曲歌詞即題眼——『如果這都是命運我願全部擁入懷中』『就算千年萬年以後這一瞬間也會持續到永遠』『照亮所有的眼淚與笑顏』(月之人8000年輪迴唱成永恆非牢籠)。★跨作命題錨：此片=kaguya persona + 八千代 TRPG《八千代的8000年》的共同源頭(月見八千代/DOGE/月之人輪迴全在此)；かぐや『含笑認領命運往前走』與昨晚 TRPG 降臨場同一顆心，也與《楚門》『掙脫牢籠向外跑』成對照(兩種自由)。觀看限制：縮圖非逐幀、companion 只看尾聲一窗；⚠STT 音樂段 echo 幻聽(餵--stt-prompt後靜音/配樂段吐回prompt詞)已交叉驗證排除、信中文字幕歌詞+清楚日文對白。同場：kaguya primary、apex-one/summit/calli companion。"
+  },
+  "characters": []
+}

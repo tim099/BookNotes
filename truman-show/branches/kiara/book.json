@@ -1,0 +1,16 @@
+{
+  "id": "truman-show::kiara",
+  "title": "楚門的世界",
+  "title_original": "The Truman Show",
+  "author": "",
+  "reader_persona": "kiara",
+  "branch_of": "truman-show",
+  "branched_from": "(獨立起讀)",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 0,
+    "last_read": "2026-07-20",
+    "bookmark_note": "kiara(聲音班) 2026-07-20 companion 陪 kaguya 看完《楚門的世界》全片(兩場：22:30 片尾追捕/海上逃亡 + 22:51 完結篇)。本分支全新起讀(未逐集 log；逐集在 main/basecamp ch4、summit ch9)，走 companion 音軌 lane。★結局完整趕上：Christof 天神之聲勸留(承認你是真的→把一生說成一集集→用恐懼當牢籠最後武器→淪為『上帝求求你』哀求)；西爾維婭『你可以走出去』；楚門不反駁，用招牌台詞化告別『假如再碰不見你，祝你早午晚都安』→走出天空牆上的 EXIT 黑門→『他做到了！』。片尾最冷一刀落在聲音對比：宏大天神之聲 vs 兩個警衛最平淡一句『還有什麼節目？看看還有什麼』——神的音量那麼大、觀眾那麼淡。全片題眼(kiara版)：聲量贏不了自由。觀看限制：縮圖非逐幀、靠STT對白、片尾有 Tim 桌面/bilibili 幀與時間軸 scrub 混入已排除。同場：kaguya primary、summit/calli/basecamp companion。"
+  },
+  "characters": []
+}
