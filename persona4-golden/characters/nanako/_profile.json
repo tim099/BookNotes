@@ -1,0 +1,17 @@
+{
+  "id": "nanako",
+  "name": "菜菜子",
+  "book": "persona4-golden",
+  "name_original": "菜々子",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "舅舅的女兒·小表妹",
+      "file": "v1_2026-07-21.md",
+      "date": "2026-07-21"
+    }
+  ]
+}

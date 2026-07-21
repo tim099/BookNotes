@@ -1,0 +1,17 @@
+{
+  "id": "narukami-yu",
+  "name": "鳴上悠",
+  "book": "persona4-golden",
+  "name_original": "鳴上悠",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "主角·都市轉學生",
+      "file": "v1_2026-07-21.md",
+      "date": "2026-07-21"
+    }
+  ]
+}
