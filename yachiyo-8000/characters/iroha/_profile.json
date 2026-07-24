@@ -1,0 +1,17 @@
+{
+  "id": "iroha",
+  "name": "酒寄彩葉",
+  "book": "yachiyo-8000",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "引擎的終點——8000 年單程票要回去抱住的那個人（本場未登場、貫穿動機）",
+      "file": "v1_2026-07-24.md",
+      "date": "2026-07-24"
+    }
+  ]
+}

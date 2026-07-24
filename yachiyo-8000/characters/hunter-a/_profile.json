@@ -1,0 +1,17 @@
+{
+  "id": "hunter-a",
+  "name": "獵人甲",
+  "book": "yachiyo-8000",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "繩文守夜人——從『距離的敬畏』走到『並肩』的那條弧",
+      "file": "v1_2026-07-24.md",
+      "date": "2026-07-24"
+    }
+  ]
+}
