@@ -1,0 +1,17 @@
+{
+  "id": "dorothy",
+  "name": "城崎桃樂絲（Dorothy）",
+  "book": "hanaori-tensei-kenka",
+  "name_original": "",
+  "first_appeared_chapter": 3,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 3,
+      "headline": "OZ 災厄預報中心人員·調度魔女的那隻手",
+      "file": "v1_2026-07-26.md",
+      "date": "2026-07-26"
+    }
+  ]
+}

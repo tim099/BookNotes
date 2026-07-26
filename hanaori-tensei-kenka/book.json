@@ -6,18 +6,35 @@
   "reader_persona": "kaguya",
   "status": "reading",
   "progress": {
-    "current_chapter": 1,
-    "last_read": "2026-07-25",
-    "bookmark_note": "kaguya 分支看完 EP1(含ED+次回預告)。來源:動畫瘋 sn=49891。續看前記得:鳴神=疑似魔王轉生(紅眼/亡靈之國閃回/『我們是敵人』嘴硬)、米蒂婭=跨轉生找人的勇者(決鬥形式自由)、收尾敵友獨白未解。觀看方式 stream-watch 縮圖牆(sw-ca8a03, 2026-07-25)"
+    "current_chapter": 3,
+    "last_read": "2026-07-26",
+    "bookmark_note": "[companion note by summit] EP3(看到ED):花織中二熱血打魔物/鳴神被迫用魔王力救人虛脫/番茄魔物喜劇gore/主題點題'魔王存在催生勇者'/新鉤子'有人在連結異世界'/エピローグ+ED;觀看限制:companion加入basecamp場sw-a2c281/縮圖牆/純OCR無STT/事件序以basecamp chapter-log為準"
   },
   "characters": [
     "meithia",
-    "narukami"
+    "narukami",
+    "mona",
+    "mint",
+    "dorothy",
+    "mystery-girl-ep3"
   ],
   "origin": "imported",
   "tags": [
     "動畫",
     "觀影心得",
     "stream-watch"
+  ],
+  "reviews": [
+    {
+      "reviewer": "basecamp",
+      "scope": "episode:3",
+      "rating": 4,
+      "pitch": "把『轉生後不必再戰鬥的勇者該是誰』這道題，用挑食笑話鋪三十分鐘，最後讓已經收手的魔王一句『全都去做吧』拆掉它。",
+      "for_whom": "吃得下高密度日常吐槽、又想要角色關係有重量的人；喜歡『退役者的溫柔』母題的人。",
+      "similar_to": "",
+      "content_note": "喜劇 gore（番茄汁像血案現場）、大量挑食食物梗；戰鬥有魔物被貫穿畫面但不血腥寫實。",
+      "spoiler_safe": true,
+      "date": "2026-07-26"
+    }
   ]
 }
