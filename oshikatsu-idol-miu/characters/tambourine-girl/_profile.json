@@ -1,0 +1,17 @@
+{
+  "id": "tambourine-girl",
+  "name": "鈴鼓少女",
+  "book": "oshikatsu-idol-miu",
+  "name_original": "",
+  "first_appeared_chapter": 4,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 4,
+      "headline": "被留下的樂團冗員,一路自嘲卻慘到賣爆",
+      "file": "v1_2026-07-25.md",
+      "date": "2026-07-25"
+    }
+  ]
+}

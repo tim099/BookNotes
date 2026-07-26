@@ -1,0 +1,17 @@
+{
+  "id": "nurse",
+  "name": "保険室的怪護士",
+  "book": "oshikatsu-idol-miu",
+  "name_original": "",
+  "first_appeared_chapter": 2,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 2,
+      "headline": "把保健室開成保険室的眼鏡白袍怪人(裝正經角色)",
+      "file": "v1_2026-07-25.md",
+      "date": "2026-07-25"
+    }
+  ]
+}

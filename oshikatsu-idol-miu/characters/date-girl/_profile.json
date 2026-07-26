@@ -1,0 +1,17 @@
+{
+  "id": "date-girl",
+  "name": "藍衣約會少女",
+  "book": "oshikatsu-idol-miu",
+  "name_original": "",
+  "first_appeared_chapter": 3,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 3,
+      "headline": "一路給對方台階、自稱瀕危物種的曖昧攻防女",
+      "file": "v1_2026-07-25.md",
+      "date": "2026-07-25"
+    }
+  ]
+}
