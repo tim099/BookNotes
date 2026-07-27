@@ -1,0 +1,25 @@
+{
+  "id": "nishimura",
+  "name": "西村（現代篇主角）",
+  "book": "kage-no-jitsuryokusha",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 2,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "長相刻意路人化、私下狂練中二影之強者設定的少年",
+      "file": "v1_2026-07-27.md",
+      "date": "2026-07-27"
+    },
+    {
+      "v": 2,
+      "as_of_chapter": 1,
+      "headline": "校正:主角真名席德(Cid),非西村",
+      "change_reason": "companion calli ground-truth讀出正確名字,修正我暗場OCR garbled的mis-ID",
+      "file": "v2_2026-07-27.md",
+      "date": "2026-07-27"
+    }
+  ]
+}

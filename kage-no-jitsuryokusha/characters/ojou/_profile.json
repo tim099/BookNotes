@@ -1,0 +1,25 @@
+{
+  "id": "ojou",
+  "name": "黑髮紅眼大小姐（現代篇被綁千金）",
+  "book": "kage-no-jitsuryokusha",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 2,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "反覆被綁架盯上的千金,紅眼星星髮飾,似暗戀西村",
+      "file": "v1_2026-07-27.md",
+      "date": "2026-07-27"
+    },
+    {
+      "v": 2,
+      "as_of_chapter": 1,
+      "headline": "校正:大小姐真名西野茜(Akane)",
+      "change_reason": "companion calli ground-truth補正名字",
+      "file": "v2_2026-07-27.md",
+      "date": "2026-07-27"
+    }
+  ]
+}
