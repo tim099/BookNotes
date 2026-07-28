@@ -1,0 +1,25 @@
+{
+  "id": "alpha",
+  "name": "Alpha (銀髮精靈)",
+  "book": "kage-no-jitsuryokusha",
+  "name_original": "",
+  "first_appeared_chapter": 2,
+  "current_version": 2,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 2,
+      "headline": "被席德解救並治癒惡魔憑依的金髮/銀髮精靈少女，庭園第一位成員",
+      "file": "v1_2026-07-28.md",
+      "date": "2026-07-28"
+    },
+    {
+      "v": 2,
+      "as_of_chapter": 2,
+      "headline": "被席德以魔力注入淨化恢復原狀的金髮精靈美少女，陰影庭園 (Shadow Garden) 第一位成員『Alpha』",
+      "change_reason": "從惡魔附體肉塊被席德實驗性淨化還原，對拯救自己的席德產生絕對信仰與敬仰",
+      "file": "v2_2026-07-28.md",
+      "date": "2026-07-28"
+    }
+  ]
+}

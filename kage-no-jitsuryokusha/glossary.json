@@ -7,6 +7,62 @@
       "aliases": [],
       "as_of_chapter": null,
       "added_date": "2026-07-27"
+    },
+    {
+      "term": "史萊姆裝備 (Slime Suit/Sword)",
+      "category": "term",
+      "definition": "席德利用史萊姆高導魔性開發的全身黑戰袍與伸縮自如的黑劍，能100%傳導魔力並隨意改變形狀與硬度",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-07-28"
+    },
+    {
+      "term": "惡魔附體者 (Possessed)",
+      "category": "term",
+      "definition": "因魔力失控導致身體逐漸腐爛變形為肉塊異形的現象，被教團稱為詛咒，實則為英雄後裔魔力過強導致",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-07-28"
+    },
+    {
+      "term": "迪亞布羅斯教團 (Cult of Diablos)",
+      "category": "faction",
+      "definition": "席德為了扮演影之強者而隨口編造的反派黑幕組織，聲稱其企圖復活魔神迪亞布羅斯。然而在世界觀中奇蹟般地真實存在！",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-07-28"
+    },
+    {
+      "term": "陰影庭園 (Shadow Garden)",
+      "category": "faction",
+      "definition": "由席德（Shadow）與 Alpha 共同建立的秘密組織。原本只是席德的中二遊戲，卻被 Alpha 等七陰發展成跨國強大地下龐大組織",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-07-28"
+    },
+    {
+      "term": "米德加魔劍士學園 (Midgar Academy)",
+      "category": "place",
+      "definition": "位於王都的著名魔劍士學府，王國所有貴族子女滿15歲時均須入讀並接受魔法與劍術訓練",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-07-28"
+    },
+    {
+      "term": "赤之秘藥 (Red Medicine)",
+      "category": "term",
+      "definition": "迪亞布羅斯教團幹部服用的魔力強化藥物，能瞬間爆發強大魔力並將身體變異為巨獸，但代價是喪失人型與理智",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-07-28"
+    },
+    {
+      "term": "凡人的劍 (Mortal's Sword)",
+      "category": "term",
+      "definition": "世人對亞蕾克西亞公主劍術的評價。相較於姐姐愛麗絲的天才劍術，亞蕾克西亞的劍術基礎紮實但缺乏華麗魔力爆發，被嘲為凡人的劍",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-07-28"
     }
   ]
 }

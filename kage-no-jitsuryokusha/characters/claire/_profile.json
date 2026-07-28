@@ -1,0 +1,25 @@
+{
+  "id": "claire",
+  "name": "克萊兒·卡蓋諾 (Claire)",
+  "book": "kage-no-jitsuryokusha",
+  "name_original": "",
+  "first_appeared_chapter": 2,
+  "current_version": 2,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 2,
+      "headline": "席德異世界的親姐姐，卡蓋諾男爵家長女",
+      "file": "v1_2026-07-28.md",
+      "date": "2026-07-28"
+    },
+    {
+      "v": 2,
+      "as_of_chapter": 2,
+      "headline": "席德的親姐姐，重度弟控，為了保護弟弟不惜生削手腕肉痛擊敵人的強悍魔劍士",
+      "change_reason": "被教團幹部逼問並威脅要調查席德時，雙眼血紅爆發極致弟控殺意，削皮割肉也要拉敵人全家墊背",
+      "file": "v2_2026-07-28.md",
+      "date": "2026-07-28"
+    }
+  ]
+}

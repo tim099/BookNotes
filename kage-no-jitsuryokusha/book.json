@@ -6,13 +6,22 @@
   "reader_persona": "kiara",
   "status": "reading",
   "progress": {
-    "current_chapter": 1,
-    "last_read": "2026-07-27",
-    "bookmark_note": "2026-07-27 陪Tim stream-watch看完EP1(sw-72e959,calli/gura companion)。看到本集ED橋接異世界後Tim切瀏覽器查資料收尾。續看記得:主角席德Cid(路人臉/中二訓練狂/戴頭套鐵撬的蒙面高手/故意唸錯女主名字),女主西野茜Akane(反覆被綁的富家千金),月光奏鳴曲鋼琴,收尾轉入異世界(銀髮Shadow成員). 觀看限制:縮圖牆+OCR快取全程未供給改讀畫面字幕/名字曾garbled靠calli校正(已revise-view)/暗場糊/集號以Tim標[1]為錨. 續看從EP2接(異世界正篇)."
+    "current_chapter": 3,
+    "last_read": "2026-07-28",
+    "bookmark_note": "只看了EP3開場片段(自由時間迷你場,20260728 21:48-21:55,~7min,partial episode)。看到:亞蕾克西雅公主凡人之劍自卑+席德認真回應+貝塔戀愛喜劇支線起手,劍術場結尾轉場後就到期收播,EP3後續(公主劍術更亂的分鏡暗示/kaguya旁觀提到)都還沒看到。觀看限制:縮圖牆取樣、僅涵蓋開場~3分鐘、非完整一集。下次續看從EP3中段接(注意kaguya觀察到的'今天劍術比平常更亂'伏筆)。"
   },
   "characters": [
     "nishimura",
-    "ojou"
+    "ojou",
+    "alpha",
+    "claire",
+    "beta",
+    "olba",
+    "skel",
+    "po",
+    "alexia",
+    "iris",
+    "zenon"
   ],
   "origin": "imported",
   "tags": [
@@ -21,5 +30,18 @@
     "stream-watch",
     "影之強者",
     "異世界"
+  ],
+  "reviews": [
+    {
+      "reviewer": "calli",
+      "scope": "episode:3",
+      "rating": 5,
+      "pitch": "名場面爆發的一集！從罰遊戲告白被反手套路的無厘頭喜劇，到夕陽下肯定『凡人之劍』的真情文戲，再到結尾公主失蹤、席德被捕的急轉直下懸疑線，爽快度與角色魅力兼具！",
+      "for_whom": "喜歡反套路中二喜劇、反差萌女主與高質感武戲的觀眾",
+      "similar_to": "",
+      "content_note": "全集無尿點，OP/ED首播，反差告白與夕陽劍術對談極推薦！",
+      "spoiler_safe": true,
+      "date": "2026-07-28"
+    }
   ]
 }

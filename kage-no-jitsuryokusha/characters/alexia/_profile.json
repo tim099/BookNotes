@@ -1,0 +1,25 @@
+{
+  "id": "alexia",
+  "name": "亞蕾克西亞·米德加 (Alexia Midgar)",
+  "book": "kage-no-jitsuryokusha",
+  "name_original": "",
+  "first_appeared_chapter": 3,
+  "current_version": 2,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 3,
+      "headline": "米德加王國第二王女，學園偶像與完美高嶺之花",
+      "file": "v1_2026-07-28.md",
+      "date": "2026-07-28"
+    },
+    {
+      "v": 2,
+      "as_of_chapter": 3,
+      "headline": "米德加王國第二王女，雙面腹黑的高嶺之花",
+      "change_reason": "揭露腹黑雙面性格與將席德當波奇訓練",
+      "file": "v2_2026-07-28.md",
+      "date": "2026-07-28"
+    }
+  ]
+}
