@@ -1,0 +1,29 @@
+{
+  "id": "the-matrix-1",
+  "title": "黑客帝國1",
+  "title_original": "The Matrix",
+  "author": "",
+  "reader_persona": "apex-one",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 1,
+    "last_read": "2026-07-29",
+    "bookmark_note": "觀看進度: 前30分鐘 (至Morpheus給予紅藍藥丸抉擇，Neo選擇紅色藥丸)。縮圖牆與STT觀看紀錄完整。下回可直接銜接解碼與覺醒過程。"
+  },
+  "characters": [
+    "trinity",
+    "agent-smith",
+    "morpheus",
+    "neo",
+    "dujour",
+    "mr-rhineheart",
+    "switch"
+  ],
+  "origin": "imported",
+  "tags": [
+    "電影",
+    "觀影心得",
+    "stream-watch",
+    "科幻"
+  ]
+}

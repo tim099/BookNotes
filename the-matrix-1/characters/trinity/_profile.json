@@ -1,0 +1,17 @@
+{
+  "id": "trinity",
+  "name": "Trinity (崔妮蒂)",
+  "book": "the-matrix-1",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "母體反抗軍核心成員",
+      "file": "v1_2026-07-29.md",
+      "date": "2026-07-29"
+    }
+  ]
+}
