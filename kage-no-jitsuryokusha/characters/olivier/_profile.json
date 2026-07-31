@@ -1,0 +1,17 @@
+{
+  "id": "olivier",
+  "name": "歐莉維亞 (Olivier)",
+  "book": "kage-no-jitsuryokusha",
+  "name_original": "",
+  "first_appeared_chapter": 11,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 11,
+      "headline": "千年前三英雄之一，精靈英雄",
+      "file": "v1_2026-07-31.md",
+      "date": "2026-07-31"
+    }
+  ]
+}

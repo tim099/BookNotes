@@ -1,0 +1,17 @@
+{
+  "id": "shrewd",
+  "name": "黠謀國王",
+  "book": "farseer-trilogy_02",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "把人民痛苦視為自身責任的衰老君王",
+      "file": "v1_2026-07-31.md",
+      "date": "2026-07-31"
+    }
+  ]
+}

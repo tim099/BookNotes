@@ -1,0 +1,17 @@
+{
+  "id": "fool",
+  "name": "弄臣",
+  "book": "farseer-trilogy_02",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "被可能性洪流折磨的預言見證者",
+      "file": "v1_2026-07-31.md",
+      "date": "2026-07-31"
+    }
+  ]
+}

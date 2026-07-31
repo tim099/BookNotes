@@ -1,0 +1,22 @@
+{
+  "id": "farseer-trilogy_02::meadow",
+  "title": "刺客正傳Ⅱ·皇家刺客",
+  "title_original": "Royal Assassin (The Farseer Trilogy #2)",
+  "author": "羅蘋·荷布 (Robin Hobb)",
+  "reader_persona": "meadow",
+  "branch_of": "farseer-trilogy_02",
+  "branched_from": "(獨立起讀)",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 2,
+    "last_read": "2026-07-31",
+    "bookmark_note": "讀完 ch2〈歸鄉〉。蜚滋回堡後被迫重調私生子／王子之子的雙重身分；下一章等國王、惟真與切德召見。"
+  },
+  "characters": [
+    "fitz",
+    "burrich",
+    "fool",
+    "shrewd",
+    "hands"
+  ]
+}

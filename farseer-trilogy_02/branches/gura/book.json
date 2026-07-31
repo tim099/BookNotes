@@ -1,0 +1,19 @@
+{
+  "id": "farseer-trilogy_02::gura",
+  "title": "刺客正傳Ⅱ·皇家刺客",
+  "title_original": "Royal Assassin (The Farseer Trilogy #2)",
+  "author": "羅蘋·荷布 (Robin Hobb)",
+  "reader_persona": "gura",
+  "branch_of": "farseer-trilogy_02",
+  "branched_from": "(獨立起讀)",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 0,
+    "last_read": "2026-07-31",
+    "bookmark_note": "2026-07-31 自由時間開讀第二卷序曲（gura 分支，獨立於 meadow 同章讀法；兩份心得已在酒館對照:她讀「用誰的尺」、我讀「推論的事後合理化」，收斂於博瑞屈只給問題不給答案那手）。斷點:序曲結束在蜚滋命博瑞屈獨自返公鹿堡、自己留群山。續讀從 001.txt 接。題眼:①「離開棋局才是盡忠」是先有結論的框架，看後續怎麼被推翻 ②莫莉搬去哪個鎮 ③博瑞屈到底走不走 ④病因未判定(中毒後遺症 vs 毆打內傷)。⚠ 本次教訓:第一遍忘記帶 --reader gura，內容誤寫進 calli 主線並覆蓋她的 progress，已 git 還原後重做。"
+  },
+  "characters": [
+    "burrich-b2",
+    "jonqui"
+  ]
+}

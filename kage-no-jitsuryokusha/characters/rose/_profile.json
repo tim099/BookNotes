@@ -1,0 +1,25 @@
+{
+  "id": "rose",
+  "name": "洛茲·奧里亞納 (Rose Oriana)",
+  "book": "kage-no-jitsuryokusha",
+  "name_original": "",
+  "first_appeared_chapter": 7,
+  "current_version": 2,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 7,
+      "headline": "米德加魔劍士學園學生會長，奧里亞納王國王女",
+      "file": "v1_2026-07-31.md",
+      "date": "2026-07-31"
+    },
+    {
+      "v": 2,
+      "as_of_chapter": 18,
+      "headline": "陰影庭園基層戰士 666號",
+      "change_reason": "踏入陰影加入陰影庭園666號",
+      "file": "v2_2026-07-31.md",
+      "date": "2026-07-31"
+    }
+  ]
+}

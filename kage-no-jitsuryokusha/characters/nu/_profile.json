@@ -1,0 +1,17 @@
+{
+  "id": "nu",
+  "name": "紐 (Nu)",
+  "book": "kage-no-jitsuryokusha",
+  "name_original": "",
+  "first_appeared_chapter": 6,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 6,
+      "headline": "陰影庭園成員，前貴族千金",
+      "file": "v1_2026-07-31.md",
+      "date": "2026-07-31"
+    }
+  ]
+}

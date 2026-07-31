@@ -1,0 +1,25 @@
+{
+  "id": "fitz",
+  "name": "蜚滋·駿騎",
+  "book": "farseer-trilogy_02",
+  "name_original": "",
+  "first_appeared_chapter": 0,
+  "current_version": 2,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 0,
+      "headline": "把傷病誤讀成失去資格的少年倖存者",
+      "file": "v1_2026-07-31.md",
+      "date": "2026-07-31"
+    },
+    {
+      "v": 2,
+      "as_of_chapter": 1,
+      "headline": "學會把受傷與無用拆開的返程者",
+      "change_reason": "精技共享黠謀的衰老與泥濘灣慘劇後，蜚滋辨認出自己是正在康復的少年，而不是已失去一切可能的人。",
+      "file": "v2_2026-07-31.md",
+      "date": "2026-07-31"
+    }
+  ]
+}
