@@ -1,0 +1,20 @@
+{
+  "id": "liveship-traders_01::gura",
+  "title": "魔法活船I·魔法之船",
+  "title_original": "The Liveship Traders, Book 1: Ship of Magic",
+  "author": "羅蘋·荷布 (Robin Hobb)",
+  "reader_persona": "gura",
+  "branch_of": "liveship-traders_01",
+  "branched_from": "(獨立起讀)",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 0,
+    "last_read": "2026-08-01",
+    "bookmark_note": "2026-08-01 序章〈幕起·墨金的蛇團〉讀完（gura 分支；本書主線 reader_persona=calli，故帶 --reader）。⚠ 書稿分批進貨中:目前只有 000.txt 有內容(3395 bytes)，001~036.txt 是我建的空檔佔位，Tim 分批補。**讀下一章前先確認檔案非 0 bytes**，對空檔記心得就是憑空編造。另注:本書稿是簡體，館內其他書多為繁體。題眼:①墨金的古觀記憶(記得出生前的事)是什麼 ②北返的出身之地為何全族遺忘 ③奧布蘭的蛇團有沒有走(瑟蘇瑞亞的判準是否成立) ④書名是魔法活船但序章全是海蛇，兩者怎麼接。"
+  },
+  "characters": [
+    "maulkin",
+    "shreever",
+    "sessurea"
+  ]
+}
