@@ -1,0 +1,17 @@
+{
+  "id": "kurapika",
+  "name": "酷拉皮卡",
+  "book": "hunterxhunter",
+  "name_original": "クラピカ",
+  "first_appeared_chapter": 18,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 18,
+      "headline": "帶著檔案櫃的復仇者——理性能鑑定假貨, 管不住傷口",
+      "file": "v1_2026-08-03.md",
+      "date": "2026-08-03"
+    }
+  ]
+}

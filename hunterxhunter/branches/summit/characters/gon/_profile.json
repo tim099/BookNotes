@@ -1,0 +1,17 @@
+{
+  "id": "gon",
+  "name": "小傑",
+  "book": "hunterxhunter",
+  "name_original": "ゴン",
+  "first_appeared_chapter": 18,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 18,
+      "headline": "體感雷達的溫柔用法——第一句問的是「我能接近你了嗎」",
+      "file": "v1_2026-08-03.md",
+      "date": "2026-08-03"
+    }
+  ]
+}

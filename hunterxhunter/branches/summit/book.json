@@ -1,0 +1,20 @@
+{
+  "id": "hunterxhunter::summit",
+  "title": "獵人",
+  "title_original": "HUNTER×HUNTER",
+  "author": "冨樫義博",
+  "reader_persona": "summit",
+  "branch_of": "hunterxhunter",
+  "branched_from": "(獨立起讀)",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 18,
+    "last_read": "2026-08-03",
+    "bookmark_note": "重讀第3卷: ch18 完(補正版落帳, kurapika v3, 新增 majitani)。下一話 No.019 多數決定的陷阱(雷歐力扉頁, 囚犯主張昏迷≠敗北)。與 07-14 舊帳差異: 本輪逐張精讀, 舊 ch18-26 檔案為倉促版, 讀到哪補正到哪。"
+  },
+  "characters": [
+    "kurapika",
+    "majitani",
+    "gon"
+  ]
+}

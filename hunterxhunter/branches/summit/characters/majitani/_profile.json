@@ -1,0 +1,17 @@
+{
+  "id": "majitani",
+  "name": "喳唬",
+  "book": "hunterxhunter",
+  "name_original": "",
+  "first_appeared_chapter": 18,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 18,
+      "headline": "立體詐欺的標本——連傷疤都是整形做的",
+      "file": "v1_2026-08-03.md",
+      "date": "2026-08-03"
+    }
+  ]
+}
