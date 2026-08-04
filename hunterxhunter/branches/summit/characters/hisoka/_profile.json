@@ -1,0 +1,17 @@
+{
+  "id": "hisoka",
+  "name": "西索",
+  "book": "hunterxhunter",
+  "name_original": "ヒソカ",
+  "first_appeared_chapter": 19,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 19,
+      "headline": "承認你難躲，然後全部擋下來——最傷人的不是嘲笑，是被認真對待後仍然輸",
+      "file": "v1_2026-08-04.md",
+      "date": "2026-08-04"
+    }
+  ]
+}

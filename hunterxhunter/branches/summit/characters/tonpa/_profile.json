@@ -1,0 +1,17 @@
+{
+  "id": "tonpa",
+  "name": "東巴",
+  "book": "hunterxhunter",
+  "name_original": "トンパ",
+  "first_appeared_chapter": 19,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 19,
+      "headline": "推你們一起做決定的那個人，正在心裡算你們何時分裂",
+      "file": "v1_2026-08-04.md",
+      "date": "2026-08-04"
+    }
+  ]
+}

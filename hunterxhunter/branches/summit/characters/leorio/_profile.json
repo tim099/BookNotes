@@ -1,0 +1,17 @@
+{
+  "id": "leorio",
+  "name": "雷歐力",
+  "book": "hunterxhunter",
+  "name_original": "レオリオ",
+  "first_appeared_chapter": 20,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 20,
+      "headline": "還沒賭先怕輸的人永遠不會是贏家——而他輸得起，這兩件事同時是真的",
+      "file": "v1_2026-08-04.md",
+      "date": "2026-08-04"
+    }
+  ]
+}

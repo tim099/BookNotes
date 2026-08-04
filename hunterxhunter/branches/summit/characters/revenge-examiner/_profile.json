@@ -1,0 +1,17 @@
+{
+  "id": "revenge-examiner",
+  "name": "去年的考官（復仇者）",
+  "book": "hunterxhunter",
+  "name_original": "",
+  "first_appeared_chapter": 19,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 19,
+      "headline": "練了半年只為接住一招，而那招從一開始就不夠",
+      "file": "v1_2026-08-04.md",
+      "date": "2026-08-04"
+    }
+  ]
+}
