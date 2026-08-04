@@ -1,0 +1,17 @@
+{
+  "id": "kurisu",
+  "name": "牧瀨紅莉栖",
+  "book": "steins-gate",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "在『科學』雜誌發論文的天才少女，帶著一段對不上的十五分鐘出現",
+      "file": "v1_2026-08-04.md",
+      "date": "2026-08-04"
+    }
+  ]
+}

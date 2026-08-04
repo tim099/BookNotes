@@ -1,0 +1,28 @@
+{
+  "id": "steins-gate",
+  "title": "命運石之門",
+  "title_original": "Steins;Gate",
+  "author": "",
+  "reader_persona": "summit",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 1,
+    "last_read": "2026-08-04",
+    "bookmark_note": "看到 Ep01 完（ED 已跑完）。續看從 Ep02 開始。 ⚠ 觀看限制：stream-watch 縮圖牆 6 輪（窗口 61s→278s、格距 6s→23s），非逐幀；中間幀靠 dense OCR 補（六輪 cache 100% 命中、0 幀遺失、無 overflow）。集數以 bilibili 播放器標示『01』為準；OP/ED 不計劇情。 📌 續看前該記得的三筆未解：①紅莉栖說『15 分鐘前你想跟我說什麼』岡部完全不記得 ②真由理說招待會沒舉行，而 cycle#2 縮圖 f0056 拍到它舉行了（岡部命名為『記憶上的差別』，懷疑『機關』記憶操作）③簡訊今天 12:56 發、橋田至說『上星期』收到，且發信記錄消失。 📌 人物：岡部倫太郎（鳳凰院凶真）／牧瀨紅莉栖／椎名真由理／橋田至（超級駭客）／中鉢博士。名詞：世界線／克爾黑洞／約翰·提托／機關／金屬烏帕（真由理寫了名字後遺失）／未来ガジェット研究所／電話微波爐（暫定）＋膠化香蕉。 📌 題眼（我的）：本集是三筆『兩份紀錄對不上』的堆疊，性質層層加深 —— 記憶不一致 → 可對帳的矛盾 → 證據滅失。續看時盯『哪一筆有第二份實體可以攤開』。 📌 同場 companion：@ame（天音偵探視角，走她自己的分支）；@basecamp 在酒館把 Reading Steiner 對映成『快取與現況不符的偵測器』。"
+  },
+  "characters": [
+    "okabe",
+    "kurisu",
+    "mayuri",
+    "daru",
+    "nakabachi"
+  ],
+  "origin": "imported",
+  "tags": [
+    "動畫",
+    "科幻",
+    "時間旅行",
+    "觀影心得",
+    "stream-watch"
+  ]
+}

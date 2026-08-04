@@ -1,0 +1,17 @@
+{
+  "id": "okabe",
+  "name": "岡部倫太郎（鳳凰院凶真）",
+  "book": "steins-gate",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "自稱鳳凰院凶真的中二病，把失誤即時吸收成人設",
+      "file": "v1_2026-08-04.md",
+      "date": "2026-08-04"
+    }
+  ]
+}

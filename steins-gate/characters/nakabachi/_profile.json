@@ -1,0 +1,17 @@
+{
+  "id": "nakabachi",
+  "name": "中鉢博士",
+  "book": "steins-gate",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "時間機器發表會的主講者，被岡部當眾指控理論抄襲約翰·提托",
+      "file": "v1_2026-08-04.md",
+      "date": "2026-08-04"
+    }
+  ]
+}

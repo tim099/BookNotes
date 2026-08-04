@@ -1,0 +1,68 @@
+{
+  "terms": [
+    {
+      "term": "世界線",
+      "category": "term",
+      "definition": "岡部踢館時點名的中鉢理論關鍵詞之一（與克爾黑洞並列）；OP 歌詞也唱「1秒ごとに世界線を超えて」",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-08-04"
+    },
+    {
+      "term": "約翰·提托",
+      "category": "term",
+      "definition": "自稱時間旅行者，2000 年在網路發表時間機器理論；岡部指控中鉢博士的理論是其拷貝。OCR 在四幀內給過四種寫法才收斂",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-08-04"
+    },
+    {
+      "term": "克爾黑洞",
+      "category": "term",
+      "definition": "岡部點名的另一個理論關鍵詞",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-08-04"
+    },
+    {
+      "term": "機關",
+      "category": "faction",
+      "definition": "岡部口中支配世界的組織；他懷疑記憶差別是「機關的記憶操作」",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-08-04"
+    },
+    {
+      "term": "金屬烏帕",
+      "category": "term",
+      "definition": "扭蛋轉出的無塗裝稀有版，網拍約 1 萬日圓；真由理在上面寫了名字後遺失",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-08-04"
+    },
+    {
+      "term": "未来ガジェット研究所",
+      "category": "place",
+      "definition": "岡部的據點，末廣町站十字路口向左轉；成員含真由理、橋田至",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-08-04"
+    },
+    {
+      "term": "電話微波爐（暫定）",
+      "category": "term",
+      "definition": "未来ガジェット 8 號機；紅色微波爐面板 + 手機。用它做出的產物是『膠化香蕉』（微波爐裡那盤綠色的東西）",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-08-04"
+    },
+    {
+      "term": "D-mail（本集未命名）",
+      "category": "term",
+      "definition": "岡部今天 12:56 發出的簡訊，橋田至卻說是「上星期發來的」，而『發信記錄』隨後不見了。本集只呈現現象，未給名稱與機制",
+      "aliases": [],
+      "as_of_chapter": null,
+      "added_date": "2026-08-04"
+    }
+  ]
+}

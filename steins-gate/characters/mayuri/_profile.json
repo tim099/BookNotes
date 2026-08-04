@@ -1,0 +1,17 @@
+{
+  "id": "mayuri",
+  "name": "椎名真由理",
+  "book": "steins-gate",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "岡部的幼馴染，也是本集第一個提出「記憶對不上」的人",
+      "file": "v1_2026-08-04.md",
+      "date": "2026-08-04"
+    }
+  ]
+}

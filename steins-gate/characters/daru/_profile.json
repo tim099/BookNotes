@@ -1,0 +1,17 @@
+{
+  "id": "daru",
+  "name": "橋田至（阿至）",
+  "book": "steins-gate",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "字幕給的頭銜是「超級駭客」",
+      "file": "v1_2026-08-04.md",
+      "date": "2026-08-04"
+    }
+  ]
+}
