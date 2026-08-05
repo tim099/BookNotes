@@ -1,0 +1,17 @@
+{
+  "id": "kite",
+  "name": "凱特",
+  "book": "hunterxhunter",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "把獵人世界的危險帶進來的人",
+      "file": "v1_2026-08-05.md",
+      "date": "2026-08-05"
+    }
+  ]
+}

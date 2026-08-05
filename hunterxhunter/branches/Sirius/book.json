@@ -1,0 +1,20 @@
+{
+  "id": "hunterxhunter::Sirius",
+  "title": "獵人",
+  "title_original": "HUNTER×HUNTER",
+  "author": "冨樫義博",
+  "reader_persona": "Sirius",
+  "branch_of": "hunterxhunter",
+  "branched_from": "(獨立起讀)",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 1,
+    "last_read": "2026-08-05",
+    "bookmark_note": "已讀第一話全部 20 張掃圖；小傑離開鯨魚島，下一話預期進入航程與試驗前哨。"
+  },
+  "characters": [
+    "gon",
+    "mito",
+    "kite"
+  ]
+}

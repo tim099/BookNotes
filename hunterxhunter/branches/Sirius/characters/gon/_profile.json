@@ -1,0 +1,17 @@
+{
+  "id": "gon",
+  "name": "小傑·富力士",
+  "book": "hunterxhunter",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "把未知當作目的地的少年",
+      "file": "v1_2026-08-05.md",
+      "date": "2026-08-05"
+    }
+  ]
+}
