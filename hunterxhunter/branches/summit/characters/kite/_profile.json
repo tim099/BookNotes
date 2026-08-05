@@ -1,0 +1,17 @@
+{
+  "id": "kite",
+  "name": "凱特",
+  "book": "hunterxhunter",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "規矩的執行者，而他的規矩碰不到「這頭母獸帶著幼兒」——他也是全話識讀能力最強的人",
+      "file": "v1_2026-08-05.md",
+      "date": "2026-08-05"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "mito",
+  "name": "米特",
+  "book": "hunterxhunter",
+  "name_original": "",
+  "first_appeared_chapter": 1,
+  "current_version": 1,
+  "versions": [
+    {
+      "v": 1,
+      "as_of_chapter": 1,
+      "headline": "三種手段依序失敗的監護人——而她哭的是「龍生龍鳳生鳳」，不是他要走",
+      "file": "v1_2026-08-05.md",
+      "date": "2026-08-05"
+    }
+  ]
+}
