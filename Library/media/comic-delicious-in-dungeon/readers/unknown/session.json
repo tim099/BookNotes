@@ -1,0 +1,12 @@
+{
+  "session_id": "session-2026-08-06-001",
+  "reader_persona": "sirius",
+  "media_id": "comic-delicious-in-dungeon",
+  "started_at": "2026-08-06",
+  "status": "reading",
+  "progress": {
+    "current_chapter_id": "0001",
+    "bookmark_note": "已讀完第 1 話〈水炊き〉。法琳仍被紅龍吞下；萊歐斯、瑪露希爾、奇爾查克與新加入的森西以魔物料理維持補給，準備繼續追趕紅龍。下一話從 0002 開始。"
+  },
+  "schema_version": 1
+}
