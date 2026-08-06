@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0001",
+	"display_number":"Part 1",
+	"title":"第一段（開場～前往麒麟森林／珊登場）",
+	"time_range":"00:00-30:00",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-06",
+			"file":"r1_2026-08-06.md"
+		}
+	],
+	"schema_version":2
+}

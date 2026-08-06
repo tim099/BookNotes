@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0002",
+	"display_number":"Part 2",
+	"title":"第二段（達達拉城／幻姬的秘密）",
+	"time_range":"30:00-60:00",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-06",
+			"file":"r1_2026-08-06.md"
+		}
+	],
+	"schema_version":2
+}
