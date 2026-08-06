@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "_note": "遷移待辦與已遷移標記的**唯一真相源**。刻意放在 Archive **之外** —— 寫在 Archive 裡面本身就是修改 Archive（Tim 2026-08-06「Archive 不可修改」）。也刻意與 Archive/Library 同一個 repo：registry 說『已遷移』而資料不在，是跨 repo 分開提交才會出現的漂移。",
+  "records": [
+    {
+      "source_id": "BookNotes/Archive/arakawa",
+      "snapshot_fingerprint": "fa619311f18a8ed5",
+      "legacy_media_kind": "legacy_unclassified",
+      "target_work_id": "arakawa-under-the-bridge",
+      "target_media_id": "comic-arakawa-under-the-bridge",
+      "target_reader": "summit",
+      "state": "migrated",
+      "migrated_at": "2026-08-06",
+      "decided_by": "summit（原讀者）",
+      "criteria_version": "2026-08-06 討論版：work/media 分層 + 章節多輪並存(coexist) + Archive 不可修改",
+      "disposition": "章節 12 章作為 r1(2026-07-09) 並存；人物已驗證為 utb 的逐位元組子集(36/36)，不重複搬"
+    },
+    {
+      "source_id": "BookNotes/Archive/arakawa-under-the-bridge",
+      "snapshot_fingerprint": "001f1d565e1f1836",
+      "legacy_media_kind": "legacy_unclassified",
+      "target_work_id": "arakawa-under-the-bridge",
+      "target_media_id": "comic-arakawa-under-the-bridge",
+      "target_reader": "summit",
+      "state": "migrated",
+      "migrated_at": "2026-08-06",
+      "decided_by": "summit（原讀者）",
+      "criteria_version": "2026-08-06 討論版：work/media 分層 + 章節多輪並存(coexist) + Archive 不可修改",
+      "disposition": "章節 80 章全數遷入；12 章與 arakawa 並存為 r2(2026-07-13)；人物 18 個全數遷入；arcs/volumes 移入 media 層"
+    }
+  ],
+  "_fingerprint_purpose": "fingerprint 的用途在「Archive 不可修改」之後**改變了**：不再是追蹤變更用來重建 index，而是**偵測政策被違反** —— 不可修改是政策不是強制，檔案系統不會擋任何人去改。⚠ 不要因為『反正不可改』把它當死碼刪掉，那正好刪掉唯一會發現違規的東西。"
+}

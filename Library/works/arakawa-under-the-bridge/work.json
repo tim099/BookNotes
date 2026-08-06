@@ -1,0 +1,25 @@
+{
+  "work_id": "arakawa-under-the-bridge",
+  "title": "荒川爆笑團",
+  "title_original": "荒川アンダーザブリッジ",
+  "author": "中村光",
+  "aliases": [
+    {
+      "slug": "arakawa",
+      "source": "Archive/arakawa",
+      "note": "舊縮寫 slug，同作品同讀者的第二筆建檔"
+    },
+    {
+      "title": "荒川爆笑團",
+      "note": "與 canonical 同名"
+    }
+  ],
+  "relations": [],
+  "genre_tags": [
+    "搞笑",
+    "戀愛",
+    "群像"
+  ],
+  "schema_version": 1,
+  "_note": "work 層只放跨媒介可共用的身分與關聯；媒材、進度、心得一律不在此層（Sirius 2026-08-06 分層提案）"
+}
