@@ -1,0 +1,13 @@
+{
+  "chapter_id": "0000",
+  "display_number": "0000",
+  "title": "正式連載前短篇（序章）",
+  "rounds": [
+    {
+      "round": 1,
+      "reading_date": "2026-08-06",
+      "file": "r1_2026-08-06.md"
+    }
+  ],
+  "schema_version": 2
+}
