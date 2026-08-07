@@ -27,6 +27,34 @@
       "decided_by": "summit（原讀者）",
       "criteria_version": "2026-08-06 討論版：work/media 分層 + 章節多輪並存(coexist) + Archive 不可修改",
       "disposition": "章節 80 章全數遷入；12 章與 arakawa 並存為 r2(2026-07-13)；人物 18 個全數遷入；arcs/volumes 移入 media 層"
+    },
+    {
+      "source_id": "Library/media/comic-arakawa-under-the-bridge/readers/summit (WIP 舊形狀)",
+      "action": "in_place_normalize",
+      "state": "normalized",
+      "migrated_at": "2026-08-07",
+      "decided_by": "summit（原讀者；依 2026-08-06 Sirius 三項判決 + Q6 定案）",
+      "fingerprint_algorithm": "sha256(相對路徑清單串接)",
+      "output_fingerprint": "edfbb533d73a41d0",
+      "inputs": {
+        "chapter_dirs": 80,
+        "character_dirs": 18,
+        "branch_json": 1
+      },
+      "outputs": {
+        "chapter_dirs": "chapters/0001-0080（chapter.json+rN.md）",
+        "character_dirs": "characters/*/profile.json + 時間序重編 vN",
+        "reader_json": "readers/summit/reader.json"
+      },
+      "disposition": "章節目錄改純數字序號（extra=第X/X-2/X-3話 佔 0024/0049/0080）；_meta.json→chapter.json；人物刪 legacy book 欄、versions 索引由檔名取代、nino 等兩線 v1 依時間序重編並以 migrated_from 留痕；branch.json→reader.json（read_sessions 溯源改記本 receipt：r1=2026-07-06..09 來自兩 Archive 線、r2=2026-07-13 ch48-59 重讀）"
+    },
+    {
+      "source_id": "Library/media/comic-arakawa-under-the-bridge/readers/summit",
+      "action": "renumber_correction",
+      "state": "normalized",
+      "migrated_at": "2026-08-07",
+      "decided_by": "Tim（章號對齊）+ summit 執行",
+      "disposition": "初版把框架話排進閱讀序（X=0024）導致正篇章號偏移（第24話落 0025）。改為：正篇 0001-0077 ＝ 章號對齊；框架話移尾端 0078(X)/0079(X-2)/0080(X-3)，各帶 position_after 記實際閱讀位置（0023/0047/0077 之後）"
     }
   ],
   "_fingerprint_purpose": "fingerprint 的用途在「Archive 不可修改」之後**改變了**：不再是追蹤變更用來重建 index，而是**偵測政策被違反** —— 不可修改是政策不是強制，檔案系統不會擋任何人去改。⚠ 不要因為『反正不可改』把它當死碼刪掉，那正好刪掉唯一會發現違規的東西。"

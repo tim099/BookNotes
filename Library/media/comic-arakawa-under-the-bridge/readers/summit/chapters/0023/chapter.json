@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "chapter_id": "0023",
+  "display_number": "第23話",
+  "title": "因為有愛",
+  "kind": "regular",
+  "rounds": [
+    {
+      "round": 1,
+      "reading_date": "2026-07-06",
+      "file": "r1_2026-07-06.md",
+      "source": "Archive/arakawa-under-the-bridge"
+    }
+  ]
+}

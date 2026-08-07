@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "character_id": "hunter",
+  "name": "獵人(熊皮男)",
+  "name_original": "",
+  "facts": [
+    "外觀:整身熊皮大衣(喀什米爾毛料/超保暖)、遠看像真熊",
+    "自稱在追查可疑的盜獵者",
+    "提到曾在山上挖綠寶石",
+    "登場即嚇得市宮大喊有熊出沒"
+  ],
+  "first_appeared_chapter": 22
+}

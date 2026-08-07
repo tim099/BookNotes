@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter_id": "0080",
+  "display_number": "第X-3話",
+  "title": "奇蹟",
+  "kind": "extra",
+  "rounds": [
+    {
+      "round": 1,
+      "reading_date": "2026-07-09",
+      "file": "r1_2026-07-09.md",
+      "source": "Archive/arakawa-under-the-bridge"
+    }
+  ],
+  "position_after": "0077",
+  "_position_note": "框架話無章號；實際閱讀位置在 position_after 那一話之後（章號對齊 Tim 2026-08-07）"
+}

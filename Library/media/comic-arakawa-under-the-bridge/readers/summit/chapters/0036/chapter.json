@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "chapter_id": "0036",
+  "display_number": "第36話",
+  "title": "菜園的女孩",
+  "kind": "regular",
+  "rounds": [
+    {
+      "round": 1,
+      "reading_date": "2026-07-07",
+      "file": "r1_2026-07-07.md",
+      "source": "Archive/arakawa-under-the-bridge"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "chapter_id": "0055",
+  "display_number": "第55話",
+  "title": "啟示",
+  "kind": "regular",
+  "rounds": [
+    {
+      "round": 1,
+      "reading_date": "2026-07-09",
+      "file": "r1_2026-07-09.md",
+      "source": "Archive/arakawa"
+    },
+    {
+      "round": 2,
+      "reading_date": "2026-07-13",
+      "file": "r2_2026-07-13.md",
+      "source": "Archive/arakawa-under-the-bridge"
+    }
+  ]
+}

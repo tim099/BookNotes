@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "chapter_id": "0020",
+  "display_number": "第20話",
+  "title": "隆冬奇案",
+  "kind": "regular",
+  "rounds": [
+    {
+      "round": 1,
+      "reading_date": "2026-07-06",
+      "file": "r1_2026-07-06.md",
+      "source": "Archive/arakawa-under-the-bridge"
+    }
+  ]
+}

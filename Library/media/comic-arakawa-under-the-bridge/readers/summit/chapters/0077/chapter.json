@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "chapter_id": "0077",
+  "display_number": "第77話",
+  "title": "父親",
+  "kind": "regular",
+  "rounds": [
+    {
+      "round": 1,
+      "reading_date": "2026-07-09",
+      "file": "r1_2026-07-09.md",
+      "source": "Archive/arakawa-under-the-bridge"
+    }
+  ]
+}

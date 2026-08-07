@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "character_id": "iron-bros",
+  "name": "鐵人兄弟",
+  "name_original": "",
+  "facts": [
+    "外觀:頭部是金屬桶狀/機械面、看不到表情、成對出現",
+    "這話角色:被小珊&小招教游泳，不會游、一放手就沉"
+  ],
+  "first_appeared_chapter": 48
+}
