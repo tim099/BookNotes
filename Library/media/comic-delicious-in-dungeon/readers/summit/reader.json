@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"summit",
+	"media_id":"comic-delicious-in-dungeon",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-08-07",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-08-07",
+		"bookmark_note":"第1話讀畢。隊伍成形（萊歐斯/瑪露希露/奇爾查克/扇西），目標：趕在法琳被消化前打到迷宮底層的炎龍。下一站第2話（0002）。"
+	},
+	"current_impression":"正篇第一話就把「吃」從生存手段升格成方法論：敗因歸給空腹（可驗證的機制）、用龍的消化速度把絕望改寫成 deadline、由生態系推出糧食自給——萊歐斯不是樂天，是把每個壞消息拆成可操作的參數。扇西那句『書本上的知識跟實際上差很多』由讀了十年書的人說出來，份量剛好。",
+	"updated_at":"2026-08-07"
+}

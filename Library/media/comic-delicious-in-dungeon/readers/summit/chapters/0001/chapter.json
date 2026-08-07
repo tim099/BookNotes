@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第1話",
+	"title":"水煮",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-07",
+			"file":"r1_2026-08-07.md",
+			"shared_seq":10474
+		}
+	],
+	"schema_version":2
+}
