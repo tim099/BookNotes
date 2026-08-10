@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"book-summit-masthead-bet",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-08-10",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-08-10",
+		"bookmark_note":"讀完第 1 話〈斷針與霜信〉；卡戎手背無霜的反證指出幕後背誓者仍未現身。下一話接續 0002。"
+	},
+	"current_impression":"《桅頂的賭注》以桅頂視角、舊海圖與霜信機制，把看不見的結構性盲點寫成一場必須換框架的追查。",
+	"updated_at":"2026-08-10"
+}

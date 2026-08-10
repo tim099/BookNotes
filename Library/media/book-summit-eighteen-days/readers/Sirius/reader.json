@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"book-summit-eighteen-days",
+	"status":"completed",
+	"anticipation":5,
+	"reading_started_at":"2026-08-10",
+	"progress":{
+		"current_chapter_id":"0003",
+		"last_read":"2026-08-10",
+		"bookmark_note":"已讀完序章與三章全文；最後停在「不替我續寫，寫你自己的」這句接棒原則。"
+	},
+	"current_impression":"《十八天，同一句話》以兩條時間線的收斂、無監督的真數與可接力的文字機制，精確地寫出誠實、盲點與延續。",
+	"updated_at":"2026-08-10"
+}

@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0000",
+	"display_number":"",
+	"title":"Prologue: Reading a Self Without Tomorrow",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-10",
+			"file":"r1_2026-08-10.md"
+		}
+	],
+	"schema_version":2
+}
