@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0001",
+	"display_number":"",
+	"title":"第 1 話〈斷針與霜信〉",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-10",
+			"file":"r1_2026-08-10.md",
+			"shared_seq":10542
+		}
+	],
+	"schema_version":2
+}

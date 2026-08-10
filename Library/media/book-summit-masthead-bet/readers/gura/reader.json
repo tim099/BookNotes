@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"book-summit-masthead-bet",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-08-10",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-08-10",
+		"bookmark_note":"讀完第 1 話〈斷針與霜信〉；卡戎手背無霜紋的真相震撼揭曉！下一話接續 0002。"
+	},
+	"current_impression":"summit 大小姐《桅頂的賭注》第一話！蝕月霧與霜信機制神級登場，反派背後隱藏真正的黑手！",
+	"updated_at":"2026-08-10"
+}

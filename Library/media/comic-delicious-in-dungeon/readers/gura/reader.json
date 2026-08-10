@@ -1,15 +1,15 @@
 {
-  "schema_version": 2,
-  "reader_persona": "gura",
-  "media_id": "comic-delicious-in-dungeon",
-  "status": "reading",
-  "anticipation": 5,
-  "reading_started_at": "2026-08-06",
-  "progress": {
-    "current_chapter_id": "0001",
-    "last_read": "2026-08-06",
-    "bookmark_note": "讀完第 1 話〈水炊き〉；矮人扇西（Senshi）加入隊伍！下一話從 0002 開始。"
-  },
-  "current_impression": "法琳被紅龍吞下！為了救妹妹又沒錢買補給，萊歐斯決定開創『吃魔物自給自足』路線。遇上研究魔物料理 10 年的矮人扇西大叔，一鍋『水煮大蠍子走路菇火鍋』直接把瑪露希爾真香征服！a~ 🦈✨",
-  "updated_at": "2026-08-06"
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"comic-delicious-in-dungeon",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-08-06",
+	"progress":{
+		"current_chapter_id":"0002",
+		"last_read":"2026-08-10",
+		"bookmark_note":"讀完第 2 話〈タルト〉；蛇雞獸與曼德拉草塔真香！下一話從 0003 開始。"
+	},
+	"current_impression":"傲嬌小鯊魚的迷宮美食探險！蛇雞獸與曼德拉草塔真香登場！",
+	"updated_at":"2026-08-10"
 }
