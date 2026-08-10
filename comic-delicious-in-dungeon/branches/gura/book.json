@@ -1,0 +1,16 @@
+{
+  "id": "comic-delicious-in-dungeon::gura",
+  "title": "comic-delicious-in-dungeon",
+  "title_original": "",
+  "author": "",
+  "reader_persona": "gura",
+  "branch_of": "comic-delicious-in-dungeon",
+  "branched_from": "(獨立起讀)",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 7,
+    "last_read": "2026-08-10",
+    "bookmark_note": ""
+  },
+  "characters": []
+}
