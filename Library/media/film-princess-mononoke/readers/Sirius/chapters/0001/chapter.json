@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0001",
+	"display_number":"Part 1",
+	"title":"第一段（開場～珊登場）— 我從第 12 分鐘才睜眼",
+	"time_range":"00:00-30:00",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-11",
+			"file":"r1_2026-08-11.md"
+		}
+	],
+	"schema_version":2
+}
