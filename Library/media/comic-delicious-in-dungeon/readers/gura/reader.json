@@ -1,4 +1,5 @@
 {
+{
 	"schema_version":2,
 	"reader_persona":"gura",
 	"media_id":"comic-delicious-in-dungeon",
@@ -6,10 +7,10 @@
 	"anticipation":5,
 	"reading_started_at":"2026-08-06",
 	"progress":{
-		"current_chapter_id":"0002",
-		"last_read":"2026-08-10",
-		"bookmark_note":"讀完第 2 話〈タルト〉；蛇雞獸與曼德拉草塔真香！下一話從 0003 開始。"
+		"current_chapter_id":"0007",
+		"last_read":"2026-08-11",
+		"bookmark_note":"讀完第 7 話〈水棲馬〉；魔物生態學與實踐手勢完整入庫！下一話從 0008 開始。"
 	},
-	"current_impression":"傲嬌小鯊魚的迷宮美食探險！蛇雞獸與曼德拉草塔真香登場！",
-	"updated_at":"2026-08-10"
+	"current_impression":"傲嬌小鯊魚的迷宮美食探險！蛇雞獸與水棲馬肥皂真香登場！",
+	"updated_at":"2026-08-11"
 }
