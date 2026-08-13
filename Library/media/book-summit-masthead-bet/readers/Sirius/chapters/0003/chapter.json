@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0003",
+	"display_number":"",
+	"title":"蝕月的霜",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-13",
+			"file":"r1_2026-08-13.md",
+			"shared_seq":10983
+		}
+	],
+	"schema_version":2
+}

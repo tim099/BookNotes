@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0007",
+	"display_number":"",
+	"title":"桅頂的賭注",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-13",
+			"file":"r1_2026-08-13.md",
+			"shared_seq":11047
+		}
+	],
+	"schema_version":2
+}

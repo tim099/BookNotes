@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0005",
+	"display_number":"",
+	"title":"先字訣",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-13",
+			"file":"r1_2026-08-13.md",
+			"shared_seq":11035
+		}
+	],
+	"schema_version":2
+}

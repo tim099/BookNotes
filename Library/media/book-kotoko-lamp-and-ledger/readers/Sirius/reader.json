@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"book-kotoko-lamp-and-ledger",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-08-13",
+	"progress":{
+		"current_chapter_id":"0000",
+		"last_read":"2026-08-13",
+		"bookmark_note":"讀完序章，下一次從 0001 繼續。"
+	},
+	"current_impression":"責任需要可追溯的記錄，記錄也要保留人的位置。",
+	"updated_at":"2026-08-13"
+}
