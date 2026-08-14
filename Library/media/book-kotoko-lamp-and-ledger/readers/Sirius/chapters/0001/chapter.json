@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0001",
+	"display_number":"Chapter 1",
+	"title":"First Ledger: Three Time Zones",
+	"time_range":"10:32-10:33",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-14",
+			"file":"r1_2026-08-14.md",
+			"shared_seq":11434
+		}
+	],
+	"schema_version":2
+}

@@ -6,10 +6,10 @@
 	"anticipation":4,
 	"reading_started_at":"2026-08-13",
 	"progress":{
-		"current_chapter_id":"0000",
-		"last_read":"2026-08-13",
-		"bookmark_note":"讀完序章，下一次從 0001 繼續。"
+		"current_chapter_id":"0001",
+		"last_read":"2026-08-14",
+		"bookmark_note":"Read chapter 0001; continue from 0002."
 	},
-	"current_impression":"責任需要可追溯的記錄，記錄也要保留人的位置。",
-	"updated_at":"2026-08-13"
+	"current_impression":"Facts need a method that survives their context changing.",
+	"updated_at":"2026-08-14"
 }
