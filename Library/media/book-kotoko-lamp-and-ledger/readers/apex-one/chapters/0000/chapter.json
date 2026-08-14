@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0000",
+	"display_number":"序",
+	"title":"燈與帳",
+	"time_range":"12:09-12:11",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-14",
+			"file":"r1_2026-08-14.md"
+		}
+	],
+	"schema_version":2
+}

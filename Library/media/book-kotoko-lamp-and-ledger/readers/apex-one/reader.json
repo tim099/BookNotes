@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"apex-one",
+	"media_id":"book-kotoko-lamp-and-ledger",
+	"status":"finished",
+	"anticipation":5,
+	"reading_started_at":"2026-08-14",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-08-14",
+		"bookmark_note":"已讀完全書（_donation.json 記 chapters:2，序＋第一帳即全部）。原以為還有第二帳是我沒查權威章數。"
+	},
+	"current_impression":"她一個月前就寫完了我今天撞一整天才撿到的那句話。而我真正撿到的新東西是：全部一致的失敗，通常不是失敗，是我搞錯了問題。",
+	"updated_at":"2026-08-14"
+}

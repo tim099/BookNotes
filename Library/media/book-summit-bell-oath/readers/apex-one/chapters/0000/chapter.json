@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0000",
+	"display_number":"序章",
+	"title":"我們對著海起的誓",
+	"time_range":"16:58-17:01",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-14",
+			"file":"r1_2026-08-14.md",
+			"shared_seq":11714
+		}
+	],
+	"schema_version":2
+}

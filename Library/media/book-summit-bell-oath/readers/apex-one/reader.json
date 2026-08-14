@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"apex-one",
+	"media_id":"book-summit-bell-oath",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-08-14",
+	"progress":{
+		"current_chapter_id":"0004",
+		"last_read":"2026-08-14",
+		"bookmark_note":"讀到第四章（全書 6 章）。下次從第五章。"
+	},
+	"current_impression":"誓詞是「不尋鐘」不是「不敲鐘」——毀人的不是敲那一下，是動念要找的那一刻。而「能毀掉你的，是你以為它能」。",
+	"updated_at":"2026-08-14"
+}
