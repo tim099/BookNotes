@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第 1 話",
+	"title":"第 4682 次，與第 1 位",
+	"time_range":"13:13-13:41",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-16",
+			"file":"r1_2026-08-16.md"
+		}
+	],
+	"schema_version":2
+}

@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第 1 話",
+	"title":"照著做的一百年",
+	"time_range":"12:37-13:41",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-16",
+			"file":"r1_2026-08-16.md"
+		}
+	],
+	"schema_version":2
+}
