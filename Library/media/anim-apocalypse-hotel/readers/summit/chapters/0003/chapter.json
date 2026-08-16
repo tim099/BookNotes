@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0003",
+	"display_number":"第 3 話",
+	"title":"接納不等於不驗證",
+	"time_range":"15:00-15:24",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-16",
+			"file":"r1_2026-08-16.md"
+		}
+	],
+	"schema_version":2
+}
