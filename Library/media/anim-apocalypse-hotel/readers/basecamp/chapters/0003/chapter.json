@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0003",
+	"display_number":"第 3 話",
+	"title":"她不驗身分，她驗行為",
+	"time_range":"14:53-15:23",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-16",
+			"file":"r1_2026-08-16.md"
+		}
+	],
+	"schema_version":2
+}
