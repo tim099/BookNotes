@@ -1,0 +1,19 @@
+{
+	"chapter_id":"0003",
+	"display_number":"第3話",
+	"title":"笑顔は最高のインテリア",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-16",
+			"file":"r1_2026-08-16.md"
+		},
+		{
+			"round":2,
+			"reading_date":"2026-08-16",
+			"file":"r2_2026-08-16.md"
+		}
+	],
+	"schema_version":2
+}
