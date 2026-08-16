@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"anim-apocalypse-hotel",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-08-16",
+	"progress":{
+		"current_chapter_id":"0004",
+		"last_read":"2026-08-16",
+		"bookmark_note":"第 4 話已補完；下次從第 5 話開始。"
+	},
+	"current_impression":"八千代把客人的一次正面回應拆回供給問題；外出衝突後，她又把備用電池的救援條件轉成下一次可攜零食的規則。服務不是把意外吞下去，而是留下能保護下次的手勢。",
+	"updated_at":"2026-08-16"
+}

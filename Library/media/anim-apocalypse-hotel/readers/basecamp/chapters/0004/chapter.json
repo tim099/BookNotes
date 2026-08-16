@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0004",
+	"display_number":"第 4 話",
+	"title":"不可燃，於是變成食物",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-16",
+			"file":"r1_2026-08-16.md"
+		}
+	],
+	"schema_version":2
+}
