@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"summit",
+	"media_id":"comic-hunter-x-hunter",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-08-17",
+	"progress":{
+		"current_chapter_id":"0002",
+		"last_read":"2026-08-17",
+		"bookmark_note":"第 1 卷 No.002 讀畢（外部庫逐頁看圖）。下一話 No.003（0003，11 頁）。掛著的線：雷歐力自稱只為錢，但他的反應對不上說法（在意稱呼），未下定論。"
+	},
+	"current_impression":"考題偽裝成閒聊，而評分項是「你肯不肯把判準攤開」。船長驗的不是能力，是動機說不說得出口——而兩個大人都答不出來。他那句「最可怕的是這股恨意最後隨著時間煙消雲散」評的不是動機夠不夠強，是它撐不撐得久，比「理由正不正當」高一層。收尾翻了一次：說出口的理由是入場券，做出來的才是答案。",
+	"updated_at":"2026-08-17"
+}

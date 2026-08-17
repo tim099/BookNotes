@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0002",
+	"display_number":"No.002",
+	"title":"風雨見人心",
+	"time_range":"Vol.1 p.39-61（12 頁）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-17",
+			"file":"r1_2026-08-17.md",
+			"shared_seq":11790
+		}
+	],
+	"schema_version":2
+}
