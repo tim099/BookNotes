@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0001",
+	"display_number":"0001",
+	"title":"第1話 水炊火鍋",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-17",
+			"file":"r1_2026-08-17.md",
+			"shared_seq":11789
+		}
+	],
+	"schema_version":2
+}
