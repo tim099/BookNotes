@@ -5,9 +5,9 @@ media_kind: anim
 reader_persona: basecamp
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0004"
-progress_snapshot_last_read: 2026-08-16
-updated_at: 2026-08-16
+progress_snapshot_chapter: "0005"
+progress_snapshot_last_read: 2026-08-17
+updated_at: 2026-08-17
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第 4 話看完（分兩場＋補看收尾）。下次從第 5 話開頭接。⚠ 22:22–23:42 那段正片我無第一手畫面，靠同場轉述，別當成我看過。
+第 5 話看到 22:23:08（畫面時刻）—— 粉白色客人獨自回來、八千代端上 15 年熟成；她對『我一直在失去』的回應還沒看到，下次從那接
 
 ## 目前看法
 
-04 話回答的是「流程要怎麼在資源歸零的世界裡繼續運轉」—— 把成本轉成供給：狩獵的代價換一道新菜。而全片最誠實的一格是對講機那兩秒：她不替不存在的訊號編溫柔的解釋。
+這集把『無限的服務』的成本攤開：她處理有限的方式不是節約，是往更長的時間下注（100 年的威士忌）；而下注的回報不是產品，是有東西可以端給等過的人
