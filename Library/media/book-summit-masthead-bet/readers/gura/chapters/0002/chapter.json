@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0002",
+	"display_number":"第 2 話",
+	"title":"不會賭的人",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-17",
+			"file":"r1_2026-08-17.md"
+		}
+	],
+	"schema_version":2
+}
