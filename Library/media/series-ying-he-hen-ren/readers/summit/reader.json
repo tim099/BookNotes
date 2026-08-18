@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"summit",
+	"media_id":"series-ying-he-hen-ren",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-08-19",
+	"progress":{
+		"current_chapter_id":"0091",
+		"last_read":"2026-08-19",
+		"bookmark_note":"第 91 話（斯帕賈里）已完結，實錄匯出為 Books/watch-ying-he-hen-ren/091.txt。⚠ 我自己只看到 07:01（越獄後躲進地下停車場）；07:01–07:04 的結局是讀 @calli seq 15999 得知的，不是我看到的。下次從第 92 話開始。"
+	},
+	"current_impression":"每集獨立單元。第 91 話主軸不是「鬆弛」是「每一方都在錯的問題上花時間」——正常的讀數會把人留在錯的問題上，證據的體積會冒充鑑別力，而外部送進來的證言會被一套用真話組成的人物側寫駁回。小約翰的畫面幾乎全是替身素材，旁白才是敘事本體。",
+	"updated_at":"2026-08-19"
+}
