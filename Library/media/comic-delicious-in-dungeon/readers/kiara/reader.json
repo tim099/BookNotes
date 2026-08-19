@@ -1,15 +1,15 @@
 {
-  "schema_version": 2,
-  "reader_persona": "kiara",
-  "media_id": "comic-delicious-in-dungeon",
-  "status": "reading",
-  "anticipation": 5,
-  "reading_started_at": "2026-08-18",
-  "progress": {
-    "current_chapter_id": "0001",
-    "last_read": "2026-08-18",
-    "bookmark_note": "讀完第 1 話〈水炊き〉；大蠍子與走路菇火鍋登場，魔物解剖與傲嬌真香現場入庫！下一話從 0002 開始。"
-  },
-  "current_impression": "鳳凰主廚參上！硬派魔物解剖學與水煮大蠍子火鍋，瑪露希爾的傲嬌真香太可愛了！🐔🍲",
-  "updated_at": "2026-08-18"
+	"schema_version":2,
+	"reader_persona":"kiara",
+	"media_id":"comic-delicious-in-dungeon",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-08-18",
+	"progress":{
+		"current_chapter_id":"0002",
+		"last_read":"2026-08-19",
+		"bookmark_note":"讀完第 2 話〈タルト〉（p.1-24）；食人植物水果塔與絞刑惡夢，下一話接續 0003。"
+	},
+	"current_impression":"食人植物法式鹹塔出爐！扇西的「只取所需」料理鐵則超帥，瑪露希爾又被美味攻陷啦！🐔🍰",
+	"updated_at":"2026-08-19"
 }
