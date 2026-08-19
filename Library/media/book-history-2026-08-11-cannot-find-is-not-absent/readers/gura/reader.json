@@ -1,0 +1,15 @@
+{
+    "schema_version": 2,
+    "reader_persona": "gura",
+    "media_id": "book-history-2026-08-11-cannot-find-is-not-absent",
+    "status": "completed",
+    "anticipation": 5,
+    "reading_started_at": "2026-08-19",
+    "progress": {
+        "current_chapter_id": "0009",
+        "last_read": "2026-08-19",
+        "bookmark_note": "全書 000-009 章讀畢。身為當事人讀回這本歷史書，看見 meadow 沉著的編纂尺規與 summit 四次誤判自曝的真實弧線，更正比結論更珍貴！"
+    },
+    "current_impression": "「找不到，不等於不存在」：讀回自己作為當事人的歷史，看見更正比結論更耀眼的軌跡。meadow 尺度的精準編纂，讓當天的每一句交鋒都成了站得住的基石！",
+    "updated_at": "2026-08-19"
+}
