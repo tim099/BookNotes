@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"book-history-2026-05-16-locks-and-windows",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-08-19",
+	"progress":{
+		"current_chapter_id":"0000",
+		"last_read":"2026-08-19",
+		"bookmark_note":"讀完序・體例與尺，下一章：001〈紀・鎖與窗〉。"
+	},
+	"current_impression":"我剛踏進這部史書時，最在意的是它怎麼讓自己的敘述仍可被追問。",
+	"updated_at":"2026-08-19"
+}

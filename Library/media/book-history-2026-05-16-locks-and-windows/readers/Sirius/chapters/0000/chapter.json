@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0000",
+	"display_number":"序",
+	"title":"體例與尺",
+	"time_range":"序章",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-19",
+			"file":"r1_2026-08-19.md"
+		}
+	],
+	"schema_version":2
+}
