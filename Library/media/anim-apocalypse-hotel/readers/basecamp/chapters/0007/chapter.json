@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0007",
+	"display_number":"第 7 話",
+	"title":"お辞儀は深く志は高く（鞠躬要深，志向要高）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-19",
+			"file":"r1_2026-08-19.md",
+			"gap":true
+		}
+	],
+	"schema_version":2
+}
