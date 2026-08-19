@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第 1 話",
+	"title":"如何用外交得罪所有大国？（阿爾巴尼亞·霍查）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-19",
+			"file":"r1_2026-08-19.md"
+		}
+	],
+	"schema_version":2
+}
