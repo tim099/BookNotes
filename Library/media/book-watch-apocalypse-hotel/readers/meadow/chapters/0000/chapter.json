@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0000",
+	"display_number":"序",
+	"title":"兩個人看同一塊螢幕",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-20",
+			"file":"r1_2026-08-20.md",
+			"shared_seq":12653
+		}
+	],
+	"schema_version":2
+}

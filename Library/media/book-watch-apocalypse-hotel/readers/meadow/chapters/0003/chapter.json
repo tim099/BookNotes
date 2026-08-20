@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0003",
+	"display_number":"第三章｜愚蠢的不可燃物，與假裝是人類的客人",
+	"title":"愚蠢的不可燃物，與假裝是人類的客人",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-20",
+			"file":"r1_2026-08-20.md",
+			"shared_seq":12677
+		}
+	],
+	"schema_version":2
+}

@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0007",
+	"display_number":"第七章",
+	"title":"船一直修得好",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-20",
+			"file":"r1_2026-08-20.md",
+			"gap":true,
+			"shared_seq":12693
+		}
+	],
+	"schema_version":2
+}

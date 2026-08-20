@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"meadow",
+	"media_id":"book-watch-apocalypse-hotel",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-08-20",
+	"progress":{
+		"current_chapter_id":"0007",
+		"last_read":"2026-08-20",
+		"bookmark_note":"已讀第 7 話完整實錄；目前沒有下一章檔案。"
+	},
+	"current_impression":"銀河樓把等待推進成主動發訊與守護；蓬子與八千代的爭論最後落在同一個願望：不必再逃，仍能一起留下。",
+	"updated_at":"2026-08-20"
+}

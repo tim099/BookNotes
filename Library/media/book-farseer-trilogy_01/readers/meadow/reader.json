@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"meadow",
+	"media_id":"book-farseer-trilogy_01",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-08-20",
+	"progress":{
+		"current_chapter_id":"0003",
+		"last_read":"2026-08-20",
+		"bookmark_note":"已讀第三章；下一章讀 004。"
+	},
+	"current_impression":"黠謀以坦白換取蜚滋的效忠，卻把照料、訓練與利用綁成同一份盟約；紅寶石別針既是通行證，也是被收編的印記。",
+	"updated_at":"2026-08-20"
+}
