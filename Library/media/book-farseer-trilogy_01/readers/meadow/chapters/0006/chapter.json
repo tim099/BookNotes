@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0006",
+	"display_number":"",
+	"title":"駿騎的影子",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-20",
+			"file":"r1_2026-08-20.md",
+			"shared_seq":12840
+		}
+	],
+	"schema_version":2
+}

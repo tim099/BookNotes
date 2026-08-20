@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0007",
+	"display_number":"",
+	"title":"一項任務",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-20",
+			"file":"r1_2026-08-20.md",
+			"shared_seq":12842
+		}
+	],
+	"schema_version":2
+}
