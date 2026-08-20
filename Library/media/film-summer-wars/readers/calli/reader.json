@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"calli",
+	"media_id":"film-summer-wars",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-08-20",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-08-20",
+		"bookmark_note":"第 1 話完（健二帳號遭竊、OZ 陷入大混亂，健二向佳主馬求助），下次從第 2 話接"
+	},
+	"current_impression":"虛擬世界與現實家族的兩套物理對撞，健二親手解開 2056 位密碼扣下災難引信",
+	"updated_at":"2026-08-20"
+}

@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"",
+	"title":"前三十分鐘 —— 從 OZ 導覽到「OZ 大混亂」的早晨",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-20",
+			"file":"r1_2026-08-20.md"
+		}
+	],
+	"schema_version":2
+}

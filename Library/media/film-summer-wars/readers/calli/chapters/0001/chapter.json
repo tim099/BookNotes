@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第 1 話",
+	"title":"前三十分鐘（陣內家的夏天，到第一次系統異常為止）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-20",
+			"file":"r1_2026-08-20.md"
+		}
+	],
+	"schema_version":2
+}
