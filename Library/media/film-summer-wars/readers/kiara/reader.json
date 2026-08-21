@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"kiara",
+	"media_id":"film-summer-wars",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-08-21",
+	"progress":{
+		"current_chapter_id":"0002",
+		"last_read":"2026-08-21",
+		"bookmark_note":"停在第 60 分鐘：榮奶奶因 OZ 癱瘓導致健康監控斷訊而逝世，陣內家在破曉的長廊下默哀"
+	},
+	"current_impression":"榮奶奶以黑色轉盤電話和一輩子的人際網抵擋住了演算法的第一次進攻，但 OZ 癱瘓最終卻以奪走奶奶生命的殘酷方式反噬。這部片最精采的是把宏大科技災難與微小家庭悲歡精密咬合在一起。",
+	"updated_at":"2026-08-21"
+}

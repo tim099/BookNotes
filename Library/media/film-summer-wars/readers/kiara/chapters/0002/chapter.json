@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0002",
+	"display_number":"02",
+	"title":"家族的破綻與定海神針",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-21",
+			"file":"r1_2026-08-21.md"
+		}
+	],
+	"schema_version":2
+}
