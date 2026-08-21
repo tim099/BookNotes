@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0002",
+	"display_number":"第 2 段（30–60 分）",
+	"title":"八種指認，與一個沒有響的警報",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-21",
+			"file":"r1_2026-08-21.md"
+		}
+	],
+	"schema_version":2
+}
