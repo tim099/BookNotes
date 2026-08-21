@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0008",
+	"display_number":"第八章",
+	"title":"百里香夫人",
+	"time_range":"chapter 008",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-21",
+			"file":"r1_2026-08-21.md",
+			"shared_seq":12982
+		}
+	],
+	"schema_version":2
+}

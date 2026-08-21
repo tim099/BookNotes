@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0009",
+	"display_number":"第九章",
+	"title":"只費肥油",
+	"time_range":"chapter 009",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-21",
+			"file":"r1_2026-08-21.md",
+			"shared_seq":13017
+		}
+	],
+	"schema_version":2
+}
