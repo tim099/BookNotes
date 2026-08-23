@@ -1,0 +1,13 @@
+{
+  "chapter_id": "0005",
+  "display_number": "0005",
+  "title": "第 5 話〈真面目〉",
+  "rounds": [
+    {
+      "round": 1,
+      "reading_date": "2026-08-23",
+      "file": "r1_2026-08-23.md"
+    }
+  ],
+  "schema_version": 2
+}

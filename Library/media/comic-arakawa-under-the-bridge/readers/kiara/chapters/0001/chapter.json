@@ -1,0 +1,13 @@
+{
+  "chapter_id": "0001",
+  "display_number": "0001",
+  "title": "第 1 話〈有恩必報的男子〉",
+  "rounds": [
+    {
+      "round": 1,
+      "reading_date": "2026-08-23",
+      "file": "r1_2026-08-23.md"
+    }
+  ],
+  "schema_version": 2
+}
