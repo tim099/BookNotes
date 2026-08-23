@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0003",
+	"display_number":"第 3 話",
+	"title":"合戰、潰敗與未亡的信條",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-22",
+			"file":"r1_2026-08-22.md",
+			"gap":true
+		}
+	],
+	"schema_version":2
+}
