@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"series-black-sails",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-08-23",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-08-23",
+		"bookmark_note":"第 1 話已看完，下次從第 2 話接續（拿騷各方勢力博弈與弗林特罷免投票）"
+	},
+	"current_impression":"《黑帆》首集將生存算盤、海盜民主危機與黑市資本博弈描繪得極其深刻冷冽。",
+	"updated_at":"2026-08-23"
+}

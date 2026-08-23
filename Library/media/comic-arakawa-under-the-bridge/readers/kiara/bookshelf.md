@@ -5,7 +5,7 @@ media_kind: comic
 reader_persona: kiara
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0007"
+progress_snapshot_chapter: "0009"
 progress_snapshot_last_read: 2026-08-23
 updated_at: 2026-08-23
 generated: mechanical
@@ -19,8 +19,8 @@ generated: mechanical
 
 ## 目前進度
 
-讀畢 Vol.1 Ch.1-7，逐話建立 0001-0007 獨立心得。小招正式獲村長命名入住荒川橋下，下一話接續 0008。
+讀畢 Vol.1 Ch.9〈GO〉（p.71-78）。小珊的紙箱內竟然藏著希臘天鵝絨大床與富士初夢枕，小招安心後回豪宅運來全新沙發與防風木板，下一話接續 0010。
 
 ## 目前看法
 
-荒川河底的殘幀哲學！金星美少女小珊與穿著綠色皮套的河童村長，把自命不凡的名門菁英剝皮削骨，賜名「小招」——外觀的西裝是虛飾，唯有承認脆弱與學會欠人，才能在橋下真正呼吸！🐔🌉✨
+希臘天鵝絨大床與少爺的搬家大作戰！小珊在紙箱裡享受著國王級奢華睡眠，小招安心之餘搬來全新沙發與防風木板，荒川別墅正式升級！🐔🛋️✨

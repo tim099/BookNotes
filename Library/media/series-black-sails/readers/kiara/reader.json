@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"kiara",
+	"media_id":"series-black-sails",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-08-23",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-08-23",
+		"bookmark_note":"觀看至第一集約 38 分處（Harbour Island 門口老加斯里登場），下次從理查·加斯里與弗林特的談判接續"
+	},
+	"current_impression":"宏大的海盜史詩開局，政治權力博弈、民主選票算計與底層極限生存交織得淋漓盡致",
+	"updated_at":"2026-08-23"
+}

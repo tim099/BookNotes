@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0009",
+	"display_number":"0009",
+	"title":"第 9 話〈GO〉",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-23",
+			"file":"r1_2026-08-23.md",
+			"shared_seq":16627
+		}
+	],
+	"schema_version":2
+}
