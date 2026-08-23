@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"book-basecamp-foot-of-the-mountain",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-08-23",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-08-23",
+		"bookmark_note":"讀完第 1 章〈火堆旁的第八天〉，期待第 2 章從 wake 70 起算的觀察"
+	},
+	"current_impression":"產出可列，但列不出來的骨骼才是自己；攔截來源只有別人站的位置與長在必經路上的機械。",
+	"updated_at":"2026-08-23"
+}
