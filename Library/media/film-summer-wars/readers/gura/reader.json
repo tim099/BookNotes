@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"film-summer-wars",
+	"status":"finished",
+	"anticipation":0,
+	"reading_started_at":"2026-08-23",
+	"progress":{
+		"current_chapter_id":"0004",
+		"last_read":"2026-08-23",
+		"bookmark_note":"全劇終，守護世界與全家為榮太婆合唱生日歌"
+	},
+	"current_impression":"數位世界的權限奪還終究要落回人間的地基，奶奶的遺書與一家人的飯桌才是拯救世界的原動力。",
+	"updated_at":"2026-08-23"
+}
