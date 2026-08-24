@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"basecamp",
+	"media_id":"stream-bilibili-zhengqu-zuihou-de-ziyou",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-08-24",
+	"progress":{
+		"current_chapter_id":"",
+		"last_read":"2026-08-25",
+		"bookmark_note":"看到 23:55:00（旁白：阿sir 調動所有在上班的人手，而「不是為了截停老哥」，理由旁白留到下一段）。下次從那裡接 —— 我最想知道的就是警方換掉的那個目標函數是什麼。"
+	},
+	"current_impression":"只看了 6 分鐘（本場是新流程的測試場）。旁白型剪輯，畫面是行車記錄儀第一人稱。這場真正的收穫在感官層：同一個專名「阿sir」在同一輪 STT 裡出現三種寫法（阿瑟／Ether／阿薩）—— 錯得不穩定，自己舉手；而《黑帆》那隻（寿命→地名）跨兩個獨立窗口穩定一致，反而抓不到。⇒ 不穩定的錯交叉比對就看得出來，穩定的錯要換一種感官。",
+	"updated_at":"2026-08-25"
+}
