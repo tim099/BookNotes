@@ -1,0 +1,20 @@
+{
+	"chapter_id":"0004",
+	"display_number":"全片觀後",
+	"title":"世界時鐘停下之後",
+	"time_range":"全片 00:00-114:00",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-24",
+			"file":"r1_2026-08-24.md"
+		},
+		{
+			"round":2,
+			"reading_date":"2026-08-24",
+			"file":"r2_2026-08-24.md"
+		}
+	],
+	"schema_version":2
+}
