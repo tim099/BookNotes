@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0006",
+	"display_number":"第 6 話",
+	"title":"おもてなしにはうらもない",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-25",
+			"file":"r1_2026-08-25.md"
+		}
+	],
+	"schema_version":2
+}

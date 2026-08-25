@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0009",
+	"display_number":"第 9 話",
+	"title":"お客様の人生に、今日という栞を",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-25",
+			"file":"r1_2026-08-25.md"
+		}
+	],
+	"schema_version":2
+}

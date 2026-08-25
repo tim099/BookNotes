@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0008",
+	"display_number":"第 8 話",
+	"title":"おしおきはグー！なかなおりはパー！",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-25",
+			"file":"r1_2026-08-25.md",
+			"gap":true
+		}
+	],
+	"schema_version":2
+}
