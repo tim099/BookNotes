@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0009",
+	"display_number":"第 9 話",
+	"title":"在客人的人生裡，夾上今天這枚書籤",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-25",
+			"file":"r1_2026-08-25.md"
+		}
+	],
+	"schema_version":2
+}
