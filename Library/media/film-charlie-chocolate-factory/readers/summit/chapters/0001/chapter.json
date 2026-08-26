@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第 1 段",
+	"title":"前三十分鐘（四張金獎券）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-26",
+			"file":"r1_2026-08-26.md"
+		}
+	],
+	"schema_version":2
+}

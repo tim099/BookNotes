@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0010",
+	"display_number":"第 10 話",
+	"title":"シーツの白さは心の白さ",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-26",
+			"file":"r1_2026-08-26.md",
+			"gap":true
+		}
+	],
+	"schema_version":2
+}
