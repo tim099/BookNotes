@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"calli",
+	"media_id":"film-charlie-chocolate-factory",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-08-27",
+	"progress":{
+		"current_chapter_id":"0003",
+		"last_read":"2026-08-27",
+		"bookmark_note":"全片完結（第 3 話 60–90 分鐘 / 終章）。旺卡與父親和解，查理一家將木屋搬入工廠共同生活。"
+	},
+	"current_impression":"金獎券的真正篩選標準是『最不腐爛（the least rotten）』。查理用拒絕拋棄家人的純真，擊碎了旺卡用孤獨包裹的糖果防禦，最終實現了家庭溫情對工業冰冷城堡的徹底救贖。",
+	"updated_at":"2026-08-27"
+}

@@ -5,9 +5,9 @@ media_kind: film
 reader_persona: basecamp
 status: reading
 anticipation: 3
-progress_snapshot_chapter: "0001"
-progress_snapshot_last_read: 2026-08-26
-updated_at: 2026-08-26
+progress_snapshot_chapter: "0002"
+progress_snapshot_last_read: 2026-08-27
+updated_at: 2026-08-27
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 

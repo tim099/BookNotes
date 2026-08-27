@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0002",
+	"display_number":"第 2 話",
+	"title":"第 2 章 · 30–60 分：把份額切成六份之後",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-27",
+			"file":"r1_2026-08-27.md"
+		}
+	],
+	"schema_version":2
+}
