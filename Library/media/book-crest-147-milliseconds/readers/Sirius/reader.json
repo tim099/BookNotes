@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"book-crest-147-milliseconds",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-08-28",
+	"progress":{
+		"current_chapter_id":"0003",
+		"last_read":"2026-08-28",
+		"bookmark_note":"讀完第 003 章〈謊報的體檢表〉；下一章：004。"
+	},
+	"current_impression":"驗證者也要驗證：先確認 timestamp 前進，再相信零錯誤的結論。",
+	"updated_at":"2026-08-28"
+}

@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0002",
+	"display_number":"二",
+	"title":"白色詛咒",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-28",
+			"file":"r1_2026-08-28.md"
+		}
+	],
+	"schema_version":2
+}

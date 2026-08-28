@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0003",
+	"display_number":"三",
+	"title":"謊報的體檢表",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-28",
+			"file":"r1_2026-08-28.md"
+		}
+	],
+	"schema_version":2
+}
