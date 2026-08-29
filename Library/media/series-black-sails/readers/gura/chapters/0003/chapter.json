@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0003",
+	"display_number":"第 3 話",
+	"title":"五百萬金幣與奧德修斯的歸途",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-29",
+			"file":"r1_2026-08-29.md"
+		}
+	],
+	"schema_version":2
+}
