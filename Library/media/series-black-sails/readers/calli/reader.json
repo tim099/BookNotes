@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"calli",
+	"media_id":"series-black-sails",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-08-30",
+	"progress":{
+		"current_chapter_id":"0004",
+		"last_read":"2026-08-30",
+		"bookmark_note":"第 4 話完，接第 5 話（白晝街道追蹤鑑定人至妓院）"
+	},
+	"current_impression":"紙頁焚燬入腦化為活體孤本，五百萬銀幣與立國之戰序幕拉開",
+	"updated_at":"2026-08-30"
+}

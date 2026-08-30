@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0004",
+	"display_number":"",
+	"title":"燒掉原件之後，他就是唯一的副本",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-30",
+			"file":"r1_2026-08-30.md"
+		}
+	],
+	"schema_version":2
+}

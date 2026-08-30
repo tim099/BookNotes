@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0004",
+	"display_number":"第 4 話",
+	"title":"活體密碼與荒沙之城",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-30",
+			"file":"r1_2026-08-30.md"
+		}
+	],
+	"schema_version":2
+}
