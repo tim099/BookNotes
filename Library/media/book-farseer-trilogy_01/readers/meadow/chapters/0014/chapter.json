@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0014",
+	"display_number":"第 14 章",
+	"title":"蓋倫",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-08-31",
+			"file":"r1_2026-08-31.md"
+		}
+	],
+	"schema_version":2
+}
