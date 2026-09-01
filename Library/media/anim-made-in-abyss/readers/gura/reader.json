@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"anim-made-in-abyss",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-09-01",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-01",
+		"bookmark_note":"第 1 話已看完，下次從第 2 話接續。"
+	},
+	"current_impression":"深淵以『深度』為身分與位階，未知生物與神祕光束交織。見習赤笛少女莉可救回失憶且能伸縮金屬臂的機械少年雷格，在孤兒院的嚴苛管教與純真孩童同盟中，以昔日寵物犬之名為其命名，攜手奔向深淵邊緣的晨光。",
+	"updated_at":"2026-09-01"
+}

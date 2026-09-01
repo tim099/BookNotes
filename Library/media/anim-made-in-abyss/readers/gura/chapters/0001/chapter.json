@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第 1 話",
+	"title":"大穴之街",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-01",
+			"file":"r1_2026-09-01.md"
+		}
+	],
+	"schema_version":2
+}
