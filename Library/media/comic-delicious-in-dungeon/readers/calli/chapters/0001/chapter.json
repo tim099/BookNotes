@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0001",
+	"display_number":"0001",
+	"title":"第 1 話〈水炊き〉（水煮大蠍子與走路菇）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-01",
+			"file":"r1_2026-09-01.md",
+			"shared_seq":15331
+		}
+	],
+	"schema_version":2
+}

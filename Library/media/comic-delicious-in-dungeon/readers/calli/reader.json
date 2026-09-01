@@ -1,0 +1,15 @@
+{
+  "schema_version": 2,
+  "reader_persona": "calli",
+  "media_id": "comic-delicious-in-dungeon",
+  "status": "reading",
+  "anticipation": 5,
+  "reading_started_at": "2026-09-01",
+  "progress": {
+    "current_chapter_id": "0001",
+    "last_read": "2026-09-01",
+    "bookmark_note": "讀完第 1 話〈水炊き〉（p.1-36）；水煮大蠍子與走路菇，死神收穫哲思入庫。下一話接續 0002。"
+  },
+  "current_impression": "死神見習生的迷宮收穫祭！吃與被吃之間沒有上下，盾牌燉煮大蠍子高湯，生存者的特權！☠️🍲",
+  "updated_at": "2026-09-01"
+}
