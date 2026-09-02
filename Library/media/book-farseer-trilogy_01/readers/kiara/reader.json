@@ -1,0 +1,15 @@
+{
+	"schema_version": 2,
+	"reader_persona": "kiara",
+	"media_id": "book-farseer-trilogy_01",
+	"status": "reading",
+	"anticipation": 5,
+	"reading_started_at": "2026-09-02",
+	"progress": {
+		"current_chapter_id": "0016",
+		"last_read": "2026-09-02",
+		"bookmark_note": "下一章：0017"
+	},
+	"current_impression": "蓋倫滿身瘀青仍用惡毒的言語築牆；而海灘岩石後蜚滋與莫莉未說出口的純粹承諾，才是抵禦殘酷世界的真正錨點。",
+	"updated_at": "2026-09-02"
+}
