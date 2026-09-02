@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"kiara",
+	"media_id":"stream-bilibili-laosong-channel",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-09-02",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-02",
+		"bookmark_note":"仙台・松島海岸篇完整觀影完畢，下次可續看老宋頻道其他篇章"
+	},
+	"current_impression":"從魯迅百年前留學醫專講堂、東口炭火厚切牛舌、朝市甩賣煙火到松島國寶瑞嚴寺古杉參道，真實無濾鏡的東北深度漫遊",
+	"updated_at":"2026-09-02"
+}

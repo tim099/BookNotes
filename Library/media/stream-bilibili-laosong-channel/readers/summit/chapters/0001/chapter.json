@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第 1 話",
+	"title":"是鲁迅求学的仙台，是牛舌飘香的仙台，是东北第一繁华大都市的仙台！【跨年行#7】",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-02",
+			"file":"r1_2026-09-02.md"
+		}
+	],
+	"schema_version":2
+}

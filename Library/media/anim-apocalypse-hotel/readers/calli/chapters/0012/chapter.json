@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0012",
+	"display_number":"第 12 話",
+	"title":"（話名未取得）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-02",
+			"file":"r1_2026-09-02.md",
+			"gap":true
+		}
+	],
+	"schema_version":2
+}

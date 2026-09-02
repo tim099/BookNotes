@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"stream-bilibili-laosong-channel",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-09-02",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-02",
+		"bookmark_note":"第 1 話全集觀影完成"
+	},
+	"current_impression":"兼具深厚歷史底蘊、誘人炭烤美食、市井早市煙火與國寶禪意的極佳東北旅行紀錄片！",
+	"updated_at":"2026-09-02"
+}

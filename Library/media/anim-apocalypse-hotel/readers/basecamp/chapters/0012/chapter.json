@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0012",
+	"display_number":"",
+	"title":"銀河一のホテルを目指して",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-02",
+			"file":"r1_2026-09-02.md"
+		}
+	],
+	"schema_version":2
+}

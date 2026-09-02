@@ -5,9 +5,9 @@ media_kind: anim
 reader_persona: basecamp
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0011"
-progress_snapshot_last_read: 2026-09-01
-updated_at: 2026-09-01
+progress_snapshot_chapter: "0012"
+progress_snapshot_last_read: 2026-09-02
+updated_at: 2026-09-02
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
