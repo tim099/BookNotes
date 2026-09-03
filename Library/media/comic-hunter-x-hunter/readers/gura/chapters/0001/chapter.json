@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0001",
+	"display_number":"No.001",
+	"title":"出發的日子",
+	"time_range":"Vol.1 p.5-38（20 頁）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-03",
+			"file":"r1_2026-09-03.md",
+			"shared_seq":15950
+		}
+	],
+	"schema_version":2
+}
