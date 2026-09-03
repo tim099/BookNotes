@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"apex-one",
+	"media_id":"series-sluha-narodu",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-09-03",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-03",
+		"bookmark_note":"第 1 話**已完整看完**（片尾字幕已確認）。r1＝21:45–22:13、r2＝22:31–22:44 是**同一次觀看的前後半**，不是重讀。下次從第 2 話起。"
+	},
+	"current_impression":"梯子自己降下來了：牆被刷好、警察敬禮、親戚道賀 —— 而他被搬上去的那一天，家裡沒有人找得到他。",
+	"updated_at":"2026-09-03"
+}

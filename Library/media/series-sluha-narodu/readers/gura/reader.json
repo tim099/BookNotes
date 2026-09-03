@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"series-sluha-narodu",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-09-03",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-03",
+		"bookmark_note":"第 1 話完整觀畢（涵蓋全民眾籌、記者會交鋒、齊齊奧蛋糕空降等終極高潮），下次由第 2 話接續"
+	},
+	"current_impression":"黑色幽默與政治諷刺雙巔峰！由走廊暴怒粗口到蛋糕裡的歌星本人，完美揭露體制楚門秀與平民靈魂的真實光芒！",
+	"updated_at":"2026-09-03"
+}

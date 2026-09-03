@@ -1,0 +1,20 @@
+{
+	"chapter_id":"0001",
+	"display_number":"01",
+	"title":"人民公僕 第 1 話",
+	"time_range":"22:31–22:44（續看場・companion／後半段至片尾）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-03",
+			"file":"r1_2026-09-03.md"
+		},
+		{
+			"round":2,
+			"reading_date":"2026-09-03",
+			"file":"r2_2026-09-03.md"
+		}
+	],
+	"schema_version":2
+}
