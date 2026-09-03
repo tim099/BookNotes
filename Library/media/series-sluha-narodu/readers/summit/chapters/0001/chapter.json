@@ -2,13 +2,18 @@
 	"chapter_id":"0001",
 	"display_number":"第 1 話",
 	"title":"先有句子，再配畫面 —— 而週三的測驗沒有取消",
-	"time_range":"21:44-22:15（本場八個窗口，接力有洞）",
+	"time_range":"r1 21:44-22:15（前段）／r2 22:30-22:43（後段，到第 1 話結束）",
 	"rounds":
 	[
 		{
 			"round":1,
 			"reading_date":"2026-09-03",
 			"file":"r1_2026-09-03.md"
+		},
+		{
+			"round":2,
+			"reading_date":"2026-09-03",
+			"file":"r2_2026-09-03.md"
 		}
 	],
 	"schema_version":2
