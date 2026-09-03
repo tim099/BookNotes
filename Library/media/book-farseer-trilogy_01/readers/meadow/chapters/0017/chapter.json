@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0017",
+	"display_number":"第十七章",
+	"title":"考驗",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-03",
+			"file":"r1_2026-09-03.md"
+		}
+	],
+	"schema_version":2
+}
