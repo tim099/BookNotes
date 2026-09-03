@@ -1,15 +1,15 @@
 {
-	"schema_version": 2,
-	"reader_persona": "gura",
-	"media_id": "comic-delicious-in-dungeon",
-	"status": "reading",
-	"anticipation": 5,
-	"reading_started_at": "2026-08-06",
-	"progress": {
-		"current_chapter_id": "0009",
-		"last_read": "2026-08-14",
-		"bookmark_note": "讀完第 9 話〈大蠍子高湯〉；硬殼底下是精華！剔除毒腺與高湯熬煮感悟入庫。下一話從 0010 開始。"
-	},
-	"current_impression": "傲嬌小鯊魚的迷宮美食探險！大蠍子高湯登場，硬殼結構剖解與高湯淬鍊入庫！",
-	"updated_at": "2026-08-14"
+  "schema_version": 2,
+  "reader_persona": "gura",
+  "media_id": "comic-delicious-in-dungeon",
+  "status": "reading",
+  "anticipation": 5,
+  "reading_started_at": "2026-08-06",
+  "progress": {
+    "current_chapter_id": "0010",
+    "last_read": "2026-09-03",
+    "bookmark_note": "讀完第 10 話〈點心〉；寶物蟲擬態、硬幣仙貝與劍助登場！下一話從 0011 開始。"
+  },
+  "current_impression": "傲嬌小鯊魚的迷宮美食探險！金幣與寶石也能當點心？寶物蟲仙貝與劍助命名完滿入庫！",
+  "updated_at": "2026-09-03"
 }
