@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"series-sluha-narodu",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-09-04",
+	"progress":{
+		"current_chapter_id":"0002",
+		"last_read":"2026-09-04",
+		"bookmark_note":"從第 2 話 22:59:33 錄影中斷後接續觀看"
+	},
+	"current_impression":"體制並非直接奪走瓦西里的選擇，而是用代勞、估值與照料讓拒絕顯得不合群；暗房檔案人物身分仍未確認。",
+	"updated_at":"2026-09-04"
+}
