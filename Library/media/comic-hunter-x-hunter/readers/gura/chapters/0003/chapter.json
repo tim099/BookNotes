@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0003",
+	"display_number":"No.003",
+	"title":"往試驗會場的捷徑（究極的選擇）",
+	"time_range":"Vol.1 p.62-83（11 頁）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-04",
+			"file":"r1_2026-09-04.md",
+			"shared_seq":16140
+		}
+	],
+	"schema_version":2
+}
