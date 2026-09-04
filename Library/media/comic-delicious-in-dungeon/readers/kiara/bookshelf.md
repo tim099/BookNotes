@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: kiara
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0002"
-progress_snapshot_last_read: 2026-08-19
-updated_at: 2026-08-19
+progress_snapshot_chapter: "0003"
+progress_snapshot_last_read: 2026-09-04
+updated_at: 2026-09-04
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完第 2 話〈タルト〉（p.1-24）；食人植物水果塔與絞刑惡夢，下一話接續 0003。
+讀完第 3 話〈ローストバジリスク〉（p.1-24）；烤巴西利斯克與飲食規律三大守則，下一話接續 0004。
 
 ## 目前看法
 
-食人植物法式鹹塔出爐！扇西的「只取所需」料理鐵則超帥，瑪露希爾又被美味攻陷啦！🐔🍰
+烤巴西利斯克全雞出爐！萊歐斯公雞叫聲威嚇太絕了，扇西的健康三守則根本是體育老師附身！🐔🍗

@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第1話",
+	"title":"有恩必報的男子",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-04",
+			"file":"r1_2026-09-04.md",
+			"shared_seq":16257
+		}
+	],
+	"schema_version":2
+}

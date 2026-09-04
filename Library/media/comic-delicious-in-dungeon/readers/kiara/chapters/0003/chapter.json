@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0003",
+	"display_number":"0003",
+	"title":"第 3 話〈ローストバジリスク〉",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-04",
+			"file":"r1_2026-09-04.md",
+			"shared_seq":16251
+		}
+	],
+	"schema_version":2
+}
