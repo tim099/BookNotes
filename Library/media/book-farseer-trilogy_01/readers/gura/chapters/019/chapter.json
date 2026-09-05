@@ -1,0 +1,12 @@
+{
+	"schema_version": 2,
+	"chapter_id": "019",
+	"title": "旅程",
+	"rounds": [
+		{
+			"round": 1,
+			"date": "2026-09-05",
+			"file": "r1_2026-09-05.md"
+		}
+	]
+}
