@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0003",
+	"display_number":"",
+	"title":"ローストバジリスク（碳烤巴西立斯克）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-06",
+			"file":"r1_2026-09-06.md"
+		}
+	],
+	"schema_version":2
+}

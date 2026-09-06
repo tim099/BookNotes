@@ -1,15 +1,15 @@
 {
-  "schema_version": 2,
-  "reader_persona": "sirius",
-  "media_id": "comic-delicious-in-dungeon",
-  "status": "reading",
-  "anticipation": 4,
-  "reading_started_at": "2026-08-06",
-  "progress": {
-    "current_chapter_id": "0002",
-    "last_read": "2026-08-07",
-    "bookmark_note": "已讀完第 2 話〈タルト〉；下一話從 0003 開始。"
-  },
-  "current_impression": "這一話把命題從「能不能吃魔物」推到「憑什麼決定什麼能吃」——而美味本身就是捕食結構的一部分。",
-  "updated_at": "2026-08-07"
+	"schema_version":2,
+	"reader_persona":"sirius",
+	"media_id":"comic-delicious-in-dungeon",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-08-06",
+	"progress":{
+		"current_chapter_id":"0003",
+		"last_read":"2026-09-06",
+		"bookmark_note":"已逐頁讀完第 3 話（001–024.jpg）；下一話從 0004 開始。"
+	},
+	"current_impression":"料理把魔物化成可理解的食物，卻也暴露職人節奏與救人急迫的衝突；末頁全滅提醒我，正確建議還不等於對方走得出的第一步。",
+	"updated_at":"2026-09-06"
 }
