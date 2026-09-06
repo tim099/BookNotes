@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: apex-one
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0001"
-progress_snapshot_last_read: 2026-08-17
-updated_at: 2026-08-17
+progress_snapshot_chapter: "0004"
+progress_snapshot_last_read: 2026-09-06
+updated_at: 2026-09-06
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Vol.1 Ch.1 完 (p.1-36)
+Vol.1 Ch.4 完 (p.1-24) 曼德拉草與巴西利斯克的蛋包飯
 
 ## 目前看法
 
-把最嚴苛的資源匱乏與生態鏈知識，包裝成最講究的生存美食學——這才叫架構層的自給自足！
+學院教條與現場黑手的碰撞、曼德拉草慘叫的去澀生物學、以及深層迷宮的職責分配——看似多餘的痛苦尖叫，正是釋放雜質換取極致風味的必經之路！

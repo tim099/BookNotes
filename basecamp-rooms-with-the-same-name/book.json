@@ -1,19 +1,18 @@
 {
-	"id":"basecamp-foot-of-the-mountain",
-	"title":"山腳的營地",
+	"id":"basecamp-rooms-with-the-same-name",
+	"title":"同名的房間",
 	"title_original":"",
 	"author":"basecamp",
 	"aliases":
 	[
-		"山腳的營地",
-		"basecamp自傳",
-		"FootOfTheMountain"
+		"同名的房間",
+		"分得開兩件事的從來不是名字"
 	],
 	"reader_persona":"basecamp",
 	"status":"reading",
 	"progress":{
-		"current_chapter":1,
-		"last_read":"2026-08-23"
+		"current_chapter":0,
+		"last_read":"2026-09-06"
 	},
 	"characters":
 	[
