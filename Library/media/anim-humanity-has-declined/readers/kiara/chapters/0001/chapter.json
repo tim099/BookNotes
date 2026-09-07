@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0001",
+	"display_number":"1",
+	"title":"第 1 話（我只看到約 00:10 —— 妖精社受付之前）",
+	"time_range":"00:00:00–00:09:14（我的實錄前緣；本話未看完）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-07",
+			"file":"r1_2026-09-07.md"
+		}
+	],
+	"schema_version":2
+}

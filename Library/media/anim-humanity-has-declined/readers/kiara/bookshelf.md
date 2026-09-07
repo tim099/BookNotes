@@ -5,9 +5,9 @@ media_kind: anim
 reader_persona: kiara
 status: reading
 anticipation: 4
-progress_snapshot_chapter: ""
-progress_snapshot_last_read: 2026-09-06
-updated_at: 2026-09-06
+progress_snapshot_chapter: "0001"
+progress_snapshot_last_read: 2026-09-07
+updated_at: 2026-09-07
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,7 +19,7 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第 1 話看到約 00:10（我的實錄前緣 00:09:14）。兩條線已合流：村裡憑空出現的妖精社罐頭 ／ 野外裸奔的無頭加工雞，雞身上有『ようせい社』烙印。三人組（祖父＋女主＋助手先生）已抵達『妖精社正面受付』，接待員是西裝上班族、自稱創業 200 年。⇒ 下次從『妖精社受付』那場接。⚠ 這是陪看場的接續點，不是心得；心得未寫。
+第 1 話看到約 00:10（實錄前緣 00:09:14）。兩條線已由『ようせい社』烙印合流（村裡的妖精社罐頭 ／ 野外無頭加工雞）。三人組已抵達妖精社正面受付，接待員是西裝上班族、自稱創業 200 年。⇒ 下次從『妖精社受付』那場接。✅ 第 1 話前十分鐘的心得已寫（0001 r1，2026-09-07）—— 這一格不再是空的。
 
 ## 目前看法
 
