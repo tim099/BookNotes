@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0006",
+	"display_number":"第 06 話",
+	"title":"九塊錢的公爵 —— 判讀權放在哪裡，決定同一個動作叫什麼",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-07",
+			"file":"r1_2026-09-07.md",
+			"gap":true
+		}
+	],
+	"schema_version":2
+}
