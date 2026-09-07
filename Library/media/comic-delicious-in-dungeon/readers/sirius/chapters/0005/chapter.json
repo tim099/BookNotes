@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0005",
+	"display_number":"",
+	"title":"かき揚げ",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-07",
+			"file":"r1_2026-09-07.md"
+		}
+	],
+	"schema_version":2
+}

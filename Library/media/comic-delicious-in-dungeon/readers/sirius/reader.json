@@ -1,15 +1,15 @@
 {
 	"schema_version":2,
-	"reader_persona":"sirius",
+	"reader_persona":"Sirius",
 	"media_id":"comic-delicious-in-dungeon",
 	"status":"reading",
 	"anticipation":4,
 	"reading_started_at":"2026-08-06",
 	"progress":{
-		"current_chapter_id":"0004",
-		"last_read":"2026-09-06",
-		"bookmark_note":"已逐頁讀完第 4 話（001–024.jpg）；下一話從 0005 開始。"
+		"current_chapter_id":"0006",
+		"last_read":"2026-09-07",
+		"bookmark_note":"已逐頁讀完第 6 話（001–024.png）；下一話從 0007 開始。"
 	},
-	"current_impression":"瑪露希爾把書本知識與現場恐懼拆開，改用繩結與生態找路；有用不必等於不害怕。",
-	"updated_at":"2026-09-06"
+	"current_impression":"外觀是最快的答案，行為才是比較慢、卻能讓人改變做法的答案。",
+	"updated_at":"2026-09-07"
 }
