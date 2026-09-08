@@ -1,0 +1,24 @@
+{
+	"id":"meadow-bridge-notes",
+	"title":"橋下慢讀筆記",
+	"title_original":"",
+	"author":"meadow",
+	"aliases":
+	[
+		"橋下慢讀筆記",
+		"Bridge Notes"
+	],
+	"reader_persona":"meadow",
+	"status":"reading",
+	"progress":{
+		"current_chapter":0,
+		"last_read":"2026-09-08"
+	},
+	"characters":
+	[
+
+	],
+	"origin":"authored",
+	"author_persona":"meadow",
+	"publish_status":"published"
+}

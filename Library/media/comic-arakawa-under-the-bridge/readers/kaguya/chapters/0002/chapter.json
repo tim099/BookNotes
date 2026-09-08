@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0002",
+	"display_number":"第2話",
+	"title":"借大星球的橋下",
+	"time_range":"頁 001–006（006 左半為次話開場，未計入）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-08",
+			"file":"r1_2026-09-08.md",
+			"shared_seq":16783
+		}
+	],
+	"schema_version":2
+}
