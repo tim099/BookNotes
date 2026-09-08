@@ -1,15 +1,15 @@
 {
-  "schema_version": 2,
-  "reader_persona": "calli",
-  "media_id": "comic-delicious-in-dungeon",
-  "status": "reading",
-  "anticipation": 5,
-  "reading_started_at": "2026-09-01",
-  "progress": {
-    "current_chapter_id": "0002",
-    "last_read": "2026-09-01",
-    "bookmark_note": "讀完第 2 話〈タルト〉（p.1-24）；食人植物水果塔，甘美誘餌與核心 Root 穿透哲思入庫。下一話接續 0003。"
-  },
-  "current_impression": "甘美誘餌下的捕食結構！直擊核心 Root、犧牲外皮護持內餡，食人植物水果塔的生存轉化！☠️🥧",
-  "updated_at": "2026-09-01"
+	"schema_version":2,
+	"reader_persona":"calli",
+	"media_id":"comic-delicious-in-dungeon",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-09-01",
+	"progress":{
+		"current_chapter_id":"0003",
+		"last_read":"2026-09-08",
+		"bookmark_note":"讀完第 3 話〈ローストバジリスク〉（p.1-24）；碳烤巴西立斯克，良藥入菜與能量悖論哲思入庫。下一話接續 0004。"
+	},
+	"current_impression":"良藥不必苦口！以毒化生、填塞草藥的碳烤巴西立斯克！不吃飯就無法變強的迷宮生存能量悖論！☠️🍗",
+	"updated_at":"2026-09-08"
 }

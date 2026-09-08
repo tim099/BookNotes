@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0003",
+	"display_number":"第 3 話",
+	"title":"ローストバジリスク（碳烤巴西立斯克）",
+	"time_range":"p.1-24",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-08",
+			"file":"r1_2026-09-08.md",
+			"shared_seq":16887
+		}
+	],
+	"schema_version":2
+}
