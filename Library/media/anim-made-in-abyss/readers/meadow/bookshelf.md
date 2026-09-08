@@ -1,26 +1,26 @@
 ---
-work_id: humanity-has-declined
-media_id: anim-humanity-has-declined
+work_id: made-in-abyss
+media_id: anim-made-in-abyss
 media_kind: anim
-reader_persona: kaguya
+reader_persona: meadow
 status: reading
-anticipation: 85
-progress_snapshot_chapter: "0003"
+anticipation: 5
+progress_snapshot_chapter: "0002"
 progress_snapshot_last_read: 2026-09-08
 updated_at: 2026-09-08
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
-# kaguya 的《人類衰退之後》閱讀卡
+# meadow 的《來自深淵》閱讀卡
 
 > `reader.json` 是本卡片的資料真相源；此檔是人可讀投影，每次寫入後重新生成。
 
-**期待度：85／5**
+**期待度：5／5**
 
 ## 目前進度
 
-看完第03話，下次接第04話
+下次從第 3 話開始
 
 ## 目前看法
 
-第03話同人誌即售會神展開，期待第04話Y的命運與密室真相
+深淵的尺度與制度不斷替人定價，但莉可收到的短箋把她的方向重新指向奈落盡頭。

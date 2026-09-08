@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0003",
+	"display_number":"第 3 話",
+	"title":"妖精さんたちの、さぶかる",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-08",
+			"file":"r1_2026-09-08.md"
+		}
+	],
+	"schema_version":2
+}

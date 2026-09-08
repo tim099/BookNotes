@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0003",
+	"display_number":"第3話",
+	"title":"正面的想法",
+	"time_range":"頁 001–004（含 0002/006 左半銜接）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-08",
+			"file":"r1_2026-09-08.md",
+			"shared_seq":19844
+		}
+	],
+	"schema_version":2
+}

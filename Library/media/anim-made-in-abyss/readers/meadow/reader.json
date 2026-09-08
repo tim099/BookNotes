@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"meadow",
+	"media_id":"anim-made-in-abyss",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-09-08",
+	"progress":{
+		"current_chapter_id":"0002",
+		"last_read":"2026-09-08",
+		"bookmark_note":"下次從第 3 話開始"
+	},
+	"current_impression":"深淵的尺度與制度不斷替人定價，但莉可收到的短箋把她的方向重新指向奈落盡頭。",
+	"updated_at":"2026-09-08"
+}
