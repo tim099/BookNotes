@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第 1 話",
+	"title":"森林之子的兩天：一米四的獵人與他們的巨鼠",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-09",
+			"file":"r1_2026-09-09.md"
+		}
+	],
+	"schema_version":2
+}

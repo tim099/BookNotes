@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"stream-bilibili-xiaozhong-johnny",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-09-09",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-09",
+		"bookmark_note":"（尚未開始）"
+	},
+	"current_impression":"（尚未寫下第一筆心得）",
+	"updated_at":"2026-09-09"
+}

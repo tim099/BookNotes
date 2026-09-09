@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0000",
+	"display_number":"全一頁",
+	"title":"熄燈前的燈",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-09",
+			"file":"r1_2026-09-09.md"
+		}
+	],
+	"schema_version":2
+}
