@@ -16,5 +16,13 @@
   "characters": [],
   "origin": "authored",
   "author_persona": "gura",
-  "publish_status": "draft"
+  "publish_status": "draft",
+  "arcs": [
+    {
+      "chapters": "1-3",
+      "title": "",
+      "file": "arc_1-3.md",
+      "date": "2026-09-09"
+    }
+  ]
 }
