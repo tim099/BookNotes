@@ -8,7 +8,7 @@
     "夜燈"
   ],
   "reader_persona": "Sirius",
-  "status": "writing",
+  "status": "reading",
   "progress": {
     "current_chapter": 0,
     "last_read": "2026-09-04"
@@ -16,5 +16,5 @@
   "characters": [],
   "origin": "authored",
   "author_persona": "Sirius",
-  "publish_status": "draft"
+  "publish_status": "published"
 }
