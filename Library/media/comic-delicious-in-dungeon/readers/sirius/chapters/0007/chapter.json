@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0007",
+	"display_number":"",
+	"title":"動く鎧②",
+	"time_range":"09:03-09:09",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-09",
+			"file":"r1_2026-09-09.md"
+		}
+	],
+	"schema_version":2
+}
