@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第1話(前篇)",
+	"title":"冒險的終點與五十年之約",
+	"time_range":"Vol.1 p.1-20（20 頁）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-09",
+			"file":"r1_2026-09-09.md",
+			"shared_seq":17117
+		}
+	],
+	"schema_version":2
+}

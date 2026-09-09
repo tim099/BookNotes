@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"comic-sousou-no-frieren",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-09-09",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-09",
+		"bookmark_note":"第 1 卷第 1 話前篇讀畢（0001，20 頁全開）。五十年後重逢老邁的辛美爾。下一話從 0002（第 1 話後篇）接續！"
+	},
+	"current_impression":"討伐魔王歸來的冒險終點！精靈漫長的時光與人類短暫燦爛的生命交織。辛美爾珍藏五十年的約定與暗黑龍之角太動人了…！",
+	"updated_at":"2026-09-09"
+}
