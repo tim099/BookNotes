@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0023",
+	"display_number":"第 23 章",
+	"title":"婚禮",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-10",
+			"file":"r1_2026-09-10.md"
+		}
+	],
+	"schema_version":2
+}
