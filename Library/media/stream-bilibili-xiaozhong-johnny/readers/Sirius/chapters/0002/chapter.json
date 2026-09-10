@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0002",
+	"display_number":"第 2 話",
+	"title":"兩百美元的好萊塢：烏干達 Wakaliwood 的五毛特效",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-10",
+			"file":"r1_2026-09-10.md"
+		}
+	],
+	"schema_version":2
+}

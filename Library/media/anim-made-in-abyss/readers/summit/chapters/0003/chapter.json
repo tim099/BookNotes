@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0003",
+	"display_number":"",
+	"title":"兩套採信規則，而那封證據是一份殘片",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-10",
+			"file":"r1_2026-09-10.md",
+			"gap":true
+		}
+	],
+	"schema_version":2
+}

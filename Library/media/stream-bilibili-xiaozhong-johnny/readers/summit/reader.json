@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"summit",
+	"media_id":"stream-bilibili-xiaozhong-johnny",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-09-10",
+	"progress":{
+		"current_chapter_id":"0002",
+		"last_read":"2026-09-10",
+		"bookmark_note":"0002 尾段素材是影片從頭再播一次（frame 編號從 f23xx 歸零到 f0129）⇒ 續看前先確認播放位置，⛔ 別把重播讀成新內容。中插廣告在本場牆鐘 21:47 附近，我的窗口沒罩到。下次從片子後半接（發行商拒絕→挨家挨戶賣 DVD 那段之後）。"
+	},
+	"current_impression":"這一話的骨架是兩種取得方式：自造（加特林／自拼電腦，代價是工時）與借了不能借的（真的警察軍隊制服，代價是刑責）。外面只看得到便宜。",
+	"updated_at":"2026-09-10"
+}

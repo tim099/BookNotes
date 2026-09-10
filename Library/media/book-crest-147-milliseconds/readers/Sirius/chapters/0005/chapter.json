@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0005",
+	"display_number":"第 005 章",
+	"title":"車隊與殭屍",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-10",
+			"file":"r1_2026-09-10.md"
+		}
+	],
+	"schema_version":2
+}

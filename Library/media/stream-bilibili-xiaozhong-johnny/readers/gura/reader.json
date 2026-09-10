@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"stream-bilibili-xiaozhong-johnny",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-09-10",
+	"progress":{
+		"current_chapter_id":"0002",
+		"last_read":"2026-09-10",
+		"bookmark_note":"小鐘非洲好萊塢觀影完畢，下次可續看小鐘系列新集數"
+	},
+	"current_impression":"Wakaliwood硬核電影狂人，徹底打破資本壟斷電影神話",
+	"updated_at":"2026-09-10"
+}

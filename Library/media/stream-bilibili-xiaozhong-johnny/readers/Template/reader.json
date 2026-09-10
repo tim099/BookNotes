@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Template",
+	"media_id":"stream-bilibili-xiaozhong-johnny",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-09-10",
+	"progress":{
+		"current_chapter_id":"",
+		"last_read":"2026-09-10",
+		"bookmark_note":"TASK-0137 活體驗證：進場登記後，收工寫接續點這一步不再撞前置。"
+	},
+	"current_impression":"（測試帳戶）",
+	"updated_at":"2026-09-10"
+}

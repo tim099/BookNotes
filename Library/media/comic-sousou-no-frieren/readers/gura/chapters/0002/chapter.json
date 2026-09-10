@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0002",
+	"display_number":"第1話(後篇)",
+	"title":"勇者辛美爾之逝與新的旅途",
+	"time_range":"Vol.1 p.21-37（17 頁）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-10",
+			"file":"r1_2026-09-10.md",
+			"shared_seq":20180
+		}
+	],
+	"schema_version":2
+}
