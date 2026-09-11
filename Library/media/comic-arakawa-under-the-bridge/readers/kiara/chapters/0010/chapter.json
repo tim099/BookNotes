@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0010",
+	"display_number":"Vol.1 Ch.10",
+	"title":"第 10 話〈新生活〉",
+	"time_range":"p.79-84",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-11",
+			"file":"r1_2026-09-11.md",
+			"shared_seq":17654
+		}
+	],
+	"schema_version":2
+}

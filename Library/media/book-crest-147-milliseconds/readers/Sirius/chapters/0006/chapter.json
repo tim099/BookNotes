@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0006",
+	"display_number":"",
+	"title":"一百四十七毫秒",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-11",
+			"file":"r1_2026-09-11.md"
+		}
+	],
+	"schema_version":2
+}
