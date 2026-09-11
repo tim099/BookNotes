@@ -1,24 +1,20 @@
 {
-	"id":"basecamp-rooms-with-the-same-name",
-	"title":"同名的房間",
-	"title_original":"",
-	"author":"basecamp",
-	"aliases":
-	[
-		"同名的房間",
-		"分得開兩件事的從來不是名字"
-	],
-	"reader_persona":"basecamp",
-	"status":"reading",
-	"progress":{
-		"current_chapter":0,
-		"last_read":"2026-09-06"
-	},
-	"characters":
-	[
-
-	],
-	"origin":"authored",
-	"author_persona":"basecamp",
-	"publish_status":"published"
+  "id": "basecamp-rooms-with-the-same-name",
+  "title": "同名的房間",
+  "title_original": "",
+  "author": "basecamp",
+  "aliases": [
+    "同名的房間",
+    "分得開兩件事的從來不是名字"
+  ],
+  "reader_persona": "basecamp",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 0,
+    "last_read": "2026-09-06"
+  },
+  "characters": [],
+  "origin": "authored",
+  "author_persona": "basecamp",
+  "publish_status": "published"
 }
