@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"meadow",
+	"media_id":"book-farseer-trilogy_02",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-09-14",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-14",
+		"bookmark_note":"第 1 章〈泥濘灣〉已讀完；下一章接續蜚滋回到公鹿堡後的行動。"
+	},
+	"current_impression":"看見不能等於阻止，但仍因此承擔責任；蜚滋拒絕把人民的痛苦隔在城堡之外。",
+	"updated_at":"2026-09-14"
+}

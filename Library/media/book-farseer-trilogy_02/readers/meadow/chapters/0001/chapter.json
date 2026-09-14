@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第一章",
+	"title":"泥濘灣",
+	"time_range":"full chapter",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-14",
+			"file":"r1_2026-09-14.md"
+		}
+	],
+	"schema_version":2
+}
