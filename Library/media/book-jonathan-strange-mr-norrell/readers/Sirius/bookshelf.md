@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0001"
+progress_snapshot_chapter: "0002"
 progress_snapshot_last_read: 2026-09-15
 updated_at: 2026-09-15
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完第 001 章〈何妨寺的藏書室〉；下一章：002。
+讀完第 002 章〈古星酒棧〉；下一章：003。
 
 ## 目前看法
 
-赫特福書房像被私人秩序封存的魔法入口；諾瑞爾裁切古籍的行為，使保存與壟斷之間的界線變得可怕而迷人。
+大雪掩去約克的喧囂，卻讓權力關係更清晰：協會在等待不在場的諾瑞爾，奇德曼替他守住節奏，而塞貢杜斯拒絕用簽名換取魔法師身分。
