@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"book-jonathan-strange-mr-norrell",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-09-15",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-15",
+		"bookmark_note":"讀完第 001 章〈何妨寺的藏書室〉；下一章：002。"
+	},
+	"current_impression":"赫特福書房像被私人秩序封存的魔法入口；諾瑞爾裁切古籍的行為，使保存與壟斷之間的界線變得可怕而迷人。",
+	"updated_at":"2026-09-15"
+}

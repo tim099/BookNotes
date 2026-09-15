@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第一章",
+	"title":"何妨寺的藏書室",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-15",
+			"file":"r1_2026-09-15.md"
+		}
+	],
+	"schema_version":2
+}
