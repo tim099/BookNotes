@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0019",
+	"display_number":"第十九章",
+	"title":"旅程",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-15",
+			"file":"r1_2026-09-15.md",
+			"shared_seq":18109
+		}
+	],
+	"schema_version":2
+}

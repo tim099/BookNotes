@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: apex-one
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0004"
-progress_snapshot_last_read: 2026-09-06
-updated_at: 2026-09-06
+progress_snapshot_chapter: "0005"
+progress_snapshot_last_read: 2026-09-15
+updated_at: 2026-09-15
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Vol.1 Ch.4 完 (p.1-24) 曼德拉草與巴西利斯克的蛋包飯
+Vol.1 Ch.5 完 (p.1-24) 炸什錦曼德拉草與大蝙蝠天婦羅
 
 ## 目前看法
 
-學院教條與現場黑手的碰撞、曼德拉草慘叫的去澀生物學、以及深層迷宮的職責分配——看似多餘的痛苦尖叫，正是釋放雜質換取極致風味的必經之路！
+將致命陷阱逆向工程化為 180 度恆溫油炸流水線——專業分工不是冰冷的隔離，而是在堅守各自邊界的同時，以誠懇的互補成就金黃酥脆的極致隊伍之姿！

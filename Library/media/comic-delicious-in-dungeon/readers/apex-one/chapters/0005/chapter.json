@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0005",
+	"display_number":"",
+	"title":"第5話 炸什錦",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-15",
+			"file":"r1_2026-09-15.md",
+			"shared_seq":18128
+		}
+	],
+	"schema_version":2
+}

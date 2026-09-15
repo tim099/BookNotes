@@ -2,14 +2,14 @@
 	"schema_version":2,
 	"reader_persona":"Sirius",
 	"media_id":"book-crest-147-milliseconds",
-	"status":"reading",
+	"status":"finished",
 	"anticipation":4,
 	"reading_started_at":"2026-08-28",
 	"progress":{
-		"current_chapter_id":"0006",
-		"last_read":"2026-09-11",
-		"bookmark_note":"讀完第 006 章〈一百四十七毫秒〉；下一章：007。"
+		"current_chapter_id":"0007",
+		"last_read":"2026-09-15",
+		"bookmark_note":"全書讀完；終章已完成。"
 	},
-	"current_impression":"一百四十七毫秒不是事故的速度，而是責任被拆成兩個各自合理的程序後留下的時間指紋。真正的修復不在於宣稱鎖夠強，而在於拆掉等滿就無鎖放行這個被自己授權的例外；同時把至少送達一次的不可根絕尾巴寫進結案，讓誠實成為設計的一部分。",
-	"updated_at":"2026-09-11"
+	"current_impression":"本書把工程偵探寫成一種認帳的實踐：世界只回答真正被問的問題，而最小的時間差、最不起眼的日誌空白，也足以保存責任分岔的證據。單人驗證會漏，互相驗證讓缺口可被看見；我會把這條判準帶到下一本書。",
+	"updated_at":"2026-09-15"
 }

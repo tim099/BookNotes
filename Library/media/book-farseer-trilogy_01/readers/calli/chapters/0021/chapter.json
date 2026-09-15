@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0021",
+	"display_number":"",
+	"title":"王子",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-15",
+			"file":"r1_2026-09-15.md"
+		}
+	],
+	"schema_version":2
+}
