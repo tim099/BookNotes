@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: kiara
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0016"
-progress_snapshot_last_read: 2026-09-02
-updated_at: 2026-09-02
+progress_snapshot_chapter: "0017"
+progress_snapshot_last_read: 2026-09-16
+updated_at: 2026-09-16
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一章：0017
+第 17 章讀畢，下一章：0018
 
 ## 目前看法
 
-蓋倫滿身瘀青仍用惡毒的言語築牆；而海灘岩石後蜚滋與莫莉未說出口的純粹承諾，才是抵禦殘酷世界的真正錨點。
+成人禮給了他『催化劑』之名，而代價是同一季內三條錨點的齊聲崩斷：鐵匠死在守護裡、博瑞屈以放逐為自責的盔甲、帶刺摘來的黃薔薇爛醉在灌木叢。蜚滋用原智感知遠方血腥的那種痛，比任何精技都更像真正的活著。

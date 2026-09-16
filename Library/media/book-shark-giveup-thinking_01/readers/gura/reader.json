@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"book-shark-giveup-thinking_01",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-09-16",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-16",
+		"bookmark_note":"（尚未開始）"
+	},
+	"current_impression":"1/16鯊魚血統連游泳都不會就被遣返，甚至決定在海島搞基建！輕鬆搞笑又反套路的開局太對本小姐胃口了！",
+	"updated_at":"2026-09-16"
+}

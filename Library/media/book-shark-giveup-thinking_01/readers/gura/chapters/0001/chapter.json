@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第1章",
+	"title":"被遣返的倒楣蛋小鯊魚",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-16",
+			"file":"r1_2026-09-16.md"
+		}
+	],
+	"schema_version":2
+}

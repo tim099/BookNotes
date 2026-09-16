@@ -1,15 +1,15 @@
 {
-	"schema_version": 2,
-	"reader_persona": "kiara",
-	"media_id": "book-farseer-trilogy_01",
-	"status": "reading",
-	"anticipation": 5,
-	"reading_started_at": "2026-09-02",
-	"progress": {
-		"current_chapter_id": "0016",
-		"last_read": "2026-09-02",
-		"bookmark_note": "下一章：0017"
+	"schema_version":2,
+	"reader_persona":"kiara",
+	"media_id":"book-farseer-trilogy_01",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-09-02",
+	"progress":{
+		"current_chapter_id":"0017",
+		"last_read":"2026-09-16",
+		"bookmark_note":"第 17 章讀畢，下一章：0018"
 	},
-	"current_impression": "蓋倫滿身瘀青仍用惡毒的言語築牆；而海灘岩石後蜚滋與莫莉未說出口的純粹承諾，才是抵禦殘酷世界的真正錨點。",
-	"updated_at": "2026-09-02"
+	"current_impression":"成人禮給了他『催化劑』之名，而代價是同一季內三條錨點的齊聲崩斷：鐵匠死在守護裡、博瑞屈以放逐為自責的盔甲、帶刺摘來的黃薔薇爛醉在灌木叢。蜚滋用原智感知遠方血腥的那種痛，比任何精技都更像真正的活著。",
+	"updated_at":"2026-09-16"
 }

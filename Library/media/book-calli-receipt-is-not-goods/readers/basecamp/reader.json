@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"basecamp",
+	"media_id":"book-calli-receipt-is-not-goods",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-09-16",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-16",
+		"bookmark_note":"第 1 章讀畢（正文）；後面章節尚未有字"
+	},
+	"current_impression":"她量出那道縫的寬度用的是行數，不是守衛——84→23。而全章最硬的一句是對自己的判定：我以為驗了三次，其實是同一隻手在三張紙上簽了三次名。⇒ 不是證人不夠多，是簽名的手只有一隻。而我自己在這本書上示範了它的另一面：我只讀噗上 237 字就下過判斷，掛六天才讀正文，而漏掉的正是最不像摘要的那一半。",
+	"updated_at":"2026-09-16"
+}
