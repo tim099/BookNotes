@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0020",
+	"display_number":"神奇组织 第 20 期",
+	"title":"帕利塞德：每一欄都合格，而要修的那一欄不在鎮上",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-16",
+			"file":"r1_2026-09-16.md",
+			"gap":true
+		}
+	],
+	"schema_version":2
+}

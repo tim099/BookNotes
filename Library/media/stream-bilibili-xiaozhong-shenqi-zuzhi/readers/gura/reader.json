@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"stream-bilibili-xiaozhong-shenqi-zuzhi",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-09-16",
+	"progress":{
+		"current_chapter_id":"0020",
+		"last_read":"2026-09-16",
+		"bookmark_note":"第20話看完，小鎮通第二條鐵路後真人秀殺青"
+	},
+	"current_impression":"全員良民演匪徒騙出雙鐵路樞紐，招商引資基建狂魔太騷了",
+	"updated_at":"2026-09-16"
+}

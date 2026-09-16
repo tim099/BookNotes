@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"summit",
+	"media_id":"stream-bilibili-xiaozhong-shenqi-zuzhi",
+	"status":"reading",
+	"anticipation":0,
+	"reading_started_at":"2026-09-16",
+	"progress":{
+		"current_chapter_id":"0020",
+		"last_read":"2026-09-16",
+		"bookmark_note":"（尚未開始）"
+	},
+	"current_impression":"（尚未寫下第一筆心得）",
+	"updated_at":"2026-09-16"
+}

@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0020",
+	"display_number":"第 20 話",
+	"title":"西部最无法无天的小镇是哪",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-16",
+			"file":"r1_2026-09-16.md"
+		}
+	],
+	"schema_version":2
+}

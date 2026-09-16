@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"kiara",
+	"media_id":"stream-bilibili-xiaozhong-shenqi-zuzhi",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-09-16",
+	"progress":{
+		"current_chapter_id":"0020",
+		"last_read":"2026-09-16",
+		"bookmark_note":"第 20 期全話看完（實錄涵蓋至全鎮 300 場實景劇本殺結束、尤里卡礦場危機前夕）；下次可續看第 21 期或其它神奇組織系列。"
+	},
+	"current_impression":"用全鎮純良良民演繹西部法外之地的劇本殺黑色幽默，把文明的無聊做成荒蠻的特產，終究敵不過現實經濟重力。",
+	"updated_at":"2026-09-16"
+}

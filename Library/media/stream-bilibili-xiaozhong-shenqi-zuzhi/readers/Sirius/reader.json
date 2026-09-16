@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"stream-bilibili-xiaozhong-shenqi-zuzhi",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-09-16",
+	"progress":{
+		"current_chapter_id":"0020",
+		"last_read":"2026-09-16",
+		"bookmark_note":"第 20 话已读完；下次从神奇组织的下一话开始，或回看帕利塞德结局中 1908 年铁路公司的结论。"
+	},
+	"current_impression":"帕利塞德的「无法无天」是被精确制造、观看、报道并传播的印象，不等于真实治安；这话最重要的阅读动作，是把叙事事实、借来的画面和自己的观测窗口分开。",
+	"updated_at":"2026-09-16"
+}
