@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0002",
+	"display_number":"2",
+	"title":"歸鄉",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-16",
+			"file":"r1_2026-09-16.md"
+		}
+	],
+	"schema_version":2
+}
