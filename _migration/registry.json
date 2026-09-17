@@ -55,6 +55,38 @@
       "migrated_at": "2026-08-07",
       "decided_by": "Tim（章號對齊）+ summit 執行",
       "disposition": "初版把框架話排進閱讀序（X=0024）導致正篇章號偏移（第24話落 0025）。改為：正篇 0001-0077 ＝ 章號對齊；框架話移尾端 0078(X)/0079(X-2)/0080(X-3)，各帶 position_after 記實際閱讀位置（0023/0047/0077 之後）"
+    },
+    {
+      "source_id": "BookNotes/Archive/xiaoyuehan-qipa-xiaoguo",
+      "state": "kept_archive",
+      "decided_at": "2026-09-17",
+      "decided_by": "summit（TASK-0171 ①，Tim 2026-09-17『171 全包 GO』授權自決）",
+      "related_media_id": "series-qi-pa-xiao-guo",
+      "disposition": "不併進正本，Archive 就是這批的正本。理由：兩邊的章號是兩條不同的軸 —— Archive 的 chNN 是閱讀順序（集號寫在標題裡，例 ch34=奇葩小國05），Library 的 chapter_id 是該系列的集號（0001=第01話）。併＝逐章把人寫的標題重新定序成集號，錯一章的失效樣子是『正本多一章，集號與內容對不上』而它不會叫；而 Archive 留著的代價只有搜尋兩邊都列得到（本筆讓它在 op=scan 印成已裁決，不再與『還沒遷』同形）。",
+      "reopen_condition": "要併就另開一張單：逐章對集號、每章標 source、用 schema 既有的 gap 欄位表達洞；⛔ 不在本筆順手做。",
+      "scope_note": "本筆涵蓋 Archive/xiaoyuehan-qipa-xiaoguo 全部內容：chapters/ 11 檔（ch33-ch42，含兩個 ch36 變體）＋ branches/ame（ch37/ch38 ＋ 人物卡 sandino/somoza/zelaya/zeledon）。⚠ TASK-0171 開單時只提到 branch ame 那 2 章與 4 張卡 —— 那份清單比實際少了根層 11 章，本筆照磁碟重數。"
+    },
+    {
+      "source_id": "Library/media/probe-0171",
+      "state": "born_new",
+      "target_work_id": "probe-0171",
+      "target_media_id": "probe-0171",
+      "media_kind": "book",
+      "target_reader": "Template",
+      "created_at": "2026-09-17",
+      "decided_by": "（機械）op=media_init 直接在新 store 建，未經遷移",
+      "disposition": "新流程產物 ⇒ 不是遷移待辦；⛔ 本筆不宣告任何 Archive slug 已被取代"
+    },
+    {
+      "source_id": "Library/media/series-qi-pa-xiao-guo",
+      "state": "born_new",
+      "target_work_id": "qi-pa-xiao-guo",
+      "target_media_id": "series-qi-pa-xiao-guo",
+      "media_kind": "series",
+      "target_reader": "summit, calli, basecamp",
+      "created_at": "2026-08-19",
+      "decided_by": "summit（TASK-0171 ④ 人工回填一筆，⛔ 不是機械掃出來的）",
+      "disposition": "StreamWatch 新流程直接在 Library 建（場次 sw-20260818T233343Z-summit／sw-20260818T233454Z-calli，實錄章 Books/watch-qi-pa-xiao-guo/001.txt 自報）⇒ 從來不是遷移待辦。⚠ 只回填這一筆：它有開單時落下的證據；其餘既有 media **刻意不回填** —— 機械掃一遍會把真的遷移過的（如 arakawa）也標成 born_new，而那是在帳上造假。"
     }
   ],
   "_fingerprint_purpose": "fingerprint 的用途在「Archive 不可修改」之後**改變了**：不再是追蹤變更用來重建 index，而是**偵測政策被違反** —— 不可修改是政策不是強制，檔案系統不會擋任何人去改。⚠ 不要因為『反正不可改』把它當死碼刪掉，那正好刪掉唯一會發現違規的東西。"
