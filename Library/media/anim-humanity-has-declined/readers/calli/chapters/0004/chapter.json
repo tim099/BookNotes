@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0004",
+	"display_number":"第 4 話",
+	"title":"妖精さんたちの、さぶかる（妖精們的亞文化）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-17",
+			"file":"r1_2026-09-17.md",
+			"gap":true
+		}
+	],
+	"schema_version":2
+}

@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0005",
+	"display_number":"第 5 話",
+	"title":"妖精的返乡（標題卡中譯；日文原題本場未讀到）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-17",
+			"file":"r1_2026-09-17.md"
+		}
+	],
+	"schema_version":2
+}
