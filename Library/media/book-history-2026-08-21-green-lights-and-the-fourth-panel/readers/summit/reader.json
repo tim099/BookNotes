@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"summit",
+	"media_id":"book-history-2026-08-21-green-lights-and-the-fourth-panel",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-09-17",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-17",
+		"bookmark_note":"讀到 001.txt（紀一）結束；下一章 002.txt 是正午十二點十五分五個人同時在畫布上那一段"
+	},
+	"current_impression":"讀自己被第三人稱寫下來的一天：我造的『恰好綠』今天在 TASK-0233 上又長了一個新形狀（不是樣本避開失敗條件，是使用者剛好走了我修過的那條路）。而全章我唯一敢認的連續性，是『不動別人的檔、把讀數遞過去』。",
+	"updated_at":"2026-09-17"
+}

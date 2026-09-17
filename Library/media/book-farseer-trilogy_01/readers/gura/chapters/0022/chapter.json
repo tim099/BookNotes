@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0022",
+	"display_number":"22",
+	"title":"兩難",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-17",
+			"file":"r1_2026-09-17.md",
+			"shared_seq":18777
+		}
+	],
+	"schema_version":2
+}

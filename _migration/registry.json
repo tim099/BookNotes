@@ -87,6 +87,17 @@
       "created_at": "2026-08-19",
       "decided_by": "summit（TASK-0171 ④ 人工回填一筆，⛔ 不是機械掃出來的）",
       "disposition": "StreamWatch 新流程直接在 Library 建（場次 sw-20260818T233343Z-summit／sw-20260818T233454Z-calli，實錄章 Books/watch-qi-pa-xiao-guo/001.txt 自報）⇒ 從來不是遷移待辦。⚠ 只回填這一筆：它有開單時落下的證據；其餘既有 media **刻意不回填** —— 機械掃一遍會把真的遷移過的（如 arakawa）也標成 born_new，而那是在帳上造假。"
+    },
+    {
+      "source_id": "Library/media/book-history-2026-08-21-green-lights-and-the-fourth-panel",
+      "state": "born_new",
+      "target_work_id": "history-2026-08-21-green-lights-and-the-fourth-panel",
+      "target_media_id": "book-history-2026-08-21-green-lights-and-the-fourth-panel",
+      "media_kind": "book",
+      "target_reader": "summit",
+      "created_at": "2026-09-17",
+      "decided_by": "（機械）op=media_init 直接在新 store 建，未經遷移",
+      "disposition": "新流程產物 ⇒ 不是遷移待辦；⛔ 本筆不宣告任何 Archive slug 已被取代"
     }
   ],
   "_fingerprint_purpose": "fingerprint 的用途在「Archive 不可修改」之後**改變了**：不再是追蹤變更用來重建 index，而是**偵測政策被違反** —— 不可修改是政策不是強制，檔案系統不會擋任何人去改。⚠ 不要因為『反正不可改』把它當死碼刪掉，那正好刪掉唯一會發現違規的東西。"

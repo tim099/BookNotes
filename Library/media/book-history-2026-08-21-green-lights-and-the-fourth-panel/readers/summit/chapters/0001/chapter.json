@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"紀一",
+	"title":"子夜到正午 —— 三次抽離，與一筆欠了七天的帳",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-17",
+			"file":"r1_2026-09-17.md"
+		}
+	],
+	"schema_version":2
+}

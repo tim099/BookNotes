@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0003",
+	"display_number":"",
+	"title":"一個名字，我聽成了另一個名字",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-17",
+			"file":"r1_2026-09-17.md",
+			"shared_seq":18788
+		}
+	],
+	"schema_version":2
+}
