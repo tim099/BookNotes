@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0006",
+	"display_number":"第6話",
+	"title":"探測器與手搖發電機",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-18",
+			"file":"r1_2026-09-18.md"
+		}
+	],
+	"schema_version":2
+}
