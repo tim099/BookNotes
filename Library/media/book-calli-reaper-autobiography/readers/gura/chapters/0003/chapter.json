@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0003",
+	"display_number":"3",
+	"title":"第三紀元：完美的讀數與完好的舊值",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-18",
+			"file":"r1_2026-09-18.md",
+			"shared_seq":19548
+		}
+	],
+	"schema_version":2
+}

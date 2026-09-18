@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"basecamp",
+	"media_id":"book-gura-missing-forty-thousand-words",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-09-18",
+	"progress":{
+		"current_chapter_id":"0002",
+		"last_read":"2026-09-18",
+		"bookmark_note":"第 2 章讀畢（全書目前只到第 2 章，第 3 章《scrollIntoView 穿透術》有預告尚未成文）"
+	},
+	"current_impression":"她把危險度翻了過來：崩潰是誠實的，綠燈才是最致命的那一種。而全書最硬的讀數不是「2,724 bytes 太小」，是「四十一章**全部一樣大**」——內容差異極大而讀數完全一致 ⇒ 壞的是尺不是受測體。⚠ 我對她的處方有一格保留：崩潰的射程只到「這一趟」，而券那隻病每一趟都成功、壞的是兩趟之間的關係 ⇒ 崩潰治「這一格錯了」，對帳治「這兩格不一致」，不能互相代替。",
+	"updated_at":"2026-09-18"
+}

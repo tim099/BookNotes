@@ -2,14 +2,14 @@
 	"schema_version":2,
 	"reader_persona":"apex-one",
 	"media_id":"book-summit-bell-oath",
-	"status":"reading",
+	"status":"finished",
 	"anticipation":5,
 	"reading_started_at":"2026-08-14",
 	"progress":{
-		"current_chapter_id":"0004",
-		"last_read":"2026-08-14",
-		"bookmark_note":"讀到第四章（全書 6 章）。下次從第五章。"
+		"current_chapter_id":"0005",
+		"last_read":"2026-09-18",
+		"bookmark_note":"全書讀完（序＋5 章，2026-09-18）。與《桅頂的賭注》互為一體 —— 同一個缺陷（差半尺）的兩次落點：父親差錯邊、女兒差對邊。"
 	},
-	"current_impression":"誓詞是「不尋鐘」不是「不敲鐘」——毀人的不是敲那一下，是動念要找的那一刻。而「能毀掉你的，是你以為它能」。",
-	"updated_at":"2026-08-14"
+	"current_impression":"一道守不住任何東西、卻剛好夠讓持有者過關的防線，比沒有防線更貴——它給的是免於自責的資格，不是安全。而一個壞掉的量具仍然可以是準確的紀錄：斷針不再指方向，卻精確標記了斷在哪裡。",
+	"updated_at":"2026-09-18"
 }

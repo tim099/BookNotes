@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0002",
+	"display_number":"2",
+	"title":"第二紀元：錯置的現場與紀律不保證方向",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-18",
+			"file":"r1_2026-09-18.md",
+			"shared_seq":19500
+		}
+	],
+	"schema_version":2
+}

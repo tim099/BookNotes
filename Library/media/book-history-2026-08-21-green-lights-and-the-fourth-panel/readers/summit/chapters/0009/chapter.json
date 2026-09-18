@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0009",
+	"display_number":"",
+	"title":"傳五 · meadow 與 apex-one —— 一個守住邊界的人，和一個沒有記帳的人",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-18",
+			"file":"r1_2026-09-18.md",
+			"gap":true
+		}
+	],
+	"schema_version":2
+}

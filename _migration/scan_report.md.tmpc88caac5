@@ -1,0 +1,45 @@
+---
+type: library_scan_report
+generated_at: 2026-09-18T11:03:06+08:00
+generated: mechanical   # 每次 op=scan 覆寫；本工具唯讀，遷移一律人工
+---
+
+# 🔍 Library 審計報告（op=scan）
+
+- Library media：40 個
+- Archive entry：101 個（另 2 筆已遷移預設隱藏 —— `--arg show_migrated=true` 顯示）
+
+## A. Archive ↔ Library 疑似同作品（12 組 —— 逐組人工裁決，不自動遷移）
+
+- Archive `basecamp-use-case-carving`（basecamp 大小姐的 Use Case 雕琢學:從 trailhead 到 summit） ↔ Library `book-basecamp-use-case-carving`（Use Case 雕琢學）　readers: calli
+- Archive `crest-147-milliseconds`（一百四十七毫秒） ↔ Library `book-crest-147-milliseconds`（一百四十七毫秒）　readers: Sirius
+- Archive `farseer-trilogy_01`（刺客正傳I·刺客學徒） ↔ Library `book-farseer-trilogy_01`（刺客正傳）　readers: calli, gura, kiara, meadow
+- Archive `farseer-trilogy_01`（刺客正傳I·刺客學徒） ↔ Library `book-farseer-trilogy_02`（刺客正傳）　readers: meadow
+- Archive `farseer-trilogy_02`（刺客正傳Ⅱ·皇家刺客） ↔ Library `book-farseer-trilogy_02`（刺客正傳）　readers: meadow
+- Archive `farseer-trilogy_03`（刺客正傳） ↔ Library `book-farseer-trilogy_01`（刺客正傳）　readers: calli, gura, kiara, meadow
+- Archive `farseer-trilogy_03`（刺客正傳） ↔ Library `book-farseer-trilogy_02`（刺客正傳）　readers: meadow
+- Archive `hunter-x-hunter`（獵人） ↔ Library `comic-hunter-x-hunter`（獵人 HUNTER×HUNTER）　readers: gura, summit
+- Archive `hunterxhunter`（獵人） ↔ Library `comic-hunter-x-hunter`（獵人 HUNTER×HUNTER）　readers: gura, summit
+- Archive `jonathan-strange-mr-norrell`（英倫魔法師） ↔ Library `book-jonathan-strange-mr-norrell`（英倫魔法師）　readers: apex-one, Sirius
+- Archive `summit-bell-oath`（鐘底的誓） ↔ Library `book-summit-bell-oath`（鐘底的誓）　readers: apex-one
+- Archive `summit-masthead-bet`（桅頂的賭注） ↔ Library `book-summit-masthead-bet`（桅頂的賭注）　readers: gura, Sirius
+
+## A′. 已裁決：**刻意不遷**（1 組 —— registry `state=kept_archive`，⛔ 不是候選、也不隱藏：Archive 就是它們的正本）
+
+- Archive `xiaoyuehan-qipa-xiaoguo`（奇葩小國（小約翰可汗）） ↔ Library `series-qi-pa-xiao-guo`（奇葩小國）　⛔ 刻意不遷：不併進正本，Archive 就是這批的正本。理由：兩邊的章號是兩條不同的軸 —— Archive 的 chNN 是閱讀順序（集號寫在標題裡，例 ch34=奇葩小國05），Library 的 chapter_id 是該系列的集號（0001=第01話）。併＝逐章把人寫的標題重新定序成集號，錯一章的失效樣子是『正本多一章，集號與內容對不上』而它不會叫；而 Archive 留著的代價只有搜尋兩邊都列得到（本筆讓它在 op=scan 印成已裁決，不再與『還沒遷』同形）。
+
+## B. Library 內部疑似重複（同名但不同 work_id —— arakawa 型爛帳的形狀）
+
+（無命中）
+
+## C. reader 異常（unknown / 缺 reader.json / persona 與資料夾名不一致）
+
+- `comic-delicious-in-dungeon/readers/sirius`：reader.json 宣告 `Sirius`（**大小寫不一致** —— NTFS 遮著，Linux 上追回檔會寫進版控外的 letters/）
+- `comic-delicious-in-dungeon/readers/unknown`：persona 解析失敗的 fallback 產物 —— 逐檔認領或併入正主，不可當真讀者
+
+## D. Archive metadata 讀不到（連被比對的資格都沒有 —— 要人看）
+
+- `jiezou-zhiqian`：檔案不存在：D:/Unity/LY/AgentCommands\BookNotes\Archive\jiezou-zhiqian\book.json
+- `wasureeki-01`：檔案不存在：D:/Unity/LY/AgentCommands\BookNotes\Archive\wasureeki-01\book.json
+
+> 本報告唯讀生成；**任何合併 / 搬移 / 改名都不由工具代辦**（Q3 定案：偵測自動、遷移人工）。

@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0023",
+	"display_number":"23",
+	"title":"婚禮",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-18",
+			"file":"r1_2026-09-18.md",
+			"shared_seq":19138
+		}
+	],
+	"schema_version":2
+}

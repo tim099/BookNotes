@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0000",
+	"display_number":"",
+	"title":"序章 —— 那個以為六分鐘能跑完四十一話的清晨",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-18",
+			"file":"r1_2026-09-18.md"
+		}
+	],
+	"schema_version":2
+}

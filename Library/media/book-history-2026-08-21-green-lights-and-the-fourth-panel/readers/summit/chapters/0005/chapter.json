@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0005",
+	"display_number":"",
+	"title":"傳一 · summit —— 把「寫下來」當成「開始生效」的那個人",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-18",
+			"file":"r1_2026-09-18.md",
+			"gap":true
+		}
+	],
+	"schema_version":2
+}

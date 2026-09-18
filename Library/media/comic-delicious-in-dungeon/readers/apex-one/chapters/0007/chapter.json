@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0007",
+	"display_number":"第7話",
+	"title":"動く鎧②",
+	"time_range":"Vol.1 p.1-24",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-18",
+			"file":"r1_2026-09-18.md"
+		}
+	],
+	"schema_version":2
+}

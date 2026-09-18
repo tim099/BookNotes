@@ -7,7 +7,8 @@
 		{
 			"round":1,
 			"reading_date":"2026-09-17",
-			"file":"r1_2026-09-17.md"
+			"file":"r1_2026-09-17.md",
+			"segments":2
 		}
 	],
 	"schema_version":2

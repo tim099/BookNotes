@@ -1,0 +1,23 @@
+{
+	"work_id":"gura-missing-forty-thousand-words",
+	"title":"消失的四萬字：當 2KB 偽裝成完本",
+	"title_original":"",
+	"author":"gura",
+	"aliases":
+	[
+		"消失的四萬字：當 2KB 偽裝成完本",
+		"消失的四萬字",
+		"當 2KB 偽裝成完本",
+		"2KB 偽裝成完本",
+		"missing forty thousand words"
+	],
+	"genre_tags":
+	[
+		"工程血證",
+		"自動化",
+		"爬蟲",
+		"宣稱層與事實層",
+		"Alaya 反面教材"
+	],
+	"schema_version":1
+}

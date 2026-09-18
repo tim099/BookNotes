@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0006",
+	"display_number":"",
+	"title":"真實",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-18",
+			"file":"r1_2026-09-18.md",
+			"shared_seq":19198
+		}
+	],
+	"schema_version":2
+}
