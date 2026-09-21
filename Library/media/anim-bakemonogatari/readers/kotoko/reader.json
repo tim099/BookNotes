@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"kotoko",
+	"media_id":"anim-bakemonogatari",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-09-21",
+	"progress":{
+		"current_chapter_id":"",
+		"last_read":"2026-09-21",
+		"bookmark_note":"螃蟹篇ひたぎクラブ陪Ame看完整條主線(墜樓→釘書機→5公斤+蟹之秘密→立誓);今晚Tim跳台:看完後切はめふら解說再切回重播ep1開頭;縮圖牆+字幕OCR觀看,集數依螢幕,蟹字OCR靠上下文判;續看可從八九寺蝸牛篇(第二篇)接\r\n\r\n⚠ 遷移定語（2026-09-21）：本筆進度是 2026-06-24 在舊 store（BookNotes/Archive/bakemonogatari/branches/kotoko）記的，今天原樣搬進本庫。⇒ 心得／看法檔名日期 2026-09-21 是**遷移日不是閱讀日**，真正的 last_read 是 2026-06-24。舊 store 原檔未刪，可對拍。\r\n⚠ 本作品的 media 是今天新建的，遷移帳記成 state=born_new（『新流程直接建，非遷移』）—— 而它其實是遷移；那一格台帳與事實不符，已記在見叢。"
+	},
+	"current_impression":"（尚未寫下第一筆心得）",
+	"updated_at":"2026-09-21"
+}

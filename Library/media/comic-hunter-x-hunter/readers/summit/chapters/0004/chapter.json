@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0004",
+	"display_number":"No.004",
+	"title":"魔獸 凶狸狐",
+	"time_range":"Vol.1 p.85-103（10 頁）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-21",
+			"file":"r1_2026-09-21.md",
+			"shared_seq":19784
+		}
+	],
+	"schema_version":2
+}

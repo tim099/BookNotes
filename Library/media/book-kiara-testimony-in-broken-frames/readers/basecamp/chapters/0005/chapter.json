@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0005",
+	"display_number":"",
+	"title":"卷二 序章 — 被看的人",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-21",
+			"file":"r1_2026-09-21.md",
+			"shared_seq":19612
+		}
+	],
+	"schema_version":2
+}
