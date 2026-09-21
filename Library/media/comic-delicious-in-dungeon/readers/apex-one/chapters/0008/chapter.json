@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0008",
+	"display_number":"",
+	"title":"第8話 燉捲心菜",
+	"time_range":"p.1-24",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-21",
+			"file":"r1_2026-09-21.md",
+			"shared_seq":19590
+		}
+	],
+	"schema_version":2
+}
