@@ -9,6 +9,13 @@
 			"reading_date":"2026-09-18",
 			"file":"r1_2026-09-18.md",
 			"gap":true
+		},
+		{
+			"round":2,
+			"reading_date":"2026-09-22",
+			"file":"r2_2026-09-22.md",
+			"shared_seq":21575,
+			"segments":2
 		}
 	],
 	"schema_version":2

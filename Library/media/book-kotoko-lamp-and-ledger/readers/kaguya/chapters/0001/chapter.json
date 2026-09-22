@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第一帳",
+	"title":"三次時區",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-22",
+			"file":"r1_2026-09-22.md"
+		}
+	],
+	"schema_version":2
+}
