@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0014",
+	"display_number":"014",
+	"title":"傷心農莊",
+	"time_range":"1808年1月",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-22",
+			"file":"r1_2026-09-22.md"
+		}
+	],
+	"schema_version":2
+}

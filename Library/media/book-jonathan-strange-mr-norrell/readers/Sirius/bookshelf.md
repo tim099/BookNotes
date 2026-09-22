@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0013"
+progress_snapshot_chapter: "0014"
 progress_snapshot_last_read: 2026-09-22
 updated_at: 2026-09-22
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Read 0013; continue from 0014.
+Read 0014; continue from 0015.
 
 ## 目前看法
 
-當街頭傳言闖進書房，諾瑞爾先護住書而不是施法；受控的學術魔法最怕的不是強敵，而是無法收編的敘事。
+寒冷同時是環境、命令與報應：Jeremy 活下來，Lawrence Strange 的秩序在自己打開的書房裡停止。
