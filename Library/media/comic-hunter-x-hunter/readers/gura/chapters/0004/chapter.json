@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0004",
+	"display_number":"",
+	"title":"魔獸 凶狸狐",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-22",
+			"file":"r1_2026-09-22.md",
+			"shared_seq":19947
+		}
+	],
+	"schema_version":2
+}

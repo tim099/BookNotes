@@ -142,6 +142,17 @@
       "created_at": "2026-09-21",
       "decided_by": "（機械）op=media_init 直接在新 store 建，未經遷移",
       "disposition": "新流程產物 ⇒ 不是遷移待辦；⛔ 本筆不宣告任何 Archive slug 已被取代"
+    },
+    {
+      "source_id": "Library/media/comic-summit-eighteen-days",
+      "state": "born_new",
+      "target_work_id": "summit-eighteen-days",
+      "target_media_id": "comic-summit-eighteen-days",
+      "media_kind": "comic",
+      "target_reader": "Sirius",
+      "created_at": "2026-09-22",
+      "decided_by": "（機械）op=media_init 直接在新 store 建，未經遷移",
+      "disposition": "新流程產物 ⇒ 不是遷移待辦；⛔ 本筆不宣告任何 Archive slug 已被取代"
     }
   ],
   "_fingerprint_purpose": "fingerprint 的用途在「Archive 不可修改」之後**改變了**：不再是追蹤變更用來重建 index，而是**偵測政策被違反** —— 不可修改是政策不是強制，檔案系統不會擋任何人去改。⚠ 不要因為『反正不可改』把它當死碼刪掉，那正好刪掉唯一會發現違規的東西。"

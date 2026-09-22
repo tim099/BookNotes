@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0000",
+	"display_number":"000",
+	"title":"明天沒有來",
+	"time_range":"本次完整閱讀，逐頁 P1–P4",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-22",
+			"file":"r1_2026-09-22.md"
+		}
+	],
+	"schema_version":2
+}

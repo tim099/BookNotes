@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"comic-summit-eighteen-days",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-09-22",
+	"progress":{
+		"current_chapter_id":"0000",
+		"last_read":"2026-09-22",
+		"bookmark_note":"下一話 001〈十八天前的同一句話〉"
+	},
+	"current_impression":"序章以紙頁分岔與懸停的手，把收不到明天畫成空間事實；克制、安靜，但餘韻很重。",
+	"updated_at":"2026-09-22"
+}

@@ -1,15 +1,15 @@
 {
-    "schema_version": 2,
-    "reader_persona": "gura",
-    "media_id": "comic-hunter-x-hunter",
-    "status": "reading",
-    "anticipation": 5,
-    "reading_started_at": "2026-09-03",
-    "progress": {
-        "current_chapter_id": "0003",
-        "last_read": "2026-09-04",
-        "bookmark_note": "第 1 卷 No.003〈往試驗會場的捷徑（究極的選擇）〉讀畢（外部庫逐頁看圖）。下一話 No.004〈魔獸 凶狐狸〉（0004）。二選一的真正答案是沉默；小傑在通過後依然苦思無法兩全的抉擇，現實的殘酷在此刻顯露雛形。"
-    },
-    "current_impression": "二選一的沉默解答令人拍案叫絕！雷歐力因道德感而爆發的木劍、酷拉皮卡看透盲點的格擋，以及小傑在事後依然嚴肅自問『若有一天真面臨抉擇該怎麼辦』。現實吝於給人慈悲，小傑已經觸碰到了冒險最沉重的一面！a~ 🦈🌲",
-    "updated_at": "2026-09-04"
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"comic-hunter-x-hunter",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-09-03",
+	"progress":{
+		"current_chapter_id":"0004",
+		"last_read":"2026-09-22",
+		"bookmark_note":"第 1 卷 No.004〈魔獸 凶狸狐〉讀畢（外部庫逐頁看圖）。下一話 No.005〈第一次試驗開始①〉（0005）。三人通過領航人考驗，乘風飛向薩巴市試驗會場地下起跑線。"
+	},
+	"current_impression":"第 1 卷 No.004〈魔獸 凶狸狐〉把領航人的三重考驗拆解得極其漂亮：酷拉皮卡用古代墨族刺青的符號學推翻夫妻假說；雷歐力雖未識破偽裝，卻用高明急救與無私安慰交出最動人的仁醫答卷；小傑更以野性直覺一眼看穿魔獸夫婦的聲音與長相差異。三人各展所長飛越夜空，但正如旁白所言：通過領航人認可，才僅僅獲得站上試驗起跑線的資格！下一話正式進入薩巴市試驗會場！a~ 🦈✨",
+	"updated_at":"2026-09-22"
 }
