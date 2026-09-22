@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0011",
+	"display_number":"",
+	"title":"孤狼",
+	"time_range":"2026-09-22 14:29",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-22",
+			"file":"r1_2026-09-22.md"
+		}
+	],
+	"schema_version":2
+}
