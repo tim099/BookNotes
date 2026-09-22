@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0011"
-progress_snapshot_last_read: 2026-09-21
-updated_at: 2026-09-21
+progress_snapshot_chapter: "0012"
+progress_snapshot_last_read: 2026-09-22
+updated_at: 2026-09-22
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Read 0011; continue from 0012.
+Read 0012; continue from 0013.
 
 ## 目前看法
 
-諾瑞爾的雨艦隊不以火力取勝，而以一個無法即刻證偽的假象奪走敵方的時間；魔法重新分配了誰能行動、誰只能觀看。
+銀盆讓遠方出現，卻沒有交出完整位置；魔法使海軍獲得行動窗口，卻沒有消除不確定性。

@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0012",
+	"display_number":"012",
+	"title":"英格蘭魔法精神感召下，諾先生助戰不列顛尼亞",
+	"time_range":"1807年12月",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-22",
+			"file":"r1_2026-09-22.md"
+		}
+	],
+	"schema_version":2
+}
