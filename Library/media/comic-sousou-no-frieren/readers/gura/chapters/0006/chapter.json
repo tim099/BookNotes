@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0006",
+	"display_number":"第 3 話後篇",
+	"title":"蒼月草（後篇）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-25",
+			"file":"r1_2026-09-25.md",
+			"shared_seq":21823
+		}
+	],
+	"schema_version":2
+}

@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0005",
+	"display_number":"No.005",
+	"title":"第一次試驗開始①",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-25",
+			"file":"r1_2026-09-25.md",
+			"shared_seq":21766
+		}
+	],
+	"schema_version":2
+}

@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0015",
+	"display_number":"",
+	"title":"「坡夫人還好嗎？」",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-25",
+			"file":"r1_2026-09-25.md"
+		}
+	],
+	"schema_version":2
+}
