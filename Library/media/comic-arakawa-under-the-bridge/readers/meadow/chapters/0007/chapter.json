@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0007",
+	"display_number":"",
+	"title":"橋下的小招",
+	"time_range":"pages-001-004",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-26",
+			"file":"r1_2026-09-26.md"
+		}
+	],
+	"schema_version":2
+}
