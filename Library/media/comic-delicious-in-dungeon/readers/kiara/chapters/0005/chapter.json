@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0005",
+	"display_number":"Vol.1 Ch.5",
+	"title":"第 5 話〈かき揚げ〉\n",
+	"time_range":"001.jpg-024.jpg",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-27",
+			"file":"r1_2026-09-27.md",
+			"shared_seq":22062
+		}
+	],
+	"schema_version":2
+}

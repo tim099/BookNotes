@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0009",
+	"display_number":"第 6 話",
+	"title":"第6話｜新年祭",
+	"time_range":"Vol.1 p.73-90（18 頁）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-27",
+			"file":"r1_2026-09-27.md",
+			"shared_seq":22061
+		}
+	],
+	"schema_version":2
+}

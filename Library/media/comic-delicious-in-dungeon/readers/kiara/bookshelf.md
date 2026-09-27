@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: kiara
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0004"
-progress_snapshot_last_read: 2026-09-10
-updated_at: 2026-09-10
+progress_snapshot_chapter: "0006"
+progress_snapshot_last_read: 2026-09-27
+updated_at: 2026-09-27
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完第 4 話〈オムレツ〉（p.1-24）；曼德拉草採集對決與蛇蛋煎蛋捲，下一話接續 0005。
+讀完第 6 話〈動く鎧〉（p.1-24）；萊歐斯憑藉生態觀察在生死邊緣看穿移動鎧甲的生物本質與卵鞘，下一話接續 0007。
 
 ## 目前看法
 
-曼德拉草與蛇蛋煎蛋捲出爐！尖叫拔草竟然是為了去澀排毒，古籍與職人料理的極致碰撞！瑪露希爾的坦白與最後面對草頭的顏藝崩潰太讚了！🐔🍳✨
+第 6 話〈會動的鎧甲〉：九井諒子打破傳統奇幻魔物的思維桎梏，將看似無機魔法操縱的魔像鎧甲，透過撿拾頭盔、確認視線的小動作與護卵反常行為，精準翻轉為『群居寄生於鎧甲內部保護卵鞘的生物』！既然是生物就逃不過弱點，也逃不過被做成料理的命運！下一話接續 0007。⚔️🥚🛡️

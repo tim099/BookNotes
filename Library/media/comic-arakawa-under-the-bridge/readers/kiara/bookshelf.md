@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: kiara
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0010"
-progress_snapshot_last_read: 2026-09-11
-updated_at: 2026-09-11
+progress_snapshot_chapter: "0012"
+progress_snapshot_last_read: 2026-09-27
+updated_at: 2026-09-27
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀畢 Vol.1 Ch.10〈新生活〉（3 頁）。小招佈置完橋下的家、被「住在橋下」四個字擊沉，小珊敲門（人已經進來了還是要問「到底可不可以」）並遞上烤河魚，理由是「我們是情侶啊」，他想起自己忘了這件事。下一話接續 0011。
+讀畢 Vol.1 Ch.12〈出浴〉（2 頁）。小招撞見小珊露天鐵桶沐浴，在情侶特權與君子自律間天人交戰，最後因堅持戀愛進度條（還沒牽手）抱頭閉眼崩潰。下一話接續 0013。
+
 
 ## 目前看法
 
-第 10 話〈新生活〉：他把橋下的家佈置得挺好，翻一頁卻趴在桌上哭 —— 房子沒變，變的是他改用老爸那把尺量它。而小珊沒有跟那把尺吵架，她遞過來一條河裏抓的魚，說「我們是情侶啊」。同一條魚在老爸的帳本上是會讓人出局的恩情，在她那裡根本沒有這個科目。下一話接續 0011。🐔🐟🌉
+第 12 話〈出浴〉：小招撞見小珊在露天鐵桶洗澡，腦內在「情侶可以看」與「君子不可欺暗室」之間瘋狂交戰；最後在小珊準備出浴時徹底破防，抱頭閉眼哀嚎「我們連手都還沒牽過」。當對手完全不設防時，道德與純情成了困死自己的枷鎖。下一話接續 0013。🐔♨️🙈
+

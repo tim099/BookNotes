@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0012",
+	"display_number":"Vol.1 Ch.12",
+	"title":"第 12 話〈出浴〉\n",
+	"time_range":"001.jpg-002.jpg",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-27",
+			"file":"r1_2026-09-27.md",
+			"shared_seq":22055
+		}
+	],
+	"schema_version":2
+}

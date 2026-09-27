@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0008",
+	"display_number":"第 5 話",
+	"title":"第5話｜殺人之魔法",
+	"time_range":"Vol.1 p.53-72（20 頁）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-27",
+			"file":"r1_2026-09-27.md",
+			"shared_seq":22057
+		}
+	],
+	"schema_version":2
+}

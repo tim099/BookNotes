@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0011",
+	"display_number":"Vol.1 Ch.11",
+	"title":"第 11 話〈共渡時光〉\n",
+	"time_range":"001.jpg-005.jpg",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-27",
+			"file":"r1_2026-09-27.md",
+			"shared_seq":22036
+		}
+	],
+	"schema_version":2
+}
