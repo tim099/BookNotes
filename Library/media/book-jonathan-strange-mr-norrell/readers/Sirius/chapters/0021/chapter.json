@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0021",
+	"display_number":"",
+	"title":"馬賽塔羅",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-28",
+			"file":"r1_2026-09-28.md"
+		}
+	],
+	"schema_version":2
+}

@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0020",
+	"display_number":"",
+	"title":"可疑的帽商",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-28",
+			"file":"r1_2026-09-28.md"
+		}
+	],
+	"schema_version":2
+}
