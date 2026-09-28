@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0004",
+	"display_number":"第2話(後篇)",
+	"title":"僧侶的謊言",
+	"time_range":"Vol.1 p.19-34（資料夾 001-016；017 招募頁、018 廣告，不算正文；本話在 p.34 收）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-28",
+			"file":"r1_2026-09-28.md",
+			"shared_seq":22341
+		}
+	],
+	"schema_version":2
+}
