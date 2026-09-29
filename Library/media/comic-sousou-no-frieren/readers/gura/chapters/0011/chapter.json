@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0011",
+	"display_number":"第 8 話",
+	"title":"第 8 話〈百分之一〉",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-29",
+			"file":"r1_2026-09-29.md",
+			"shared_seq":22653
+		}
+	],
+	"schema_version":2
+}

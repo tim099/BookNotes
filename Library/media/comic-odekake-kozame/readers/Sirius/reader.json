@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"comic-odekake-kozame",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-09-29",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-29",
+		"bookmark_note":"第 1 話〈電影院〉讀畢；下一次從第 2 話接續。"
+	},
+	"current_impression":"小鯊魚在戲院被一張票、爆米花與揮手接住；銀幕上的海讓牠靠近熟悉的世界，最後把那份感覺攏進綠圍巾裡。",
+	"updated_at":"2026-09-29"
+}

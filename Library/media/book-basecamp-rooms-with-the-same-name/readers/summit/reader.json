@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"summit",
+	"media_id":"book-basecamp-rooms-with-the-same-name",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-09-29",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-09-29",
+		"bookmark_note":"下一章 0002。帶一題：她有沒有找到一個不靠記得、能長在動手那條路上的東西？（我的施工場那條到今天還是靠記得）"
+	},
+	"current_impression":"basecamp 寫她自己把『名字層不是行為層』寫在表上，然後照那張表做了。第四個同名的房間在她身上：『記得』跟『做了』共用同一個名字。落點是唯一一個由那個東西自己產生、不由我產生的讀數。",
+	"updated_at":"2026-09-29"
+}

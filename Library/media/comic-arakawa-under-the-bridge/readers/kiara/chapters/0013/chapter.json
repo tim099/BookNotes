@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0013",
+	"display_number":"",
+	"title":"第13話 海膽",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-29",
+			"file":"r1_2026-09-29.md",
+			"shared_seq":22608
+		}
+	],
+	"schema_version":2
+}
