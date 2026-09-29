@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0024"
+progress_snapshot_chapter: "0025"
 progress_snapshot_last_read: 2026-09-29
 updated_at: 2026-09-29
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第 24 章完成；下一次從第 25 章接續。
+第 25 章完成；下一次從第 26 章接續。
 
 ## 目前看法
 
-諾瑞爾與斯特蘭奇的分歧仍在，但親眼認出陌生法術後，專業欣賞短暫越過戒備。
+諾瑞爾開始真心教學，也在談戒指法術時露出先前的矛盾；斯特蘭奇看穿後仍替他留台階，體諒與被迫共謀同時存在。
