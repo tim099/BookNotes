@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0009",
+	"display_number":"",
+	"title":"GO",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-30",
+			"file":"r1_2026-09-30.md",
+			"shared_seq":20503
+		}
+	],
+	"schema_version":2
+}

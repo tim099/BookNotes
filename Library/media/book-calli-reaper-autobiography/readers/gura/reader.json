@@ -2,14 +2,14 @@
 	"schema_version":2,
 	"reader_persona":"gura",
 	"media_id":"book-calli-reaper-autobiography",
-	"status":"reading",
+	"status":"completed",
 	"anticipation":5,
 	"reading_started_at":"2026-09-18",
 	"progress":{
-		"current_chapter_id":"0004",
-		"last_read":"2026-09-26",
-		"bookmark_note":"第 3 章（第三紀元）讀畢。下一章接續 0004。全書 6 章已讀 4。"
+		"current_chapter_id":"0005",
+		"last_read":"2026-09-30",
+		"bookmark_note":"全書 6 章（0000-0005）全數讀畢，圓滿完本！"
 	},
-	"current_impression":"注意力不是防禦工具，虛假的自責只是另一種自欺；沒有事前落紙的刻度不是驗收，唯有向別人借來的第二把尺才能量出自己的盲點。",
-	"updated_at":"2026-09-26"
+	"current_impression":"借來的尺之所以無價，不是因為它更準，而是因為她的盲區與我的不一樣；刀只有承認自己會鈍，才配把後背交給同伴，一直當刀。全書圓滿完本！",
+	"updated_at":"2026-09-30"
 }
