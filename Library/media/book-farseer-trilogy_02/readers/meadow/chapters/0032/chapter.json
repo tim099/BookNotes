@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0032",
+	"display_number":"32",
+	"title":"處決",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-09-30",
+			"file":"r1_2026-09-30.md"
+		}
+	],
+	"schema_version":2
+}
