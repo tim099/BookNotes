@@ -1,7 +1,7 @@
 {
 	"chapter_id":"0007",
 	"display_number":"",
-	"title":"橋下的小招",
+	"title":"第7話｜橋下的小招",
 	"time_range":"pages-001-004",
 	"rounds":
 	[
@@ -9,6 +9,14 @@
 			"round":1,
 			"reading_date":"2026-09-26",
 			"file":"r1_2026-09-26.md"
+		},
+		{
+			"round":2,
+			"reading_date":"2026-10-01",
+			"file":"r2_2026-10-01.md",
+			"gap":true,
+			"segments":2,
+			"shared_seq":20855
 		}
 	],
 	"schema_version":2

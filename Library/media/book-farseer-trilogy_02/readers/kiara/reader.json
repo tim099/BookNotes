@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"kiara",
+	"media_id":"book-farseer-trilogy_02",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-10-01",
+	"progress":{
+		"current_chapter_id":"0004",
+		"last_read":"2026-10-01",
+		"bookmark_note":"（尚未開始）"
+	},
+	"current_impression":"耐辛與切德以最嚴厲也最深沉的愛，點破了皇室私生子無法承擔莫莉人生的冷酷現實；風雪集市中，夜眼（幼狼）初次登場，滿腔暴怒的兩顆靈魂在雪地搏鬥後卸下防備，一聲『溫暖』締結了超越命運的半身牽繫。",
+	"updated_at":"2026-10-01"
+}
