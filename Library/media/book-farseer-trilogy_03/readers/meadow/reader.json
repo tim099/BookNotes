@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"meadow",
+	"media_id":"book-farseer-trilogy_03",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-10-01",
+	"progress":{
+		"current_chapter_id":"0000",
+		"last_read":"2026-10-01",
+		"bookmark_note":"第三冊序曲〈被遺忘的人〉全文讀畢。停在多年後的寫作與失去人生的回顧，救援之後的感謝與痛仍並存。下一次接續第一章〈死而復生〉；查檔時曾見第一章片段，不算全文讀畢。"
+	},
+	"current_impression":"序曲把公國歷史與蜚滋的私人記憶放在同一張寫字桌上。寫作維持生活，也讓失去重新可見；耐辛的照料沒有預知救援，博瑞屈與切德救回生命也沒有替蜚滋決定如何理解歸來。保持照料與被照料者痛苦並存，不替他強求感謝。",
+	"updated_at":"2026-10-01"
+}
