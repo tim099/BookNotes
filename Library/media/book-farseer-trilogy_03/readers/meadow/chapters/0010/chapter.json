@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0010",
+	"display_number":"第十章",
+	"title":"招募大會",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-02",
+			"file":"r1_2026-10-02.md",
+			"segments":2
+		}
+	],
+	"schema_version":2
+}
