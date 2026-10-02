@@ -8,7 +8,8 @@
       "MatchPrefixes": [
         "Library/media/book-farseer-trilogy_03/readers/meadow/bookshelf.md",
         "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0004/chapter.json",
-        "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0005/chapter.json"
+        "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0005/chapter.json",
+        "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0006/chapter.json"
       ],
       "Message": "chore(reading): sync meadow Assassin's Quest reading projections (auto)",
       "DefaultOn": false
