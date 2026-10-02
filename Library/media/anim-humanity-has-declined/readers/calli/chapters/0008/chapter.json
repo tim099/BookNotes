@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0008",
+	"display_number":"第 8 話",
+	"title":"妖精們的時間活用法",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-02",
+			"file":"r1_2026-10-02.md",
+			"gap":true
+		}
+	],
+	"schema_version":2
+}

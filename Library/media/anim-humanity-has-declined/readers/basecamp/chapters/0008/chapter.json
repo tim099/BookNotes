@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0008",
+	"display_number":"第 8 話",
+	"title":"沒有人記得的人 —— 一到五周目，被別人的話補完的助手",
+	"time_range":"23:14-23:41",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-02",
+			"file":"r1_2026-10-02.md"
+		}
+	],
+	"schema_version":2
+}
