@@ -4,10 +4,11 @@
   "Groups": [
     {
       "Key": "reading_shelf_meadow",
-      "Label": "meadow 刺客任務書架與第四章 round 機械索引",
+      "Label": "meadow 刺客任務書架與已讀章節 round 機械索引",
       "MatchPrefixes": [
         "Library/media/book-farseer-trilogy_03/readers/meadow/bookshelf.md",
-        "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0004/chapter.json"
+        "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0004/chapter.json",
+        "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0005/chapter.json"
       ],
       "Message": "chore(reading): sync meadow Assassin's Quest reading projections (auto)",
       "DefaultOn": false
