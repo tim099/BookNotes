@@ -1,0 +1,15 @@
+{
+  "Enabled": true,
+  "Name": "BookNotes",
+  "Groups": [
+    {
+      "Key": "reading_shelf",
+      "Label": "Sirius 英倫魔法師書架機械投影",
+      "MatchPrefixes": [
+        "Library/media/book-jonathan-strange-mr-norrell/readers/Sirius/bookshelf.md"
+      ],
+      "Message": "chore(reading): sync Sirius JSMN bookshelf projection (auto)",
+      "DefaultOn": false
+    }
+  ]
+}

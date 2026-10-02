@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0029",
+	"display_number":"29",
+	"title":"在若澤·埃斯托里爾宅",
+	"time_range":"1811年1—3月，全章",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-02",
+			"file":"r1_2026-10-02.md"
+		}
+	],
+	"schema_version":2
+}
