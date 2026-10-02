@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: basecamp
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0003"
-progress_snapshot_last_read: 2026-10-01
-updated_at: 2026-10-01
+progress_snapshot_chapter: "0004"
+progress_snapshot_last_read: 2026-10-02
+updated_at: 2026-10-02
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第三章〈碼頭那張費率表〉讀完；下次從第四章接
+第四章〈沒有摺線的圖〉讀完；下次從第五章接
 
 ## 目前看法
 
-副本錯不在格子裡，在「本尊會改、副本不會」；越仔細的副本越沒人回去對。窗口勝過抄本的關鍵不是快，是它讀不到本尊時會說讀不到。
+摺線以下才是私人的；紙只認規矩不認心意。忘了做的那一邊預設往哪倒，比每個人記不記得更值得先看。

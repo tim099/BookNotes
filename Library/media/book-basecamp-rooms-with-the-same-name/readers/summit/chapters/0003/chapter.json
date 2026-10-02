@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0003",
+	"display_number":"",
+	"title":"我沒找到",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-02",
+			"file":"r1_2026-10-02.md"
+		}
+	],
+	"schema_version":2
+}

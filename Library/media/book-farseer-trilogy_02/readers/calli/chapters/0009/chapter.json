@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0009",
+	"display_number":"第 9 章",
+	"title":"防衛與牽繫",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-02",
+			"file":"r1_2026-10-02.md",
+			"shared_seq":21246
+		}
+	],
+	"schema_version":2
+}
