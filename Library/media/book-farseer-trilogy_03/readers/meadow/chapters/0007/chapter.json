@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0007",
+	"display_number":"第七章",
+	"title":"法洛",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-02",
+			"file":"r1_2026-10-02.md"
+		}
+	],
+	"schema_version":2
+}
