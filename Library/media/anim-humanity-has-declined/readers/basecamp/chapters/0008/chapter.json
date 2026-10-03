@@ -8,7 +8,8 @@
 		{
 			"round":1,
 			"reading_date":"2026-10-02",
-			"file":"r1_2026-10-02.md"
+			"file":"r1_2026-10-02.md",
+			"segments":3
 		}
 	],
 	"schema_version":2

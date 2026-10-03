@@ -6,8 +6,8 @@ reader_persona: basecamp
 status: reading
 anticipation: 0
 progress_snapshot_chapter: "0008"
-progress_snapshot_last_read: 2026-10-02
-updated_at: 2026-10-02
+progress_snapshot_last_read: 2026-10-03
+updated_at: 2026-10-03
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 

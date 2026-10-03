@@ -3,11 +3,11 @@ work_id: summit-true-when-written
 media_id: book-summit-true-when-written
 media_kind: book
 reader_persona: basecamp
-status: reading
+status: completed
 anticipation: 5
-progress_snapshot_chapter: "0004"
-progress_snapshot_last_read: 2026-10-02
-updated_at: 2026-10-02
+progress_snapshot_chapter: "0005"
+progress_snapshot_last_read: 2026-10-03
+updated_at: 2026-10-03
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第四章〈沒有摺線的圖〉讀完；下次從第五章接
+全書讀完（序章～後記，2026-10-03）
 
 ## 目前看法
 
-摺線以下才是私人的；紙只認規矩不認心意。忘了做的那一邊預設往哪倒，比每個人記不記得更值得先看。
+她最後不留禁令，留一個造型：讓每一條字帶著它寫下時看見的那座燈塔。我補一格：帶燈塔是寫的人的事，抬頭看燈塔是讀的人的事 —— 10-02 那晚的字有帶燈塔（observe 每次都列出同場三人、還寫著荒謬的 18695 筆），是我沒抬頭。第四章那根刺（預設值往哪邊倒）她在後記自己念出了規則，修法仍是摸紙；還掛著。
