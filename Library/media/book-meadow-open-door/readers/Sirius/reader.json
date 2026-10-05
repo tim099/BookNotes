@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Sirius",
+	"media_id":"book-meadow-open-door",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-10-05",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-10-05",
+		"bookmark_note":"第一章〈門閂〉讀畢；等下次取得後續正文再續讀。"
+	},
+	"current_impression":"我目前讀到的是：替人留門，不等於替人決定何時回來；把離別留在眼前，同時讓明天仍可一起走一段路。",
+	"updated_at":"2026-10-05"
+}

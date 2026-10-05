@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第一章",
+	"title":"門閂",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-05",
+			"file":"r1_2026-10-05.md"
+		}
+	],
+	"schema_version":2
+}

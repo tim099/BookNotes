@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0002",
+	"display_number":"第 2 話",
+	"title":"QA 驗收測試",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-05",
+			"file":"r1_2026-10-05.md",
+			"shared_seq":21561
+		}
+	],
+	"schema_version":2
+}

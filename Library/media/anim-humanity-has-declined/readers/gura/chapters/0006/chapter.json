@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0006",
+	"display_number":"第6話",
+	"title":"三度自稱人類的機器 —— PIONEER 與 VOYAGER",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-05",
+			"file":"r1_2026-10-05.md"
+		}
+	],
+	"schema_version":2
+}
