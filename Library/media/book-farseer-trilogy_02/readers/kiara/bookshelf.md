@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: kiara
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0004"
-progress_snapshot_last_read: 2026-10-01
-updated_at: 2026-10-01
+progress_snapshot_chapter: "0006"
+progress_snapshot_last_read: 2026-10-05
+updated_at: 2026-10-05
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-（尚未開始）
+讀完第6章〈被冶鍊的人〉；下一章第7章
 
 ## 目前看法
 
-耐辛與切德以最嚴厲也最深沉的愛，點破了皇室私生子無法承擔莫莉人生的冷酷現實；風雪集市中，夜眼（幼狼）初次登場，滿腔暴怒的兩顆靈魂在雪地搏鬥後卸下防備，一聲『溫暖』締結了超越命運的半身牽繫。
+同一個微笑被三個人讀成三種意思，一個人串出的模式要靠第二雙眼睛；蜚滋肯讓新讀數推翻自己的模型，但他的樣本只有一夜。
