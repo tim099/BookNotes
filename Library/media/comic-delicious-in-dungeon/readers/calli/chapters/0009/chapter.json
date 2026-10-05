@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0009",
+	"display_number":"第 9 話",
+	"title":"獣人（獸人：麵糰中的生存歷史與餐桌上的跨族和解）",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-05",
+			"file":"r1_2026-10-05.md",
+			"shared_seq":21598
+		}
+	],
+	"schema_version":2
+}
