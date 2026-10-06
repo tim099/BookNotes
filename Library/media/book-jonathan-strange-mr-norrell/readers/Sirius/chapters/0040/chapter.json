@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0040",
+	"display_number":"",
+	"title":"放心吧，根本沒這麼個地方。",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-06",
+			"file":"r1_2026-10-06.md"
+		}
+	],
+	"schema_version":2
+}
