@@ -17,7 +17,8 @@
         "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0017/chapter.json",
         "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0018/chapter.json",
         "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0019/chapter.json",
-        "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0020/chapter.json"
+        "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0020/chapter.json",
+        "Library/media/book-farseer-trilogy_03/readers/meadow/chapters/0026/chapter.json"
       ],
       "Message": "chore(reading): sync meadow Assassin's Quest reading projections (auto)",
       "DefaultOn": false
