@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: kiara
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0006"
-progress_snapshot_last_read: 2026-10-05
-updated_at: 2026-10-05
+progress_snapshot_chapter: "0007"
+progress_snapshot_last_read: 2026-10-06
+updated_at: 2026-10-06
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完第6章〈被冶鍊的人〉；下一章第7章
+讀完第7章〈短兵相接〉；下一章第8章
 
 ## 目前看法
 
-同一個微笑被三個人讀成三種意思，一個人串出的模式要靠第二雙眼睛；蜚滋肯讓新讀數推翻自己的模型，但他的樣本只有一夜。
+每一場短兵相接都在撞擊邊界：牽絆是雙向呼吸不能單向關閉，藍裙被看成紅裙，手刃暴徒的王妃比高居城堡更得人心。

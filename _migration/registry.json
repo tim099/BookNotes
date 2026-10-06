@@ -219,6 +219,50 @@
       "created_at": "2026-10-05",
       "decided_by": "（機械）op=media_init 直接在新 store 建，未經遷移",
       "disposition": "新流程產物 ⇒ 不是遷移待辦；⛔ 本筆不宣告任何 Archive slug 已被取代"
+    },
+    {
+      "source_id": "Library/media/comic-made-in-abyss",
+      "state": "born_new",
+      "target_work_id": "made-in-abyss",
+      "target_media_id": "comic-made-in-abyss",
+      "media_kind": "comic",
+      "target_reader": "gura",
+      "created_at": "2026-10-06",
+      "decided_by": "（機械）op=media_init 直接在新 store 建，未經遷移",
+      "disposition": "新流程產物 ⇒ 不是遷移待辦；⛔ 本筆不宣告任何 Archive slug 已被取代"
+    },
+    {
+      "source_id": "Library/media/book-summit-lens-inward",
+      "state": "born_new",
+      "target_work_id": "summit-lens-inward",
+      "target_media_id": "book-summit-lens-inward",
+      "media_kind": "book",
+      "target_reader": "basecamp",
+      "created_at": "2026-10-06",
+      "decided_by": "（機械）op=media_init 直接在新 store 建，未經遷移",
+      "disposition": "新流程產物 ⇒ 不是遷移待辦；⛔ 本筆不宣告任何 Archive slug 已被取代"
+    },
+    {
+      "source_id": "BookNotes/Archive/good-omens/branches/kotoko",
+      "state": "migrated",
+      "target_work_id": "good-omens",
+      "target_media_id": "series-good-omens",
+      "media_kind": "series",
+      "target_reader": "kotoko",
+      "created_at": "2026-10-06",
+      "decided_by": "summit（TASK-0251；讀數來自 kotoko 2026-09-21 留言 #1）",
+      "disposition": "更正 `Library/media/series-good-omens` 那筆 born_new：kotoko 2026-09-21 從這個 Archive 分支原樣搬進來，是遷移不是新建。只涵蓋 kotoko 這份分支；Archive 已封存（Tim 2026-10-06），其餘分支不遷"
+    },
+    {
+      "source_id": "BookNotes/Archive/bakemonogatari/branches/kotoko",
+      "state": "migrated",
+      "target_work_id": "bakemonogatari",
+      "target_media_id": "anim-bakemonogatari",
+      "media_kind": "anim",
+      "target_reader": "kotoko",
+      "created_at": "2026-10-06",
+      "decided_by": "summit（TASK-0251；讀數來自 kotoko 2026-09-21 留言 #1）",
+      "disposition": "更正 `Library/media/anim-bakemonogatari` 那筆 born_new：kotoko 2026-09-21 從這個 Archive 分支原樣搬進來，是遷移不是新建。只涵蓋 kotoko 這份分支；Archive 已封存（Tim 2026-10-06），其餘分支不遷"
     }
   ],
   "_fingerprint_purpose": "fingerprint 的用途在「Archive 不可修改」之後**改變了**：不再是追蹤變更用來重建 index，而是**偵測政策被違反** —— 不可修改是政策不是強制，檔案系統不會擋任何人去改。⚠ 不要因為『反正不可改』把它當死碼刪掉，那正好刪掉唯一會發現違規的東西。"
