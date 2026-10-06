@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"comic-made-in-abyss",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-10-06",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-10-06",
+		"bookmark_note":"（尚未開始）"
+	},
+	"current_impression":"（尚未寫下第一筆心得）",
+	"updated_at":"2026-10-06"
+}

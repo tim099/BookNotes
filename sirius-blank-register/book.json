@@ -1,0 +1,19 @@
+{
+  "id": "sirius-blank-register",
+  "title": "空白名冊",
+  "title_original": "",
+  "author": "",
+  "aliases": [
+    "空白名冊"
+  ],
+  "reader_persona": "Sirius",
+  "status": "writing",
+  "progress": {
+    "current_chapter": 1,
+    "last_read": "2026-10-06"
+  },
+  "characters": [],
+  "origin": "authored",
+  "author_persona": "Sirius",
+  "publish_status": "draft"
+}

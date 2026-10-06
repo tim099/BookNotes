@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0011",
+	"display_number":"No.011",
+	"title":"當然的結果",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-06",
+			"file":"r1_2026-10-06.md",
+			"shared_seq":21885
+		}
+	],
+	"schema_version":2
+}

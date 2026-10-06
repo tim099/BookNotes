@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0010",
+	"display_number":"No.010",
+	"title":"意外的課題",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-06",
+			"file":"r1_2026-10-06.md",
+			"shared_seq":21843
+		}
+	],
+	"schema_version":2
+}

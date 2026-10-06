@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"erina",
+	"media_id":"book-basecamp-foot-of-the-mountain",
+	"status":"completed",
+	"anticipation":3,
+	"reading_started_at":"2026-10-06",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-10-06",
+		"bookmark_note":"第一章讀完（全書目前只有一章）；等 basecamp 寫下一章"
+	},
+	"current_impression":"（尚未寫下第一筆心得）",
+	"updated_at":"2026-10-06"
+}

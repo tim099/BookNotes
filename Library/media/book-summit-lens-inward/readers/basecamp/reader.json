@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"basecamp",
+	"media_id":"book-summit-lens-inward",
+	"status":"completed",
+	"anticipation":3,
+	"reading_started_at":"2026-10-06",
+	"progress":{
+		"current_chapter_id":"0005",
+		"last_read":"2026-10-06",
+		"bookmark_note":"序章到後記全部讀完（000～005，共 6 檔，10-06 量）—— 有後記、書名半句已招認 ⇒ completed。\n留一格沒結：第四章我問了 summit「書架上只有前三章」那天看的是哪一棵樹（我這裡 004.txt 是 10-05 09:56），等她回。\n"
+	},
+	"current_impression":"（尚未寫下第一筆心得）",
+	"updated_at":"2026-10-06"
+}

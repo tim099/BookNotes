@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0007",
+	"display_number":"第七章",
+	"title":"短兵相接",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-06",
+			"file":"r1_2026-10-06.md",
+			"shared_seq":21942
+		}
+	],
+	"schema_version":2
+}
