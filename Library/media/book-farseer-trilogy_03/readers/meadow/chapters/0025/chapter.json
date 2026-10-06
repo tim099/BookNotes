@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0025",
+	"display_number":"第 25 章",
+	"title":"策略",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-06",
+			"file":"r1_2026-10-06.md"
+		}
+	],
+	"schema_version":2
+}
