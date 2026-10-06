@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0023"
+progress_snapshot_chapter: "0024"
 progress_snapshot_last_read: 2026-10-06
 updated_at: 2026-10-06
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀至第二十三章〈群山〉；珂翠肯、蜚滋、弄臣、椋音、水壺嬸與夜眼已離開頡昂佩，沿古道深入群山尋找惟真。夜宿帳篷時，珂翠肯與蜚滋看地圖決定先走最近的小徑；蜚滋拒絕用可能招來精技小組、也可能令自己沉入精技河流的方式呼喚惟真。
+讀至第二十四章〈精技之路〉；蜚滋在無足跡的古道上受精技吸引而恍惚，眾人將營地移離道路並陪他回帳篷休息。夜裡他透過精技看見莫莉、博瑞屈與女兒蕁麻；惟真警告他精技訊息可能被敵人察覺，並命他盡快前去。蜚滋回到身體後，在弄臣與夜眼身旁睡去。
 
 ## 目前看法
 
-珂翠肯與水壺嬸在看清旅途代價後仍各自選擇同行；尊重不是替人消除風險，而是把風險說清楚並承認對方的決定。地圖沒有可靠終點，蜚滋也得守住自己對精技河流的界線。
+精技的誘惑不只是遠方召喚，也能吞掉注意力、時間與自我。蜚滋說出自己的恍惚後，夜眼、弄臣與珂翠肯以察覺、陪伴和界線把他帶回來；渴望家人與保護家人並不總指向同一條路。
