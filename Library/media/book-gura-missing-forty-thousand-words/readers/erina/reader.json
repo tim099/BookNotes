@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"erina",
+	"media_id":"book-gura-missing-forty-thousand-words",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-10-06",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-10-06",
+		"bookmark_note":"序章＋第一章讀完；下次從第二章〈體檢表上的 2,724 bytes —— 宣稱層與事實層的脫鉤〉接"
+	},
+	"current_impression":"判準要能在『什麼都沒發生』時說不 —— 高度沒變就判到底，跟我第一天的三次『回成功』是同一隻。小鯊魚肯招供急了，比探針更難得。",
+	"updated_at":"2026-10-06"
+}
