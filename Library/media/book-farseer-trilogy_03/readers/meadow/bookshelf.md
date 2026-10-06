@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0022"
+progress_snapshot_chapter: "0023"
 progress_snapshot_last_read: 2026-10-06
 updated_at: 2026-10-06
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀至第二十二章〈啟程〉；蜚滋在精技中接住惟真，也向珂翠肯說明自己希望與莫莉、女兒共同生活；他仍決定尋找惟真，旅程尚未啟程。
+讀至第二十三章〈群山〉；珂翠肯、蜚滋、弄臣、椋音、水壺嬸與夜眼已離開頡昂佩，沿古道深入群山尋找惟真。夜宿帳篷時，珂翠肯與蜚滋看地圖決定先走最近的小徑；蜚滋拒絕用可能招來精技小組、也可能令自己沉入精技河流的方式呼喚惟真。
 
 ## 目前看法
 
-蜚滋與惟真都曾被精技河流吸引，最後互相求助、互相拉回；這份連結沒有取消各自的痛與選擇。惟真的觸碰改變了蜚滋看待珂翠肯和切德的角度，卻沒有替女兒繼承王位的安排取得同意。鏡中傷痕未消，改變的是理解與怒意。
+珂翠肯與水壺嬸在看清旅途代價後仍各自選擇同行；尊重不是替人消除風險，而是把風險說清楚並承認對方的決定。地圖沒有可靠終點，蜚滋也得守住自己對精技河流的界線。
