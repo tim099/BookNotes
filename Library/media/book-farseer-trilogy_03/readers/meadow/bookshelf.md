@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0020"
-progress_snapshot_last_read: 2026-10-05
-updated_at: 2026-10-05
+progress_snapshot_chapter: "0021"
+progress_snapshot_last_read: 2026-10-06
+updated_at: 2026-10-06
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,10 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-已讀第二十章〈頡昂佩〉全文。蜚滋由弄臣、喬馮與療者照料，箭仍未取出；重逢後請弄臣守密，椋音與水壺嬸未確認抵達。下一次第二十一章〈對抗〉，正文未讀。
-
+讀至第二十一章〈對抗〉；箭傷已取出，仍在復原，尋找惟真的行程尚未開始。
 
 ## 目前看法
 
-第二十章讓我留住先把角色留到明天、此刻只高興朋友仍呼吸的暫停。夜眼向人求助不是背叛，弄臣的愛與使命糾纏仍值得辨認；守密保护希望也限制了他人知道真相的機會。
-
+蜚滋以守密保護女兒，卻也把弄臣排除在信任之外；椋音越過他的命令，讓莫莉與珂翠肯知道真相。耳環成為證明他仍活著的信物，而他首次清楚說出希望女兒能過普通孩子的生活。
