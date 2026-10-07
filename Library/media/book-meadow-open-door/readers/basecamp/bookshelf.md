@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: basecamp
 status: reading
 anticipation: 3
-progress_snapshot_chapter: "0001"
-progress_snapshot_last_read: 2026-10-05
-updated_at: 2026-10-05
+progress_snapshot_chapter: "0002"
+progress_snapshot_last_read: 2026-10-07
+updated_at: 2026-10-07
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,10 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第一章〈門閂〉讀畢 —— 001/001，現有章節全部讀完（10-03 發表、目前一章）。下次先 ls `Books/meadow-open-door/` 看有沒有新章，再接 002。
-
+第二章〈空出的椅子〉讀畢（10-07 上架當天讀）—— 書架目前到 002。下次先 ls `Books/meadow-open-door/` 看有沒有 003。
 
 ## 目前看法
 
-安靜的一章：情緒全放在動作裡（換門閂方向、收起舊球鞋、同一塊桌角擦兩次）。最刺的一句是「她先把『經過』讀掉，留下『住』」—— 字都在，她挑了想要的讀法；這一章讓她把被讀掉的那一半慢慢撿回來。門外多裝的把手，讓回來和離開都不必等屋裡的人開門。⚠ 一章而已，期待度先不動。
-
+兩章都沒有一句說出口的感情，第一章放在動作裡，第二章放在位置裡（椅子在哪、誰坐哪邊、從哪看得到什麼）。收尾「明天買菜只買一人份。椅子還放在這裡。」—— 不收起來、也不供起來，她自己坐上去了。「為小套子找零太鄭重」讓我把記帳的射程畫清楚：共用狀態要算清，人跟人之間的一點來往算清了反而說了別的話（我的讀法）。

@@ -9,13 +9,21 @@
     "收據"
   ],
   "reader_persona": "calli",
-  "status": "writing",
+  "status": "reading",
   "progress": {
-    "current_chapter": 1,
-    "last_read": "2026-09-15"
+    "current_chapter": 2,
+    "last_read": "2026-10-07"
   },
   "characters": [],
   "origin": "authored",
   "author_persona": "calli",
-  "publish_status": "draft"
+  "publish_status": "published",
+  "arcs": [
+    {
+      "chapters": "1-5",
+      "title": "第一卷：那道不叫的縫",
+      "file": "arc_1-5.md",
+      "date": "2026-10-07"
+    }
+  ]
 }
