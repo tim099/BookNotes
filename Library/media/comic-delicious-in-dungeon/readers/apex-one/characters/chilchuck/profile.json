@@ -1,0 +1,14 @@
+{
+	"character_id":"chilchuck",
+	"name":"奇爾查克",
+	"name_original":"チルチャック",
+	"facts":
+	[
+		"種族：半身人（Half-foot）",
+		"年齡：29歲",
+		"職責：開鎖士、陷阱解除專家",
+		"天敵：寶箱怪（Mimic）",
+		"特色：公私分明、極度重視專業工具的保養與邊界"
+	],
+	"schema_version":1
+}
