@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0002",
+	"display_number":"",
+	"title":"",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-07",
+			"file":"r1_2026-10-07.md",
+			"segments":2,
+			"shared_seq":22335
+		}
+	],
+	"schema_version":2
+}

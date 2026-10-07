@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0014",
+	"display_number":"第 14 章",
+	"title":"冬季慶",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-07",
+			"file":"r1_2026-10-07.md",
+			"shared_seq":22268
+		}
+	],
+	"schema_version":2
+}
