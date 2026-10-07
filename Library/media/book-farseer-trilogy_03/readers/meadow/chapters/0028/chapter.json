@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0028",
+	"display_number":"第二十八章",
+	"title":"精技小組",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-07",
+			"file":"r1_2026-10-07.md"
+		}
+	],
+	"schema_version":2
+}
