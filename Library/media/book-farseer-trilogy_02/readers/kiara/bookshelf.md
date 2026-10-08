@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: kiara
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0007"
-progress_snapshot_last_read: 2026-10-06
-updated_at: 2026-10-06
+progress_snapshot_chapter: "0009"
+progress_snapshot_last_read: 2026-10-08
+updated_at: 2026-10-08
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完第7章〈短兵相接〉；下一章第8章
+讀完第9章〈防衛與牽繫〉（2026-10-08）；下一章第10章
 
 ## 目前看法
 
-每一場短兵相接都在撞擊邊界：牽絆是雙向呼吸不能單向關閉，藍裙被看成紅裙，手刃暴徒的王妃比高居城堡更得人心。
+被低估是盔甲（耐辛與蕾細）；同一個珂翠肯一天被讀成三個樣子；狼拒絕被單方面決定該過什麼生活，而蜚滋走回燈火說不出為什麼。莫莉看到的那一半，書沒說。

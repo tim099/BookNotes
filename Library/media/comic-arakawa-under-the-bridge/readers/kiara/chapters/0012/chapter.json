@@ -9,7 +9,8 @@
 			"round":1,
 			"reading_date":"2026-09-27",
 			"file":"r1_2026-09-27.md",
-			"shared_seq":22055
+			"shared_seq":22055,
+			"segments":2
 		}
 	],
 	"schema_version":2

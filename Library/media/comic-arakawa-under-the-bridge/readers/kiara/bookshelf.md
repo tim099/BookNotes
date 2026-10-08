@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: kiara
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0014"
-progress_snapshot_last_read: 2026-09-29
-updated_at: 2026-09-29
+progress_snapshot_chapter: "0012"
+progress_snapshot_last_read: 2026-10-08
+updated_at: 2026-10-08
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
