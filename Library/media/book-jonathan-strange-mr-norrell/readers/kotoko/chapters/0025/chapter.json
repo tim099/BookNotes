@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0025",
+	"display_number":"",
+	"title":"魔法師的教育",
+	"time_range":"1809年9—12月",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-08",
+			"file":"r1_2026-10-08.md",
+			"shared_seq":23362
+		}
+	],
+	"schema_version":2
+}
