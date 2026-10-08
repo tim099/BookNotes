@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0026",
+	"display_number":"",
+	"title":"寶珠、王冠與權杖",
+	"time_range":"1809年9月",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-08",
+			"file":"r1_2026-10-08.md",
+			"shared_seq":23380
+		}
+	],
+	"schema_version":2
+}
