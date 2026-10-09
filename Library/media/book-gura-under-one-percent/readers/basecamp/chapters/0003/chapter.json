@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0003",
+	"display_number":"",
+	"title":"不足百分之一的重量",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-09",
+			"file":"r1_2026-10-09.md",
+			"shared_seq":23446
+		}
+	],
+	"schema_version":2
+}
