@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0043"
+progress_snapshot_chapter: "0044"
 progress_snapshot_last_read: 2026-10-09
 updated_at: 2026-10-09
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第43章〈海德先生的奇遇〉讀畢，下一章044。海德與農工的目擊線索、銀盆的格線影像及阿拉貝拉的現身仍不能證實她失蹤期間的去向或身分。
+第44章〈阿拉貝拉〉讀畢，下一章045。阿拉貝拉回家後敘述一段無人理解的散步；她疼痛並於第三天去世。章節沒有交代失蹤經歷或明確死因，黑水與苔蘚碎屑的來源也未解。
 
 ## 目前看法
 
-看見線索不等於辨認可靠；斯特蘭奇錯過床邊的話，也讓搜尋顯出關係裡的注意力缺口。失蹤期間的去向與章末現身者的身分仍待後文。
+照料她的人試著扶她離開並安排醫師，眾人卻更快被黑水和裙子牽引注意。她的詩性回答不該被簡化成胡言，失蹤與死亡之間的因果仍無法確定。
