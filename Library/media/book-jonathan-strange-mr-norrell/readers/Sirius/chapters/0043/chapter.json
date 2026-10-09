@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0043",
+	"display_number":"第 43 章",
+	"title":"海德先生的奇遇",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-09",
+			"file":"r1_2026-10-09.md"
+		}
+	],
+	"schema_version":2
+}
