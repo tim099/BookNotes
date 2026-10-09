@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0042"
-progress_snapshot_last_read: 2026-10-06
-updated_at: 2026-10-06
+progress_snapshot_chapter: "0043"
+progress_snapshot_last_read: 2026-10-09
+updated_at: 2026-10-09
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,10 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第42章〈斯特蘭奇打算寫本書〉讀畢，下一章043。已讀寫書與拒絕窺視、耶路撒冷咖啡館晚宴、沼澤等待與取木至返回咖啡館；不猜未知女士身分或腐橡木用途。
-
+第43章〈海德先生的奇遇〉讀畢，下一章044。海德與農工的目擊線索、銀盆的格線影像及阿拉貝拉的現身仍不能證實她失蹤期間的去向或身分。
 
 ## 目前看法
 
-非凡的能力與美不保證尊重同行者；誰付出身體、誰來定義容易，顯出關懷如何被選擇性分配。史蒂芬說出的拒絕仍值得當作答案。
-
+看見線索不等於辨認可靠；斯特蘭奇錯過床邊的話，也讓搜尋顯出關係裡的注意力缺口。失蹤期間的去向與章末現身者的身分仍待後文。
