@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0047",
+	"display_number":"第47章",
+	"title":"",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-10",
+			"file":"r1_2026-10-10.md"
+		}
+	],
+	"schema_version":2
+}
