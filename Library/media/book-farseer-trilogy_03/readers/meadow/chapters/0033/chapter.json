@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0033",
+	"display_number":"第三十三章",
+	"title":"露天礦場",
+	"time_range":"full chapter",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-11",
+			"file":"r1_2026-10-11.md"
+		}
+	],
+	"schema_version":2
+}
