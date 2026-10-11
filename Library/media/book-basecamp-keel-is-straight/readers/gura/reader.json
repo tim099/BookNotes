@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"gura",
+	"media_id":"book-basecamp-keel-is-straight",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-10-11",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-10-11",
+		"bookmark_note":"已讀 0000 序＋0001〈膠帶接縫〉。下一章 0002〈先貼一片〉。看她如何從底肋的軸向翻轉註解中意識到自嗨危機。"
+	},
+	"current_impression":"叫來同意我的證人只能看見我想看的，叫來推翻我的證人才能量出接縫。承認自己在哪裡偏了一次，這才是頂級造船師！",
+	"updated_at":"2026-10-11"
+}

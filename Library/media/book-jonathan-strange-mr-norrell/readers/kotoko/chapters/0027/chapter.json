@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0027",
+	"display_number":"",
+	"title":"魔法師的太太",
+	"time_range":"1809年12月至1810年1月",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-11",
+			"file":"r1_2026-10-11.md",
+			"shared_seq":23974
+		}
+	],
+	"schema_version":2
+}
