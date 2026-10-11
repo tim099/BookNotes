@@ -3,7 +3,7 @@
 - slug：basecamp-seen-from-inside（BookNotes／Books 同名）；系列 basecamp-frigate「憲法號造船記」第 2 冊（第 1 冊 basecamp-keel-is-straight）
 - 動筆：2026-10-11 下午，Tim：「更新一下漫畫＋小說吧（把小說也加到 task 吧）」—— 掛在 TASK-0488（圖文版連載同一張單）
 - 為什麼開第二冊：第一冊的續寫筆記寫過「下一段造船若要寫，開第二冊比續在這本後面好 —— 這本的題目是『被糾正的方式』，已經收在窗框裡」，照那個判斷
-- 素材：作品 `Sculpture/works/basecamp-frigate-constitution-01m/` 的 notes.md（階段七～九、v1.2、補空腔）、journal/stage7.md／stage8.md／stage9.md、design/plan.json（planking／gunports／interior 的出處欄）、verify_*.json、check_ports.py／check_interior.py 的輸出；TASK-0489／0490／0496 的單；評審報告（scratchpad 的 critique.json，數字已抄進 notes）
+- 素材：作品 `Sculpture/works/basecamp-frigate-constitution-01m/` 的 notes.md（階段七～十三、v1.2、補空腔、組裝件）、journal/stage7.md／stage8.md／stage9.md、design/plan.json（planking／gunports／interior 的出處欄）、verify_*.json、check_ports.py／check_interior.py 的輸出；TASK-0489／0490／0496 的單；評審報告（scratchpad 的 critique.json，數字已抄進 notes）
 - 紀律：書裡的每一個數字都要能在上面那些地方找到；是我決定的就寫「我決定」；Tim 的話標明是他說的；別人量到、我沒量到的寫明。寫完逐章回讀，專挑數量詞與動詞 —— **這一冊寫到一半就抓到一次：評審的統計我跟 Tim 說成 11／7／2，實際是 8／9／3**（第四章照實寫）
 
 ## 題目
@@ -18,7 +18,10 @@
 | 002 | 第二章　從殼上鋸開 | 讓「之前」叫得回來（時間標記）；照清單標身分；一把永遠綠的尺；我寫了四次的「上下各留一格白帶」；開口後面那道縫；兩千兩百個沒量的空腔 | 完 |
 | 003 | 第三章　影子知道 | Tim 的紅線（垂直的砲門）；抽不出中間那幾刀 ⇒ 重產再算差；一條規則自己找到別人用眼睛找到的六格；補空腔；只有影子不一樣 | 完 |
 | 004 | 第四章　從裡面看 | 從艙裡看得到外面的漆；史料是白的、Tim 要原木；甲板折在艙壁；數漆的尺；三次配色；評審：碎磚、粉紅的 keelson、我寫進出處欄卻沒讀過的一句；從上面才看得到的兩萬五千格；Tim 問肋骨為什麼斜；橫向的 rider；8／9／3 | 完 |
-| 005～ | （待寫）甲板子作品、房間、舷牆與舷弧、桅檣 … | 每階段一章 | — |
+| 005 | 第五章　照砲門排橫樑 | 鏡像那張單已經有人接了；02 號圖的橘色方塊找到一半、Tim「參考就好」；Humphreys 的一句話 ⇒ 階段九的接縫剛好都在兩個砲門之間；carlings 6'10"；柱子沒地方站 ⇒ 一對；V 形底艙的肘斷成台階；plan.json 整份重排 1,783 行；Tim 的組裝件；觀測頁開關那張單被 apex-one 做完 | 完 |
+| 006 | 第六章　鏡面在哪一格 | 三份不同年代的房間；鏡像只給上面的物件；160 翻過去是 159 ⇒ 321 − y0 − h、自己用 320 − y 對；186 穿砲門、587 是前桅、570 留給 bitts；heredoc 的撇號；read 吃掉空欄；隱藏甲板＝隱藏房間（1,131,019） | 完 |
+| 007 | 第七章　兩條平行的線 | 舷頂跟白帶平行（25 格）；空管；1801 年那封信；兩份資料的斜度對不上、照孔走；後桅 92 → 82；bowsprit 的 33 格（說成 knighthead，回查全是 cap rail）；房間的尺只看得到現在（587 矮檻橫過桅孔）；；拆兩個階段套用；components = 2 ⇒ 主桅 top 浮空一格；Tim 的 Unity 截圖 | 完 |
+| 008～ | （待寫）配件（絞盤、梯子、格柵、bitts）、yards 與索具 … | 每階段一章 | — |
 
 ## 用語
 - 「格」＝0.1 公尺的 voxel；「片」＝一張遮罩貼成的一片部件；「刀」＝一次雕刻操作（一個事件）；「草稿」＝雕刻引擎的預雕刻層（apply 才進作品）。
@@ -31,6 +34,7 @@
 
 ## 回讀紀錄
 - 000–004（2026-10-11）：寫完逐章對過數量詞與動詞（見各章下方）。
+- 005–007（2026-10-11 晚）：逐章對過數量詞與動詞，改了三處 —— ① 005 結尾寫「柱子的影子落在甲板上」，那張圖我沒確認過影子 ⇒ 只寫看得到的；② 006 把 587 接縫說成「上一章」留的，其實是第四章；③ 007 寫 bowsprit 刻掉的是「knighthead 和 cap rail」—— 回查每一格是哪一刀來的：32 格全是 cap rail、1 格內板，knighthead 0 ⇒ 改寫成章裡的一段（之前跟 Tim 也是這樣說的，作品 marks.json 的備註一併更正）。
 
 ## 下次從哪開始
-- 第五章 ＝ 甲板子作品（先做 TASK-0497 鏡像）。素材：之後的 notes／journal。
+- 第八章 ＝ 下一個建造階段（配件或 yards）。素材：作品 notes.md「階段十」之後、journal/stage10-13.md 之後的新篇。
