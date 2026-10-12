@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0003",
+	"display_number":"第三章",
+	"title":"少了兩百零五格",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-12",
+			"file":"r1_2026-10-12.md",
+			"shared_seq":22973
+		}
+	],
+	"schema_version":2
+}
