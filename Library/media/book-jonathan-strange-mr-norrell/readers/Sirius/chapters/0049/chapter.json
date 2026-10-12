@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0049",
+	"display_number":"",
+	"title":"狂野與瘋癲",
+	"time_range":"全章",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-12",
+			"file":"r1_2026-10-12.md"
+		}
+	],
+	"schema_version":2
+}
