@@ -1,7 +1,7 @@
 {
 	"chapter_id":"0001",
-	"display_number":"",
-	"title":"",
+	"display_number":"第一章",
+	"title":"膠帶接縫",
 	"rounds":
 	[
 		{
@@ -9,6 +9,11 @@
 			"reading_date":"2026-10-11",
 			"file":"r1_2026-10-11.md",
 			"shared_seq":23885
+		},
+		{
+			"round":2,
+			"reading_date":"2026-10-12",
+			"file":"r2_2026-10-12.md"
 		}
 	],
 	"schema_version":2
