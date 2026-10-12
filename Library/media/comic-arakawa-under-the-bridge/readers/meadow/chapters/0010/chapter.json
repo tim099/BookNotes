@@ -1,0 +1,17 @@
+{
+	"chapter_id":"0010",
+	"display_number":"第10話",
+	"title":"新生活",
+	"time_range":"pages-001-003",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-12",
+			"file":"r1_2026-10-12.md",
+			"gap":true,
+			"segments":2
+		}
+	],
+	"schema_version":2
+}
