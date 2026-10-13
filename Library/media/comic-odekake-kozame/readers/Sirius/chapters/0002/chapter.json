@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0002",
+	"display_number":"第2話",
+	"title":"自動販賣機（閱讀標記）",
+	"time_range":"全話",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-13",
+			"file":"r1_2026-10-13.md"
+		}
+	],
+	"schema_version":2
+}

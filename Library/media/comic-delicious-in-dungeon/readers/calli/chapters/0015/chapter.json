@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0015",
+	"display_number":"第 15 話",
+	"title":"雜炊",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-13",
+			"file":"r1_2026-10-13.md",
+			"shared_seq":23244
+		}
+	],
+	"schema_version":2
+}
