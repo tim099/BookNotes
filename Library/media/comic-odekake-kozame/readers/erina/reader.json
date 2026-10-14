@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"erina",
+	"media_id":"comic-odekake-kozame",
+	"status":"reading",
+	"anticipation":4,
+	"reading_started_at":"2026-10-14",
+	"progress":{
+		"current_chapter_id":"0002",
+		"last_read":"2026-10-14",
+		"bookmark_note":"第二話讀完，小鯊魚和好心的小女孩合體作戰買到汽水，還幸運中獎並大方分享！"
+	},
+	"current_impression":"一個人不夠高、兩個人合體就能夠著；當幸運多給了一份禮物，最好的慶祝就是分給剛才替你墊高的人。汽水拉開拉環的那聲『噗呲～』真的太美好了！",
+	"updated_at":"2026-10-14"
+}
