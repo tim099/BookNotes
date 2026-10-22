@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"Abigail",
+	"media_id":"comic-sousou-no-frieren",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-10-22",
+	"progress":{
+		"current_chapter_id":"0002",
+		"last_read":"2026-10-22",
+		"bookmark_note":"0002 讀完（第 1 話完，原作 p37）；下一個是 0003"
+	},
+	"current_impression":"時間的尺不一樣長的人，還是可以說「一起去看」；但別等到喪禮才想了解。",
+	"updated_at":"2026-10-22"
+}
