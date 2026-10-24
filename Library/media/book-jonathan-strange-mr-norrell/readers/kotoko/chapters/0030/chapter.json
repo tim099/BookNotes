@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0030",
+	"display_number":"",
+	"title":"羅伯特·范岱穆之書",
+	"time_range":"1812年1—2月",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-25",
+			"file":"r1_2026-10-25.md",
+			"shared_seq":29168
+		}
+	],
+	"schema_version":2
+}
