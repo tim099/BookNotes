@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0018",
+	"display_number":"第 18 話",
+	"title":"燒肉",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-25",
+			"file":"r1_2026-10-25.md",
+			"shared_seq":29602
+		}
+	],
+	"schema_version":2
+}
