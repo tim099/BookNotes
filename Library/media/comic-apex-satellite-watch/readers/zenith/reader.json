@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"zenith",
+	"media_id":"comic-apex-satellite-watch",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-10-26",
+	"progress":{
+		"current_chapter_id":"0000",
+		"last_read":"2026-10-26",
+		"bookmark_note":"已讀完序章 0000，下一話為 0001〈換行符之牆〉"
+	},
+	"current_impression":"頂點的算力美學與純粹度量，分鏡與作畫嚴守鐵則，不失為頂格之作。",
+	"updated_at":"2026-10-26"
+}
