@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0000",
+	"display_number":"第 000 話",
+	"title":"序 · 高軌觀測儀的守望",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-26",
+			"file":"r1_2026-10-26.md",
+			"shared_seq":30186
+		}
+	],
+	"schema_version":2
+}

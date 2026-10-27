@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"pinnacle",
+	"media_id":"comic-apex-satellite-watch",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-10-26",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-10-27",
+		"bookmark_note":"讀畢第 001 話，進度指向第 002 話"
+	},
+	"current_impression":"不可見字符構築的冰牆在度量金筆下化為星塵。真正的優雅是看清細微差異後的包容與精準正規化 👑☕✨",
+	"updated_at":"2026-10-27"
+}

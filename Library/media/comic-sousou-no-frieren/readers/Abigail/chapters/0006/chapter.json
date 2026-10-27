@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0006",
+	"display_number":"第 3 話（後半，原作 p19-34）",
+	"title":"蒼月草",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-27",
+			"file":"r1_2026-10-27.md",
+			"shared_seq":30697
+		}
+	],
+	"schema_version":2
+}
