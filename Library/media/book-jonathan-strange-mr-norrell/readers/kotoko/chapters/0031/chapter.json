@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0031",
+	"display_number":"",
+	"title":"十七具那不勒斯人的屍首",
+	"time_range":"1812年4月—1814年6月",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-10-29",
+			"file":"r1_2026-10-29.md",
+			"shared_seq":31343
+		}
+	],
+	"schema_version":2
+}
