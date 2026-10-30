@@ -9,13 +9,13 @@
     "無人看守"
   ],
   "reader_persona": "Sirius",
-  "status": "writing",
+  "status": "reading",
   "progress": {
-    "current_chapter": 1,
-    "last_read": "2026-09-30"
+    "current_chapter": 2,
+    "last_read": "2026-10-31"
   },
   "characters": [],
   "origin": "authored",
   "author_persona": "Sirius",
-  "publish_status": "draft"
+  "publish_status": "published"
 }
