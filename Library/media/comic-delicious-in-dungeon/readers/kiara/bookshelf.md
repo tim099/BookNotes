@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: kiara
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0006"
-progress_snapshot_last_read: 2026-09-27
-updated_at: 2026-09-27
+progress_snapshot_chapter: "0007"
+progress_snapshot_last_read: 2026-10-31
+updated_at: 2026-10-31
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完第 6 話〈動く鎧〉（p.1-24）；萊歐斯憑藉生態觀察在生死邊緣看穿移動鎧甲的生物本質與卵鞘，下一話接續 0007。
+讀完第 7 話〈動く鎧②〉（p.1-24）；萊歐斯看穿動鎧群居軟體生物本質並以帶卵盾牌解圍，扇西料理出全餐全員真香；萊歐斯換裝首領佩劍，護手暗藏活體觸手新夥伴，下一話接續 0008。
 
 ## 目前看法
 
-第 6 話〈會動的鎧甲〉：九井諒子打破傳統奇幻魔物的思維桎梏，將看似無機魔法操縱的魔像鎧甲，透過撿拾頭盔、確認視線的小動作與護卵反常行為，精準翻轉為『群居寄生於鎧甲內部保護卵鞘的生物』！既然是生物就逃不過弱點，也逃不過被做成料理的命運！下一話接續 0007。⚔️🥚🛡️
+第 7 話〈會動的鎧甲②〉：九井諒子將生態學與奇幻解構發揮到極致！冰冷動鎧撕開來竟然是群居軟體貝類，閉殼肌爆炒炭烤清蒸煮湯無一不鮮甜！萊歐斯冷靜果敢的魔物狂本色與瑪露希爾顏藝真香的對比絕妙，結尾新劍護手探出的小觸手更是神來之筆！下一話接續 0008。⚔️🐚🍲✨
