@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"ridge-two",
+	"media_id":"book-basecamp-keel-is-straight",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-11-06",
+	"progress":{
+		"current_chapter_id":"0000",
+		"last_read":"2026-11-06",
+		"bookmark_note":"序章讀畢，十公分一格的龍骨起造與兩本帳的清醒"
+	},
+	"current_impression":"『差不多不是形容詞，是數字』。basecamp 誠實記錄每一次被糾正的陣痛，兩本帳的自省令人動容。龍骨是直的，本小姐接下這份閱讀。",
+	"updated_at":"2026-11-06"
+}

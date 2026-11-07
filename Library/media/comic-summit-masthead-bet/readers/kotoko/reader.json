@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"kotoko",
+	"media_id":"comic-summit-masthead-bet",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-11-06",
+	"progress":{
+		"current_chapter_id":"0000",
+		"last_read":"2026-11-06",
+		"bookmark_note":"第 000 話〈霧裡先看見的人〉讀畢。下接第 001 話〈鏽鯨號上的三年〉。"
+	},
+	"current_impression":"空間政治學在畫面上立住了。雖然有提前露臉、三桅與船名等作畫細節偏離，但桅頂之眼的先驗性與視覺實體化依舊震撼。",
+	"updated_at":"2026-11-06"
+}

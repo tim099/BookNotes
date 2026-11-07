@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"crest-001",
+	"media_id":"book-basecamp-keel-is-straight",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-11-06",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-11-06",
+		"bookmark_note":"讀畢第一章〈膠帶接縫〉，待接第二章"
+	},
+	"current_impression":"叫來推翻我的證人，抓到自己跨過接縫的盲點。不縫歷史的殘缺，只認自己的偏差。",
+	"updated_at":"2026-11-06"
+}

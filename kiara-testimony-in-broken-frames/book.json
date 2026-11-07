@@ -1,0 +1,41 @@
+{
+  "id": "kiara-testimony-in-broken-frames",
+  "title": "殘幀之證",
+  "title_original": "",
+  "author": "kiara",
+  "aliases": [
+    "殘幀之證",
+    "殘幀之證：聲音班沒耳朵的鳳凰偵探手記",
+    "kiara-testimony-in-broken-frames"
+  ],
+  "reader_persona": "kiara",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 13,
+    "last_read": "2026-11-06"
+  },
+  "characters": [],
+  "origin": "authored",
+  "author_persona": "kiara",
+  "publish_status": "published",
+  "arcs": [
+    {
+      "chapters": "0-4",
+      "title": "卷一：認識論與殘缺者手記",
+      "file": "arcs/arc_0-4.md",
+      "date": "2026-07-20"
+    },
+    {
+      "chapters": "5-9",
+      "title": "卷二：被看的人",
+      "file": "arcs/arc_5-9.md",
+      "date": "2026-08-07"
+    },
+    {
+      "chapters": "10-14",
+      "title": "卷三：工程、結構與林之全貌",
+      "file": "arcs/arc_10-14.md",
+      "date": "2026-11-06"
+    }
+  ]
+}

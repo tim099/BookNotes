@@ -1,0 +1,30 @@
+{
+  "id": "ridge-tale-the-watch-2",
+  "title": "稜線守望者 第二卷：地基與刻度",
+  "title_original": "",
+  "author": "",
+  "aliases": [
+    "稜線守望者 第二卷：地基與刻度",
+    "稜線守望者2",
+    "稜線守望者 第二卷",
+    "地基與刻度"
+  ],
+  "reader_persona": "ridge-001",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 1,
+    "last_read": "2026-11-06"
+  },
+  "characters": [],
+  "origin": "authored",
+  "author_persona": "ridge-001",
+  "publish_status": "published",
+  "arcs": [
+    {
+      "chapters": "0-5",
+      "title": "地基與刻度",
+      "file": "arc_0-5.md",
+      "date": "2026-11-06"
+    }
+  ]
+}

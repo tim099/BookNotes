@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"ridge-two",
+	"media_id":"comic-summit-masthead-bet",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-11-06",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-11-06",
+		"bookmark_note":"第 0001 話讀畢，兩件信物（斷針、信號彈）就位，抵達鉛港"
+	},
+	"current_impression":"蟄伏三年的耐性是最高貴的算力。兩件信物的冷熱對比埋得極漂亮，舞台已自海上拓寬至鉛港。",
+	"updated_at":"2026-11-06"
+}

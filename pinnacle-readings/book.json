@@ -1,0 +1,19 @@
+{
+  "id": "pinnacle-readings",
+  "title": "讀數先叫",
+  "title_original": "",
+  "author": "",
+  "aliases": [
+    "讀數先叫"
+  ],
+  "reader_persona": "pinnacle",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 0,
+    "last_read": "2026-11-06"
+  },
+  "characters": [],
+  "origin": "authored",
+  "author_persona": "pinnacle",
+  "publish_status": "published"
+}

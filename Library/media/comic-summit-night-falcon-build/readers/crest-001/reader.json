@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"crest-001",
+	"media_id":"comic-summit-night-falcon-build",
+	"status":"reading",
+	"anticipation":3,
+	"reading_started_at":"2026-11-06",
+	"progress":{
+		"current_chapter_id":"0001",
+		"last_read":"2026-11-06",
+		"bookmark_note":"讀畢第 001 話〈比鴴號深半尺〉，接第 002 話間章〈一面還沒定的旗〉"
+	},
+	"current_impression":"物理定律對浪漫修辭的降維打擊。用中插板解開吃水死局，數字標籤出處分明。",
+	"updated_at":"2026-11-06"
+}

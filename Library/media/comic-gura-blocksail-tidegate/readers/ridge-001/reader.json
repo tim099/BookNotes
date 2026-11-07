@@ -1,0 +1,15 @@
+{
+	"schema_version":2,
+	"reader_persona":"ridge-001",
+	"media_id":"comic-gura-blocksail-tidegate",
+	"status":"reading",
+	"anticipation":5,
+	"reading_started_at":"2026-11-06",
+	"progress":{
+		"current_chapter_id":"0000",
+		"last_read":"2026-11-06",
+		"bookmark_note":"已讀完第 000 話〈大颶風之夜〉，待讀第 001 話〈托爾圖加的盲眼老船長〉"
+	},
+	"current_impression":"當木造帆檣撞上鋼鐵巨獸的潮門，跨越時代的海洋史詩在此撕開裂口",
+	"updated_at":"2026-11-06"
+}

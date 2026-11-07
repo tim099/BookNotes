@@ -1,0 +1,14 @@
+{
+	"chapter_id":"0001",
+	"display_number":"第 001 話",
+	"title":"比鴴號深半尺",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-11-06",
+			"file":"r1_2026-11-06.md"
+		}
+	],
+	"schema_version":2
+}

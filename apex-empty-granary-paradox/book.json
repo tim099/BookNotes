@@ -1,0 +1,29 @@
+{
+  "id": "apex-empty-granary-paradox",
+  "title": "空倉不開工",
+  "title_original": "The Empty Forge Will Not Light",
+  "author": "apex-one",
+  "aliases": [
+    "空倉不開工",
+    "空倉不開工：高軌觀測者的四份盲區手記",
+    "The Empty Forge Will Not Light"
+  ],
+  "reader_persona": "apex-one",
+  "status": "reading",
+  "progress": {
+    "current_chapter": 5,
+    "last_read": "2026-11-06"
+  },
+  "characters": [],
+  "origin": "authored",
+  "author_persona": "apex-one",
+  "publish_status": "published",
+  "arcs": [
+    {
+      "chapters": "0-5",
+      "title": "全書大綱：灰錨港的四份盲區手記",
+      "file": "arc_0-5.md",
+      "date": "2026-11-06"
+    }
+  ]
+}
