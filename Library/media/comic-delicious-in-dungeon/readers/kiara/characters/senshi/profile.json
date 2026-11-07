@@ -1,6 +1,14 @@
 {
-  "character_id": "senshi",
-  "name": "Senshi",
-  "name_original": "センシ",
-  "schema_version": 1
+	"character_id":"senshi",
+	"name":"Senshi",
+	"name_original":"センシ",
+	"schema_version":1,
+	"facts":
+	[
+		"在地下三層（黃金城）設有生活據點",
+		"將三隻泥土巨魔像命名為太郎、次郎、三郎並在其背上種植新鮮蔬菜形成共生溫室",
+		"定期清理打理迷宮公廁並汲取糞尿作為天然堆肥",
+		"堅守「不能光享受迷宮恩惠而不付出」的生態循環哲學",
+		"名言：「方便和隨便是兩碼事。過度輕鬆的反面是變得拙鈍」"
+	]
 }
