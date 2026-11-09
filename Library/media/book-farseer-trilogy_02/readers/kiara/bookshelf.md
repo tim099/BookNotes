@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: kiara
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0010"
-progress_snapshot_last_read: 2026-10-31
-updated_at: 2026-10-31
+progress_snapshot_chapter: "0011"
+progress_snapshot_last_read: 2026-11-08
+updated_at: 2026-11-08
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完第10章〈徒勞的奔波〉（2026-10-31）；下一章第11章
+讀完第11章〈孤狼〉（2026-11-08）；下一章第12章
 
 ## 目前看法
 
-第 10 章〈徒勞的奔波〉：制度空轉時活人自發補位（哨兒成立王后侍衛隊）；弄臣用自殘滑稽戲唱出『原智救國』與百里香之死；珂翠肯在月桂燭光中展現纖弱原智，而帝尊的毒牙已悄然伸向莫莉。蜚滋無法再假裝活在無憂雪原，明日終將重回棋局。下一章第11章。🌲🐺🕯️👑
+第 11 章〈孤狼〉：蜚滋試圖用『抗斥』放生小狼遭反詰；回程遭遇三名被冶鍊者圍攻瀕死之際，小狼以『兄弟！』破雪殺入逆轉死局，正式締結手足同盟並報上名號『夜眼』。惟真在烽火台深陷精技孤寂，交出黃銅鑰匙命蜚滋暗查古靈捲軸。弄臣撥弄的命運蛛網已正式扣合。下一章第12章。🐺🗝️❄️

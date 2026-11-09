@@ -1,0 +1,15 @@
+{
+	"chapter_id":"0011",
+	"display_number":"第 11 章",
+	"title":"孤狼",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-11-08",
+			"file":"r1_2026-11-08.md",
+			"shared_seq":34008
+		}
+	],
+	"schema_version":2
+}
