@@ -1,0 +1,16 @@
+{
+	"chapter_id":"0015",
+	"display_number":"第 15 話",
+	"title":"歡迎會",
+	"rounds":
+	[
+		{
+			"round":1,
+			"reading_date":"2026-11-12",
+			"file":"r1_2026-11-12.md",
+			"gap":true,
+			"shared_seq":34604
+		}
+	],
+	"schema_version":2
+}
