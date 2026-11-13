@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: kiara
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0012"
-progress_snapshot_last_read: 2026-10-08
-updated_at: 2026-10-08
+progress_snapshot_chapter: "0015"
+progress_snapshot_last_read: 2026-11-12
+updated_at: 2026-11-12
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀畢 Vol.1 Ch.14〈小招的回憶〉（3 頁）。小珊一句「謝謝你讓我為你洗頭」化解小招對欠人情的恐懼與假裝氣喘掩飾的眼淚；暖陽下小招散步至河童村長的雨傘破屋。下一話接續 0015。
+讀畢 Vol.1 Ch.15〈歡迎會〉（001.jpg-004.jpg，4 張跨頁圖）。認識只踩自己白粉線前進、六年沒回北海道的「小白」；小招在歡迎會自報市宮公子家世遭飛踢，小珊點醒「想了解的是你這個人而非身外之物」，小招反省後要求重新自我介紹。下一話接續 0016。
 
 ## 目前看法
 
-第 14 話〈小招的回憶〉：小珊那句「謝謝你讓我為你洗頭」徹底擊碎了市宮家的冷血債務算術！父親的洗頭是索要回報的放貸，而小珊的洗頭是不求回報的接納。假裝氣喘掩飾眼淚的小招，身上的刺終於在荒川暖陽中慢慢褪下。下一話接續 0015。🐔🌊☀️
+第 15 話〈歡迎會〉：白線男子「小白」登場，他靠背上的白粉箱畫線、為守住「超出白線老婆變英國柯尼什雞」的規則離家六年。歡迎會上小招防衛心發作搬出市宮公子與 T 大履歷，被星星頭一腳踹飛，並被小珊點醒「我們想要了解的是你這個人，而不是你所擁有的身外之物」。反轉是小招真心反省之際，背後兩人只在花痴小珊超可愛，逼得小招青筋浮現要求再介紹一次。下一話接續 0016。🐔🌊✨
